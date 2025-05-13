@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "title": "테스트 정책",
+    "deadline": "2025-12-31",
+    "link": "https://example.com"
+  }
+]
