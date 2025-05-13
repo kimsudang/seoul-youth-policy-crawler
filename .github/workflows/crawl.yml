@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *' # 매일 자정 (UTC 기준 = 오전 9시 KST)
   workflow_dispatch: # 수동 실행 버튼도 GitHub UI에 표시됨
 
+permissions:
+  contents: write
+
 jobs:
   crawl:
     runs-on: ubuntu-latest
