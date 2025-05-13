@@ -34,5 +34,7 @@ jobs:
 
           git add data/policy-list.json
 
+          git pull origin main
+
           # 변경된 내용이 있다면 커밋
           git diff --cached --quiet || (git commit -m "🔄 자동 크롤링 데이터 업데이트" && git push)
