@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # ✅ 전체 커밋 이력 받아오기
 
       - name: 🟢 Setup Node.js
         uses: actions/setup-node@v3
