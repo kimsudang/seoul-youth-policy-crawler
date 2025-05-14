@@ -3,7 +3,6 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-// __dirname 대체 코드
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -15,7 +14,7 @@ export default async function crawlMainList() {
 
   console.log('🌀 마지막 페이지 번호 가져오는 중...');
 
-  await page.goto(`${BASE_URL}&pageIndex=1`, { waitUntil: 'domcontentloaded' });
+  await page.goto(`${BASE_URL}&pageIndex=1`, { waitUntil: 'networkidle' });
 
   const lastPage = await page.$$eval('.pagination li:not(.next):not(.prev)', (pages) => {
     const numbers = pages.map((el) => parseInt(el.innerText)).filter(Boolean);
@@ -29,7 +28,15 @@ export default async function crawlMainList() {
   for (let pageIndex = lastPage; pageIndex >= 1; pageIndex--) {
     console.log(`📄 ${pageIndex} 페이지 크롤링 중...`);
 
-    await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, { waitUntil: 'domcontentloaded' });
+    await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, { waitUntil: 'networkidle' });
+
+    // 요소가 존재할 때까지 대기 (최대 5초)
+    try {
+      await page.waitForSelector('.board-list-box ul li', { timeout: 5000 });
+    } catch (err) {
+      console.log(`⚠️ ${pageIndex} 페이지에 게시글 요소가 없습니다 (건너뜀)`);
+      continue;
+    }
 
     const pageData = await page.$$eval('.board-list-box ul li', (items) => {
       return items.map((item) => ({
@@ -38,6 +45,8 @@ export default async function crawlMainList() {
         date: item.querySelector('.board-date')?.innerText.trim(),
       }));
     });
+
+    console.log(`✅ ${pageIndex} 페이지에서 ${pageData.length}개의 항목 수집`);
 
     if (pageData.length === 0) {
       console.log(`🛑 ${pageIndex} 페이지는 비어 있음 → 종료`);
@@ -50,7 +59,7 @@ export default async function crawlMainList() {
   const outputPath = path.join(__dirname, '../data/main-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
-  console.log(`✅ 크롤링 완료! 총 ${results.length}개의 항목 저장됨`);
+  console.log(`✅ [완료] 전체 ${results.length}개의 정책 저장됨`);
 
   await browser.close();
 }
