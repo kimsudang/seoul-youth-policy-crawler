@@ -1,5 +1,5 @@
-const crawlMainList = require('./crawl-mainList');
-const crawlGuList = require('./crawl-guList');
+import crawlMainList from './crawl-mainList';
+import crawlGuList from './crawl-guList';
 
 (async () => {
   await crawlMainList();
