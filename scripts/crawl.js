@@ -1,5 +1,5 @@
-import crawlMainList from './crawl-mainList';
-import crawlGuList from './crawl-guList';
+import crawlMainList from './crawl-mainList.js';
+import crawlGuList from './crawl-guList.js';
 
 (async () => {
   await crawlMainList();
