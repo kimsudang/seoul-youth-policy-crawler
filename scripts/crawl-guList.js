@@ -16,9 +16,10 @@ export default async function crawlGuList() {
 
   await page.goto(`${BASE_URL}&pageIndex=1`, { waitUntil: 'networkidle' });
 
-  const lastPage = await page.$$eval('.pagination li:not(.next):not(.prev)', (pages) => {
-    const numbers = pages.map((el) => parseInt(el.innerText)).filter(Boolean);
-    return Math.max(...numbers);
+  const lastPage = await page.$eval('.pagination a.last', (el) => {
+    const onclick = el.getAttribute('onclick');
+    const match = onclick.match(/fn_egov_link_page\((\d+)\)/);
+    return match ? parseInt(match[1]) : 1;
   });
 
   console.log(`✅ [구정책] 마지막 페이지: ${lastPage} 페이지`);
@@ -31,26 +32,22 @@ export default async function crawlGuList() {
     await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, { waitUntil: 'networkidle' });
 
     try {
-      await page.waitForSelector('.board-list-box ul li', { timeout: 5000 });
-    } catch (err) {
-      console.log(`⚠️ [구정책] ${pageIndex} 페이지에 게시글 요소가 없습니다 (건너뜀)`);
+      await page.waitForSelector('ul.policy-list > li', { timeout: 5000 });
+    } catch {
+      console.log(`⚠️ [구정책] ${pageIndex} 페이지에 리스트 없음 (건너뜀)`);
       continue;
     }
 
-    const pageData = await page.$$eval('.board-list-box ul li', (items) => {
-      return items.map((item) => ({
-        title: item.querySelector('.board-title')?.innerText.trim(),
-        link: item.querySelector('a')?.href,
-        date: item.querySelector('.board-date')?.innerText.trim(),
-      }));
-    });
+    const pageData = await page.$$eval('ul.policy-list > li', (items) =>
+      items.map((item) => ({
+        region: item.querySelector('.bg-purple')?.innerText.trim() ?? null,
+        title: item.querySelector('.tit')?.innerText.trim() ?? null,
+        description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
+        link: item.querySelector('a')?.getAttribute('onclick') ?? null,
+      }))
+    );
 
-    console.log(`✅ [구정책] ${pageIndex} 페이지에서 ${pageData.length}개의 항목 수집`);
-
-    if (pageData.length === 0) {
-      console.log(`🛑 [구정책] ${pageIndex} 페이지는 비어 있음 → 종료`);
-      break;
-    }
+    console.log(`✅ [구정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`);
 
     results.push(...pageData);
   }
@@ -58,7 +55,6 @@ export default async function crawlGuList() {
   const outputPath = path.join(__dirname, '../data/gu-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
-  console.log(`✅ [구정책 완료] 전체 ${results.length}개의 정책 저장됨`);
-
+  console.log(`🎉 [구정책 완료] 총 ${results.length}개 저장됨`);
   await browser.close();
 }
