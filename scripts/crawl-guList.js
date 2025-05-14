@@ -1,10 +1,15 @@
 import { chromium } from 'playwright';
-import { writeFileSync } from 'fs';
-import { join } from 'path';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+// __dirname 대체 코드
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 const BASE_URL = 'https://youth.seoul.go.kr/infoData/plcyInfo/guList.do?plcyBizId=&tab=001&key=2309150002&sc_detailAt=&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=';
 
-async function crawlGuList() {
+export default async function crawlGuList() {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
@@ -42,12 +47,10 @@ async function crawlGuList() {
     results.push(...pageData);
   }
 
-  const outputPath = join(__dirname, '../data/gu-policy-list.json');
-  writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
+  const outputPath = path.join(__dirname, '../data/gu-policy-list.json');
+  fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
   console.log(`✅ [구정책] 크롤링 완료! 총 ${results.length}개의 항목 저장됨`);
 
   await browser.close();
 }
-
-export default crawlGuList;

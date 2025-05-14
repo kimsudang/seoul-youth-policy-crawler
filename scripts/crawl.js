@@ -1,8 +1,10 @@
 import crawlMainList from './crawl-mainList.js';
 import crawlGuList from './crawl-guList.js';
 
-(async () => {
+const main = async () => {
   await crawlMainList();
   await crawlGuList();
   console.log('✅ 두 개의 정책 크롤링 완료!');
-})();
+};
+
+main();
