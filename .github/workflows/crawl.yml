@@ -37,7 +37,7 @@ jobs:
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
 
-          git add data/policy-list.json
+          git add data/*.json
 
           # 변경된 내용이 있다면 커밋
           git diff --cached --quiet || (git commit -m "🔄 자동 크롤링 데이터 업데이트" && git push)
