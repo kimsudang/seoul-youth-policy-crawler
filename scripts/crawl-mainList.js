@@ -43,8 +43,7 @@ export default async function crawlMainList() {
         region: item.querySelector('span')?.innerText.trim() ?? null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
-        fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
-        link: fullLink.slice(9, -3) ?? null,
+        link: item.querySelector('a')?.getAttribute('onclick').slice(9, -3) ?? null,
       }))
     );
 
