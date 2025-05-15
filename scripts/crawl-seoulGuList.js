@@ -6,13 +6,13 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BASE_URL = 'https://youth.seoul.go.kr/infoData/plcyInfo/ctList.do?sprtInfoId=&plcyBizId=&key=2309150002&sc_detailAt=&orderBy=regYmd+desc&blueWorksYn=N&tabKind=002&sw=';
+const BASE_URL = 'https://youth.seoul.go.kr/infoData/plcyInfo/guList.do?plcyBizId=&tab=001&key=2309150002&sc_detailAt=&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=';
 
-export default async function crawlMainList() {
+export default async function crawlSeoulGuList() {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
-  console.log('🌀 [전체정책] 마지막 페이지 번호 가져오는 중...');
+  console.log('🌀 [서울시구정책] 마지막 페이지 번호 가져오는 중...');
 
   await page.goto(`${BASE_URL}&pageIndex=1`, { waitUntil: 'networkidle' });
 
@@ -22,39 +22,39 @@ export default async function crawlMainList() {
     return match ? parseInt(match[1]) : 1;
   });
 
-  console.log(`✅ [전체정책] 마지막 페이지: ${lastPage} 페이지`);
+  console.log(`✅ [서울시구정책] 마지막 페이지: ${lastPage} 페이지`);
 
   const results = [];
 
   for (let pageIndex = lastPage; pageIndex >= 1; pageIndex--) {
-    console.log(`📄 [전체정책] ${pageIndex} 페이지 크롤링 중...`);
+    console.log(`📄 [서울시구정책] ${pageIndex} 페이지 크롤링 중...`);
 
     await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, { waitUntil: 'networkidle' });
 
     try {
       await page.waitForSelector('ul.policy-list > li', { timeout: 5000 });
     } catch {
-      console.log(`⚠️ [전체정책] ${pageIndex} 페이지에 리스트 없음 (건너뜀)`);
+      console.log(`⚠️ [서울시구정책] ${pageIndex} 페이지에 리스트 없음 (건너뜀)`);
       continue;
     }
 
     const pageData = await page.$$eval('ul.policy-list > li', (items) =>
       items.map((item) => ({
-        region: item.querySelector('span')?.innerText.trim() ?? null,
+        region: item.querySelector('.bg-purple')?.innerText.trim() ?? null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
-        link: item.querySelector('a')?.getAttribute('onclick').slice(9, -3) ?? null,
+        link: item.querySelector('a')?.getAttribute('onclick') ?? null,
       }))
     );
 
-    console.log(`✅ [전체정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`);
+    console.log(`✅ [서울시구정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`);
 
     results.push(...pageData);
   }
 
-  const outputPath = path.join(__dirname, '../data/main-policy-list.json');
+  const outputPath = path.join(__dirname, '../data/gu-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
-  console.log(`🎉 [전체정책 완료] 총 ${results.length}개 저장됨`);
+  console.log(`🎉 [서울시구정책 완료] 총 ${results.length}개 저장됨`);
   await browser.close();
 }

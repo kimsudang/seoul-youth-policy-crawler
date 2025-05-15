@@ -1,4 +1,4 @@
-name: 🔄 Crawl and Commit Youth Policies
+name: 🔄 Crawl and Commit Seoul Youth Policies
 
 on:
   schedule:
@@ -30,7 +30,7 @@ jobs:
         run: npx playwright install
 
       - name: 🤖 Run playwright crawl script
-        run: node scripts/crawl.js
+        run: node scripts/crawl-seoul.js
 
       - name: 💾 Commit and push if data changed
         run: |
@@ -40,4 +40,4 @@ jobs:
           git add data/*.json
 
           # 변경된 내용이 있다면 커밋
-          git diff --cached --quiet || (git commit -m "🔄 자동 크롤링 데이터 업데이트" && git push)
+          git diff --cached --quiet || (git commit -m "🔄 서울시 정책 자동 크롤링 데이터 업데이트" && git push)
