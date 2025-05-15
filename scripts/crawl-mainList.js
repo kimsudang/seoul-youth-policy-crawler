@@ -40,10 +40,11 @@ export default async function crawlMainList() {
 
     const pageData = await page.$$eval('ul.policy-list > li', (items) =>
       items.map((item) => ({
-        region: item.querySelector('.bg-purple')?.innerText.trim() ?? null,
+        region: item.querySelector('span')?.innerText.trim() ?? null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
-        link: item.querySelector('a')?.getAttribute('onclick') ?? null,
+        fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
+        link: fullLink.slice(9, -3) ?? null,
       }))
     );
 
