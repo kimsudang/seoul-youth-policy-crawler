@@ -859,15 +859,15 @@
   },
   {
     "region": null,
-    "title": "서울시 청년정책 웹드라마 <서울에 삽니다> 시나리오 공모전",
-    "description": "서울시 청년정책 웹드라마 <서울에 삽니다> 시나리오 공모전",
-    "link": "goView('R2024080525724');"
-  },
-  {
-    "region": null,
     "title": "보증금지원형 장기안심주택 신규 입주자 모집",
     "description": "보증금지원형 장기안심주택 신규 입주자 모집",
     "link": "goView('R2024080525748');"
+  },
+  {
+    "region": null,
+    "title": "서울시 청년정책 웹드라마 <서울에 삽니다> 시나리오 공모전",
+    "description": "서울시 청년정책 웹드라마 <서울에 삽니다> 시나리오 공모전",
+    "link": "goView('R2024080525724');"
   },
   {
     "region": null,
@@ -901,12 +901,6 @@
   },
   {
     "region": null,
-    "title": "청년일자리 매칭전담창구 운영",
-    "description": "청년일자리 매칭전담창구 운영",
-    "link": "goView('R2024051022690');"
-  },
-  {
-    "region": null,
     "title": "서울청년 기업 직무체험 프로젝트",
     "description": "서울청년 기업 직무체험 프로젝트",
     "link": "goView('R2024051022691');"
@@ -919,6 +913,12 @@
   },
   {
     "region": null,
+    "title": "서울 희망대학 진로장학금",
+    "description": "서울 희망대학 진로장학금",
+    "link": "goView('R2024051322755');"
+  },
+  {
+    "region": null,
     "title": "꿈나래통장 사업",
     "description": "꿈나래통장 사업",
     "link": "goView('R2024052123085');"
@@ -928,12 +928,6 @@
     "title": "청년 치아 미백 및 검진 지원 사업 참여자 모집",
     "description": "청년 치아 미백 및 검진 지원 사업 참여자 모집",
     "link": "goView('R2024052823437');"
-  },
-  {
-    "region": null,
-    "title": "서울희망대학진로장학금",
-    "description": "서울희망대학진로장학금",
-    "link": "goView('R2024051022708');"
   },
   {
     "region": null,
@@ -961,15 +955,9 @@
   },
   {
     "region": null,
-    "title": "서울 희망대학 진로장학금",
-    "description": "서울 희망대학 진로장학금",
-    "link": "goView('R2024051322755');"
-  },
-  {
-    "region": null,
-    "title": "행복주택 입주자모집(서울리츠 행복주택)",
-    "description": "행복주택 입주자모집(서울리츠 행복주택)",
-    "link": "goView('R2024050922663');"
+    "title": "청년일자리 매칭전담창구 운영",
+    "description": "청년일자리 매칭전담창구 운영",
+    "link": "goView('R2024051022690');"
   },
   {
     "region": null,
@@ -985,9 +973,21 @@
   },
   {
     "region": null,
+    "title": "서울 청년 밀키트 창업지원",
+    "description": "서울 청년 밀키트 창업지원",
+    "link": "goView('R2024051022710');"
+  },
+  {
+    "region": null,
     "title": "서울희망공익인재장학금",
     "description": "서울희망공익인재장학금",
     "link": "goView('R2024051022707');"
+  },
+  {
+    "region": null,
+    "title": "서울희망대학진로장학금",
+    "description": "서울희망대학진로장학금",
+    "link": "goView('R2024051022708');"
   },
   {
     "region": null,
@@ -997,15 +997,15 @@
   },
   {
     "region": null,
-    "title": "서울 청년 해외 원정대",
-    "description": "서울 청년 해외 원정대",
-    "link": "goView('R2024050922624');"
-  },
-  {
-    "region": null,
     "title": "2024년 서울 고립·은둔청년 지원사업",
     "description": "2024년 서울 고립·은둔청년 지원사업",
     "link": "goView('R2024050922643');"
+  },
+  {
+    "region": null,
+    "title": "서울 청년 해외 원정대",
+    "description": "서울 청년 해외 원정대",
+    "link": "goView('R2024050922624');"
   },
   {
     "region": null,
@@ -1015,9 +1015,9 @@
   },
   {
     "region": null,
-    "title": "서울 청년 밀키트 창업지원",
-    "description": "서울 청년 밀키트 창업지원",
-    "link": "goView('R2024051022710');"
+    "title": "행복주택 입주자모집(서울리츠 행복주택)",
+    "description": "행복주택 입주자모집(서울리츠 행복주택)",
+    "link": "goView('R2024050922663');"
   },
   {
     "region": null,
@@ -1063,9 +1063,9 @@
   },
   {
     "region": null,
-    "title": "서울시 지역연계형 청년 창업 지원사업",
-    "description": "서울시 지역연계형 청년 창업 지원사업",
-    "link": "goView('R2024041621831');"
+    "title": "지역주도형 청년일자리",
+    "description": "지역주도형 청년일자리",
+    "link": "goView('R2024041621833');"
   },
   {
     "region": null,
@@ -1075,33 +1075,9 @@
   },
   {
     "region": null,
-    "title": "지역주도형 청년일자리",
-    "description": "지역주도형 청년일자리",
-    "link": "goView('R2024041621833');"
-  },
-  {
-    "region": null,
-    "title": "자립준비청년 교통비 지원사업",
-    "description": "자립준비청년 교통비 지원사업",
-    "link": "goView('R2024041221734');"
-  },
-  {
-    "region": null,
-    "title": "자립준비청년 자립수당",
-    "description": "자립준비청년 자립수당",
-    "link": "goView('R2024041221731');"
-  },
-  {
-    "region": null,
-    "title": "서울시 골목창업학교",
-    "description": "서울시 골목창업학교",
-    "link": "goView('R2024041221761');"
-  },
-  {
-    "region": null,
-    "title": "서울 청년창업꿈터 운영",
-    "description": "서울 청년창업꿈터 운영",
-    "link": "goView('R2024041221760');"
+    "title": "서울시 지역연계형 청년 창업 지원사업",
+    "description": "서울시 지역연계형 청년 창업 지원사업",
+    "link": "goView('R2024041621831');"
   },
   {
     "region": null,
@@ -1111,15 +1087,27 @@
   },
   {
     "region": null,
-    "title": "한지붕세대공감",
-    "description": "한지붕세대공감",
-    "link": "goView('R2024041221755');"
+    "title": "서울시 골목창업학교",
+    "description": "서울시 골목창업학교",
+    "link": "goView('R2024041221761');"
   },
   {
     "region": null,
-    "title": "청년내일저축계좌",
-    "description": "청년내일저축계좌",
-    "link": "goView('R2024041221724');"
+    "title": "자립준비청년 자립수당",
+    "description": "자립준비청년 자립수당",
+    "link": "goView('R2024041221731');"
+  },
+  {
+    "region": null,
+    "title": "자립준비청년 교통비 지원사업",
+    "description": "자립준비청년 교통비 지원사업",
+    "link": "goView('R2024041221734');"
+  },
+  {
+    "region": null,
+    "title": "영플러스서울(0+SEOUL)",
+    "description": "영플러스서울(0+SEOUL)",
+    "link": "goView('R2024041221735');"
   },
   {
     "region": null,
@@ -1135,21 +1123,21 @@
   },
   {
     "region": null,
-    "title": "영플러스서울(0+SEOUL)",
-    "description": "영플러스서울(0+SEOUL)",
-    "link": "goView('R2024041221735');"
+    "title": "청년내일저축계좌",
+    "description": "청년내일저축계좌",
+    "link": "goView('R2024041221724');"
   },
   {
     "region": null,
-    "title": "청년예술청 운영",
-    "description": "청년예술청 운영",
-    "link": "goView('R2024041221745');"
+    "title": "한지붕세대공감",
+    "description": "한지붕세대공감",
+    "link": "goView('R2024041221755');"
   },
   {
     "region": null,
-    "title": "서울시 청년부상제대군인지원사업(상담센터)",
-    "description": "서울시 청년부상제대군인지원사업(상담센터)",
-    "link": "goView('R2024041221747');"
+    "title": "서울 청년창업꿈터 운영",
+    "description": "서울 청년창업꿈터 운영",
+    "link": "goView('R2024041221760');"
   },
   {
     "region": null,
@@ -1159,39 +1147,15 @@
   },
   {
     "region": null,
-    "title": "서울희망대학진로장학금",
-    "description": "서울희망대학진로장학금",
-    "link": "goView('R2024041221749');"
+    "title": "서울시 청년부상제대군인지원사업(상담센터)",
+    "description": "서울시 청년부상제대군인지원사업(상담센터)",
+    "link": "goView('R2024041221747');"
   },
   {
     "region": null,
-    "title": "청년 매입임대주택 공급",
-    "description": "청년 매입임대주택 공급",
-    "link": "goView('R2024041221723');"
-  },
-  {
-    "region": null,
-    "title": "청년취업사관학교 교육생 모집",
-    "description": "청년취업사관학교 교육생 모집",
-    "link": "goView('R2024040521468');"
-  },
-  {
-    "region": null,
-    "title": "서울시 청년월세지원 사업",
-    "description": "서울시 청년월세지원 사업",
-    "link": "goView('R2024040521463');"
-  },
-  {
-    "region": null,
-    "title": "서울 청년정책박람회 '청년, 바라봄'",
-    "description": "서울 청년정책박람회 '청년, 바라봄'",
-    "link": "goView('R2024040821563');"
-  },
-  {
-    "region": null,
-    "title": "서울형 강소기업 지원",
-    "description": "서울형 강소기업 지원",
-    "link": "goView('R2024041121706');"
+    "title": "청년예술청 운영",
+    "description": "청년예술청 운영",
+    "link": "goView('R2024041221745');"
   },
   {
     "region": null,
@@ -1201,15 +1165,45 @@
   },
   {
     "region": null,
-    "title": "서울시 청년 자립토대 지원사업",
-    "description": "서울시 청년 자립토대 지원사업",
-    "link": "goView('R2024031820770');"
+    "title": "서울형 강소기업 지원",
+    "description": "서울형 강소기업 지원",
+    "link": "goView('R2024041121706');"
   },
   {
     "region": null,
-    "title": "서울시 청년안심주택(공공지원민간임대) 임대보증금 지원",
-    "description": "서울시 청년안심주택(공공지원민간임대) 임대보증금 지원",
-    "link": "goView('R2024031920824');"
+    "title": "서울시 청년월세지원 사업",
+    "description": "서울시 청년월세지원 사업",
+    "link": "goView('R2024040521463');"
+  },
+  {
+    "region": null,
+    "title": "청년취업사관학교 교육생 모집",
+    "description": "청년취업사관학교 교육생 모집",
+    "link": "goView('R2024040521468');"
+  },
+  {
+    "region": null,
+    "title": "서울 청년정책박람회 '청년, 바라봄'",
+    "description": "서울 청년정책박람회 '청년, 바라봄'",
+    "link": "goView('R2024040821563');"
+  },
+  {
+    "region": null,
+    "title": "청년 매입임대주택 공급",
+    "description": "청년 매입임대주택 공급",
+    "link": "goView('R2024041221723');"
+  },
+  {
+    "region": null,
+    "title": "서울희망대학진로장학금",
+    "description": "서울희망대학진로장학금",
+    "link": "goView('R2024041221749');"
+  },
+  {
+    "region": null,
+    "title": "서울시 청년 자립토대 지원사업",
+    "description": "서울시 청년 자립토대 지원사업",
+    "link": "goView('R2024031820770');"
   },
   {
     "region": null,
@@ -1219,9 +1213,9 @@
   },
   {
     "region": null,
-    "title": "서울 영테크 지원사업",
-    "description": "서울 영테크 지원사업",
-    "link": "goView('R2024040321388');"
+    "title": "서울시 청년안심주택(공공지원민간임대) 임대보증금 지원",
+    "description": "서울시 청년안심주택(공공지원민간임대) 임대보증금 지원",
+    "link": "goView('R2024031920824');"
   },
   {
     "region": null,
@@ -1231,15 +1225,21 @@
   },
   {
     "region": null,
-    "title": "서울청년정책네트워크 위원 모집",
-    "description": "서울청년정책네트워크 위원 모집",
-    "link": "goView('R2024022220005');"
+    "title": "서울 영테크 지원사업",
+    "description": "서울 영테크 지원사업",
+    "link": "goView('R2024040321388');"
   },
   {
     "region": null,
     "title": "서울시 청년수당",
     "description": "서울시 청년수당",
     "link": "goView('R2024022820205');"
+  },
+  {
+    "region": null,
+    "title": "서울청년정책네트워크 위원 모집",
+    "description": "서울청년정책네트워크 위원 모집",
+    "link": "goView('R2024022220005');"
   },
   {
     "region": null,
@@ -1453,15 +1453,15 @@
   },
   {
     "region": null,
-    "title": "제2기 개인정보보호위원회 2030 자문단 모집 공고",
-    "description": "제2기 개인정보보호위원회 2030 자문단 모집 공고",
-    "link": "goView('R2024111527866');"
-  },
-  {
-    "region": null,
     "title": "2025학년도 취학통지서 온라인 제출 서비스",
     "description": "2025학년도 취학통지서 온라인 제출 서비스",
     "link": "goView('R2024111827928');"
+  },
+  {
+    "region": null,
+    "title": "제2기 개인정보보호위원회 2030 자문단 모집 공고",
+    "description": "제2기 개인정보보호위원회 2030 자문단 모집 공고",
+    "link": "goView('R2024111527866');"
   },
   {
     "region": null,
@@ -1471,9 +1471,9 @@
   },
   {
     "region": null,
-    "title": "지우개 (잊힐 권리) 서비스",
-    "description": "지우개 (잊힐 권리) 서비스",
-    "link": "goView('R2024110527563');"
+    "title": "정보주체 권리행사 서비스",
+    "description": "정보주체 권리행사 서비스",
+    "link": "goView('R2024110527564');"
   },
   {
     "region": null,
@@ -1519,9 +1519,9 @@
   },
   {
     "region": null,
-    "title": "정보주체 권리행사 서비스",
-    "description": "정보주체 권리행사 서비스",
-    "link": "goView('R2024110527564');"
+    "title": "지우개 (잊힐 권리) 서비스",
+    "description": "지우개 (잊힐 권리) 서비스",
+    "link": "goView('R2024110527563');"
   },
   {
     "region": null,
@@ -1531,15 +1531,15 @@
   },
   {
     "region": null,
-    "title": "청년취업사관학교 <새싹 은평캠퍼스 1기> 교육생 모집",
-    "description": "청년취업사관학교 <새싹 은평캠퍼스 1기> 교육생 모집",
-    "link": "goView('R2024102827367');"
-  },
-  {
-    "region": null,
     "title": "2024년 하반기 진로인성 멘토링 참여자 모집(~11/22)",
     "description": "2024년 하반기 진로인성 멘토링 참여자 모집(~11/22)",
     "link": "goView('R2024102527344');"
+  },
+  {
+    "region": null,
+    "title": "청년취업사관학교 <새싹 은평캠퍼스 1기> 교육생 모집",
+    "description": "청년취업사관학교 <새싹 은평캠퍼스 1기> 교육생 모집",
+    "link": "goView('R2024102827367');"
   },
   {
     "region": null,
@@ -1591,9 +1591,9 @@
   },
   {
     "region": null,
-    "title": "서울시 <고립·은둔 자녀에 대한 이해·소통 2차 시민특강> 참여자 모집",
-    "description": "서울시 <고립·은둔 자녀에 대한 이해·소통 2차 시민특강> 참여자 모집",
-    "link": "goView('R2024112528123');"
+    "title": "휴대용 안심벨 '헬프미' 2차 신청·접수 안내(서울시 앱)",
+    "description": "휴대용 안심벨 '헬프미' 2차 신청·접수 안내(서울시 앱)",
+    "link": "goView('R2024112528125');"
   },
   {
     "region": null,
@@ -1603,9 +1603,9 @@
   },
   {
     "region": null,
-    "title": "휴대용 안심벨 '헬프미' 2차 신청·접수 안내(서울시 앱)",
-    "description": "휴대용 안심벨 '헬프미' 2차 신청·접수 안내(서울시 앱)",
-    "link": "goView('R2024112528125');"
+    "title": "서울시 <고립·은둔 자녀에 대한 이해·소통 2차 시민특강> 참여자 모집",
+    "description": "서울시 <고립·은둔 자녀에 대한 이해·소통 2차 시민특강> 참여자 모집",
+    "link": "goView('R2024112528123');"
   },
   {
     "region": null,
@@ -1687,8 +1687,8 @@
   },
   {
     "region": null,
-    "title": "캠퍼스타운 혁신 및 청년희망·지역경제 활성화",
-    "description": "캠퍼스타운 혁신 및 청년희망·지역경제 활성화",
+    "title": "2025 캠퍼스타운 혁신 및 청년희망·지역경제 활성화",
+    "description": "2025 캠퍼스타운 혁신 및 청년희망·지역경제 활성화",
     "link": "goView('20250316005400210622');"
   },
   {
