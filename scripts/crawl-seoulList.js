@@ -43,6 +43,7 @@ export default async function crawlSeoulList() {
         region: item.querySelector('span')?.innerText.trim() ?? null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
+        fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
         link: item.querySelector('a')?.getAttribute('onclick').slice(9, -3) ?? null,
       }))
     );
@@ -52,7 +53,7 @@ export default async function crawlSeoulList() {
     results.push(...pageData);
   }
 
-  const outputPath = path.join(__dirname, '../data/main-policy-list.json');
+  const outputPath = path.join(__dirname, '../data/seoul-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
   console.log(`🎉 [서울시정책 완료] 총 ${results.length}개 저장됨`);

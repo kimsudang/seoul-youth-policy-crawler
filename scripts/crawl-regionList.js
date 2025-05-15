@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BASE_URL = 'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list2.do?plcyBizId=&tab=003&key=2309160001&sc_detailAt=&pageIndex=1&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=';
+const BASE_URL = 'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list2.do?plcyBizId=&tab=003&key=2309160001&sc_detailAt=&pageIndex=1&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=#none';
 
 export default async function crawlRegionList() {
   const browser = await chromium.launch({ headless: true });
@@ -43,6 +43,7 @@ export default async function crawlRegionList() {
         region: item.querySelector('span')?.innerText.trim() ?? null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
+        fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
         link: item.querySelector('a')?.getAttribute('onclick').slice(9, -3) ?? null,
       }))
     );
@@ -52,7 +53,7 @@ export default async function crawlRegionList() {
     results.push(...pageData);
   }
 
-  const outputPath = path.join(__dirname, '../data/main-policy-list.json');
+  const outputPath = path.join(__dirname, '../data/region-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
   console.log(`🎉 [지역정책 완료] 총 ${results.length}개 저장됨`);

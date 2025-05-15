@@ -43,6 +43,7 @@ export default async function crawlSeoulGuList() {
         region: item.querySelector('.bg-purple')?.innerText.trim() ?? null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
+        fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
         link: item.querySelector('a')?.getAttribute('onclick') ?? null,
       }))
     );
@@ -52,7 +53,7 @@ export default async function crawlSeoulGuList() {
     results.push(...pageData);
   }
 
-  const outputPath = path.join(__dirname, '../data/gu-policy-list.json');
+  const outputPath = path.join(__dirname, '../data/seoul-gu-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
   console.log(`🎉 [서울시구정책 완료] 총 ${results.length}개 저장됨`);
