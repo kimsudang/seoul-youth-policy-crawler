@@ -1,0 +1,43 @@
+name: 🔄 Crawl and Commit Korea Youth Policies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정 (UTC 기준 = 오전 9시 KST)
+  workflow_dispatch: # 수동 실행 버튼도 GitHub UI에 표시됨
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # ✅ 전체 커밋 이력 받아오기
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: 📦 Install dependencies
+        run: npm ci
+
+      - name: ⬇️ Install Playwright browsers
+        run: npx playwright install
+
+      - name: 🤖 Run playwright crawl script
+        run: node scripts/crawl-korea.js
+
+      - name: 💾 Commit and push if data changed
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+          git add data/*.json
+
+          # 변경된 내용이 있다면 커밋
+          git diff --cached --quiet || (git commit -m "🔄 전국 정책 자동 크롤링 데이터 업데이트" && git push)
