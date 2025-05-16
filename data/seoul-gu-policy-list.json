@@ -1,19 +1,5 @@
 [
   {
-    "region": "서대문구",
-    "title": "신촌 박스퀘어 청년점포 창업 운영 지원",
-    "description": "신촌 박스퀘어 청년점포 창업 운영 지원",
-    "fullLink": "goView('R2023050912537');",
-    "link": "goView('R2023050912537');"
-  },
-  {
-    "region": "노원구",
-    "title": "청년 주거지원 사업",
-    "description": "청년 주거지원 사업",
-    "fullLink": "goView('R2023050912565');",
-    "link": "goView('R2023050912565');"
-  },
-  {
     "region": "은평구",
     "title": "청년 창업점포 (새싹점포)",
     "description": "청년 창업점포 (새싹점포)",
@@ -26,20 +12,6 @@
     "description": "DDM 청년창업센터 유니콘 조성",
     "fullLink": "goView('R2023090617048');",
     "link": "goView('R2023090617048');"
-  },
-  {
-    "region": "용산구",
-    "title": "청년 취업특강",
-    "description": "청년 취업특강",
-    "fullLink": "goView('R2023050912486');",
-    "link": "goView('R2023050912486');"
-  },
-  {
-    "region": "동작구",
-    "title": "청년기업 동반 성장 프로젝트",
-    "description": "청년기업 동반 성장 프로젝트",
-    "fullLink": "goView('R2023050912510');",
-    "link": "goView('R2023050912510');"
   },
   {
     "region": "성북구",
@@ -63,18 +35,18 @@
     "link": "goView('R2023050912538');"
   },
   {
-    "region": "성동구",
-    "title": "사회적고립청년 지원 사업(신규)",
-    "description": "사회적고립청년 지원 사업(신규)",
-    "fullLink": "goView('R2023050912460');",
-    "link": "goView('R2023050912460');"
+    "region": "서대문구",
+    "title": "신촌 박스퀘어 청년점포 창업 운영 지원",
+    "description": "신촌 박스퀘어 청년점포 창업 운영 지원",
+    "fullLink": "goView('R2023050912537');",
+    "link": "goView('R2023050912537');"
   },
   {
-    "region": "용산구",
-    "title": "청년정책네트워크 운영",
-    "description": "청년정책네트워크 운영",
-    "fullLink": "goView('R2023050912488');",
-    "link": "goView('R2023050912488');"
+    "region": "노원구",
+    "title": "청년 주거지원 사업",
+    "description": "청년 주거지원 사업",
+    "fullLink": "goView('R2023050912565');",
+    "link": "goView('R2023050912565');"
   },
   {
     "region": "용산구",
@@ -98,18 +70,18 @@
     "link": "goView('R2023050912503');"
   },
   {
-    "region": "광진구",
-    "title": "대학생 행정체험단 운영",
-    "description": "대학생 행정체험단 운영",
-    "fullLink": "goView('R2023050912461');",
-    "link": "goView('R2023050912461');"
+    "region": "용산구",
+    "title": "청년 취업특강",
+    "description": "청년 취업특강",
+    "fullLink": "goView('R2023050912486');",
+    "link": "goView('R2023050912486');"
   },
   {
-    "region": "용산구",
-    "title": "일자리기금 청년기업 융자지원",
-    "description": "일자리기금 청년기업 융자지원",
-    "fullLink": "goView('R2023050912494');",
-    "link": "goView('R2023050912494');"
+    "region": "동작구",
+    "title": "청년기업 동반 성장 프로젝트",
+    "description": "청년기업 동반 성장 프로젝트",
+    "fullLink": "goView('R2023050912510');",
+    "link": "goView('R2023050912510');"
   },
   {
     "region": "강북구",
@@ -133,18 +105,18 @@
     "link": "goView('R2023050912506');"
   },
   {
-    "region": "광진구",
-    "title": "청년창업특별보증 추천 제도(23년 광진형 특별융자 지원사업과 통합운영)",
-    "description": "청년창업특별보증 추천 제도(23년 광진형 특별융자 지원사업과 통합운영)",
-    "fullLink": "goView('R2023050912484');",
-    "link": "goView('R2023050912484');"
+    "region": "성동구",
+    "title": "사회적고립청년 지원 사업(신규)",
+    "description": "사회적고립청년 지원 사업(신규)",
+    "fullLink": "goView('R2023050912460');",
+    "link": "goView('R2023050912460');"
   },
   {
-    "region": "광진구",
-    "title": "지역자산을 활용한 광진청년 일자리창출사업",
-    "description": "지역자산을 활용한 광진청년 일자리창출사업",
-    "fullLink": "goView('R2023050912483');",
-    "link": "goView('R2023050912483');"
+    "region": "용산구",
+    "title": "청년정책네트워크 운영",
+    "description": "청년정책네트워크 운영",
+    "fullLink": "goView('R2023050912488');",
+    "link": "goView('R2023050912488');"
   },
   {
     "region": "광진구",
@@ -168,18 +140,18 @@
     "link": "goView('R2023050912462');"
   },
   {
-    "region": "종로구",
-    "title": "종로 청년 생활클리닉 운영",
-    "description": "종로 청년 생활클리닉 운영",
-    "fullLink": "goView('R2023050912491');",
-    "link": "goView('R2023050912491');"
+    "region": "광진구",
+    "title": "대학생 행정체험단 운영",
+    "description": "대학생 행정체험단 운영",
+    "fullLink": "goView('R2023050912461');",
+    "link": "goView('R2023050912461');"
   },
   {
-    "region": "종로구",
-    "title": "지역주도형 청년일자리사업(종로구 문화 사회공헌 사업 운영)",
-    "description": "지역주도형 청년일자리사업(종로구 문화 사회공헌 사업 운영)",
-    "fullLink": "goView('R2023050912492');",
-    "link": "goView('R2023050912492');"
+    "region": "용산구",
+    "title": "일자리기금 청년기업 융자지원",
+    "description": "일자리기금 청년기업 융자지원",
+    "fullLink": "goView('R2023050912494');",
+    "link": "goView('R2023050912494');"
   },
   {
     "region": "중구",
@@ -203,18 +175,18 @@
     "link": "goView('R2023050912481');"
   },
   {
-    "region": "용산구",
-    "title": "무역&e커머스& SC IT 마스터 전문가 양성 사업",
-    "description": "무역&e커머스& SC IT 마스터 전문가 양성 사업",
-    "fullLink": "goView('R2023050912505');",
-    "link": "goView('R2023050912505');"
+    "region": "광진구",
+    "title": "청년창업특별보증 추천 제도(23년 광진형 특별융자 지원사업과 통합운영)",
+    "description": "청년창업특별보증 추천 제도(23년 광진형 특별융자 지원사업과 통합운영)",
+    "fullLink": "goView('R2023050912484');",
+    "link": "goView('R2023050912484');"
   },
   {
     "region": "광진구",
-    "title": "(광진구)미취업 청년 어학시험 응시료 지원사업",
-    "description": "(광진구)미취업 청년 어학시험 응시료 지원사업",
-    "fullLink": "goView('R2023050912477');",
-    "link": "goView('R2023050912477');"
+    "title": "지역자산을 활용한 광진청년 일자리창출사업",
+    "description": "지역자산을 활용한 광진청년 일자리창출사업",
+    "fullLink": "goView('R2023050912483');",
+    "link": "goView('R2023050912483');"
   },
   {
     "region": "성동구",
@@ -238,18 +210,18 @@
     "link": "goView('R2023050912508');"
   },
   {
-    "region": "중랑구",
-    "title": "중랑청년네트워크 운영",
-    "description": "중랑청년네트워크 운영",
-    "fullLink": "goView('R2023050912463');",
-    "link": "goView('R2023050912463');"
+    "region": "종로구",
+    "title": "종로 청년 생활클리닉 운영",
+    "description": "종로 청년 생활클리닉 운영",
+    "fullLink": "goView('R2023050912491');",
+    "link": "goView('R2023050912491');"
   },
   {
-    "region": "중랑구",
-    "title": "취업지원특강 개최",
-    "description": "취업지원특강 개최",
-    "fullLink": "goView('R2023050912442');",
-    "link": "goView('R2023050912442');"
+    "region": "종로구",
+    "title": "지역주도형 청년일자리사업(종로구 문화 사회공헌 사업 운영)",
+    "description": "지역주도형 청년일자리사업(종로구 문화 사회공헌 사업 운영)",
+    "fullLink": "goView('R2023050912492');",
+    "link": "goView('R2023050912492');"
   },
   {
     "region": "중랑구",
@@ -273,18 +245,18 @@
     "link": "goView('R2023050912478');"
   },
   {
-    "region": "성동구",
-    "title": "성동구 성년출발지원금 지원",
-    "description": "성동구 성년출발지원금 지원",
-    "fullLink": "goView('R2023050912476');",
-    "link": "goView('R2023050912476');"
+    "region": "용산구",
+    "title": "무역&e커머스& SC IT 마스터 전문가 양성 사업",
+    "description": "무역&e커머스& SC IT 마스터 전문가 양성 사업",
+    "fullLink": "goView('R2023050912505');",
+    "link": "goView('R2023050912505');"
   },
   {
-    "region": "성동구",
-    "title": "청년 등 탈모 치료 지원(신규)",
-    "description": "청년 등 탈모 치료 지원(신규)",
-    "fullLink": "goView('R2023050912459');",
-    "link": "goView('R2023050912459');"
+    "region": "광진구",
+    "title": "(광진구)미취업 청년 어학시험 응시료 지원사업",
+    "description": "(광진구)미취업 청년 어학시험 응시료 지원사업",
+    "fullLink": "goView('R2023050912477');",
+    "link": "goView('R2023050912477');"
   },
   {
     "region": "성동구",
@@ -309,17 +281,17 @@
   },
   {
     "region": "중랑구",
-    "title": "성년의 날 기념 축하카드 제작",
-    "description": "성년의 날 기념 축하카드 제작",
-    "fullLink": "goView('R2023050912464');",
-    "link": "goView('R2023050912464');"
+    "title": "중랑청년네트워크 운영",
+    "description": "중랑청년네트워크 운영",
+    "fullLink": "goView('R2023050912463');",
+    "link": "goView('R2023050912463');"
   },
   {
     "region": "중랑구",
-    "title": "(중랑구)미취업 청년 자격증 취득 응시료 지원",
-    "description": "(중랑구)미취업 청년 자격증 취득 응시료 지원",
-    "fullLink": "goView('R2023050912446');",
-    "link": "goView('R2023050912446');"
+    "title": "취업지원특강 개최",
+    "description": "취업지원특강 개최",
+    "fullLink": "goView('R2023050912442');",
+    "link": "goView('R2023050912442');"
   },
   {
     "region": "노원구",
@@ -343,18 +315,18 @@
     "link": "goView('R2023050912427');"
   },
   {
-    "region": "노원구",
-    "title": "마음활력 프로젝트 운영",
-    "description": "마음활력 프로젝트 운영",
-    "fullLink": "goView('R2023050912411');",
-    "link": "goView('R2023050912411');"
+    "region": "성동구",
+    "title": "성동구 성년출발지원금 지원",
+    "description": "성동구 성년출발지원금 지원",
+    "fullLink": "goView('R2023050912476');",
+    "link": "goView('R2023050912476');"
   },
   {
-    "region": "노원구",
-    "title": "여성청년 안전한 내집만들기",
-    "description": "여성청년 안전한 내집만들기",
-    "fullLink": "goView('R2023050912429');",
-    "link": "goView('R2023050912429');"
+    "region": "성동구",
+    "title": "청년 등 탈모 치료 지원(신규)",
+    "description": "청년 등 탈모 치료 지원(신규)",
+    "fullLink": "goView('R2023050912459');",
+    "link": "goView('R2023050912459');"
   },
   {
     "region": "노원구",
@@ -378,18 +350,18 @@
     "link": "goView('R2023050912465');"
   },
   {
-    "region": "성동구",
-    "title": "성동구 인재육성장학재단 운영",
-    "description": "성동구 인재육성장학재단 운영",
-    "fullLink": "goView('R2023050912457');",
-    "link": "goView('R2023050912457');"
+    "region": "중랑구",
+    "title": "성년의 날 기념 축하카드 제작",
+    "description": "성년의 날 기념 축하카드 제작",
+    "fullLink": "goView('R2023050912464');",
+    "link": "goView('R2023050912464');"
   },
   {
-    "region": "동대문구",
-    "title": "청년 네트워크 운영",
-    "description": "청년 네트워크 운영",
-    "fullLink": "goView('R2023050912422');",
-    "link": "goView('R2023050912422');"
+    "region": "중랑구",
+    "title": "(중랑구)미취업 청년 자격증 취득 응시료 지원",
+    "description": "(중랑구)미취업 청년 자격증 취득 응시료 지원",
+    "fullLink": "goView('R2023050912446');",
+    "link": "goView('R2023050912446');"
   },
   {
     "region": "동대문구",
@@ -413,18 +385,18 @@
     "link": "goView('R2023050912412');"
   },
   {
-    "region": "성동구",
-    "title": "용답 도전숙 운영",
-    "description": "용답 도전숙 운영",
-    "fullLink": "goView('R2023050912456');",
-    "link": "goView('R2023050912456');"
+    "region": "노원구",
+    "title": "마음활력 프로젝트 운영",
+    "description": "마음활력 프로젝트 운영",
+    "fullLink": "goView('R2023050912411');",
+    "link": "goView('R2023050912411');"
   },
   {
-    "region": "성동구",
-    "title": "특성화고 학생을 위한 취업지원",
-    "description": "특성화고 학생을 위한 취업지원",
-    "fullLink": "goView('R2023050912455');",
-    "link": "goView('R2023050912455');"
+    "region": "노원구",
+    "title": "여성청년 안전한 내집만들기",
+    "description": "여성청년 안전한 내집만들기",
+    "fullLink": "goView('R2023050912429');",
+    "link": "goView('R2023050912429');"
   },
   {
     "region": "성동구",
@@ -448,18 +420,18 @@
     "link": "goView('R2023050912458');"
   },
   {
-    "region": "노원구",
-    "title": "지역문제 해결을 위한 청년 펠로우십",
-    "description": "지역문제 해결을 위한 청년 펠로우십",
-    "fullLink": "goView('R2023050912426');",
-    "link": "goView('R2023050912426');"
+    "region": "성동구",
+    "title": "성동구 인재육성장학재단 운영",
+    "description": "성동구 인재육성장학재단 운영",
+    "fullLink": "goView('R2023050912457');",
+    "link": "goView('R2023050912457');"
   },
   {
-    "region": "중랑구",
-    "title": "청년 창업 아카데미",
-    "description": "청년 창업 아카데미",
-    "fullLink": "goView('R2023050912441');",
-    "link": "goView('R2023050912441');"
+    "region": "동대문구",
+    "title": "청년 네트워크 운영",
+    "description": "청년 네트워크 운영",
+    "fullLink": "goView('R2023050912422');",
+    "link": "goView('R2023050912422');"
   },
   {
     "region": "중랑구",
@@ -483,18 +455,18 @@
     "link": "goView('R2023050912438');"
   },
   {
-    "region": "동대문구",
-    "title": "지역주도형 청년일자리 사업",
-    "description": "지역주도형 청년일자리 사업",
-    "fullLink": "goView('R2023050912436');",
-    "link": "goView('R2023050912436');"
+    "region": "성동구",
+    "title": "용답 도전숙 운영",
+    "description": "용답 도전숙 운영",
+    "fullLink": "goView('R2023050912456');",
+    "link": "goView('R2023050912456');"
   },
   {
-    "region": "성북구",
-    "title": "청년지원협의체운영",
-    "description": "청년지원협의체운영",
-    "fullLink": "goView('R2023050912450');",
-    "link": "goView('R2023050912450');"
+    "region": "성동구",
+    "title": "특성화고 학생을 위한 취업지원",
+    "description": "특성화고 학생을 위한 취업지원",
+    "fullLink": "goView('R2023050912455');",
+    "link": "goView('R2023050912455');"
   },
   {
     "region": "성북구",
@@ -518,18 +490,18 @@
     "link": "goView('R2023050912408');"
   },
   {
-    "region": "강북구",
-    "title": "청년정책위원회",
-    "description": "청년정책위원회",
-    "fullLink": "goView('R2023050912452');",
-    "link": "goView('R2023050912452');"
+    "region": "노원구",
+    "title": "지역문제 해결을 위한 청년 펠로우십",
+    "description": "지역문제 해결을 위한 청년 펠로우십",
+    "fullLink": "goView('R2023050912426');",
+    "link": "goView('R2023050912426');"
   },
   {
-    "region": "성북구",
-    "title": "청년 소셜벤처 혁신경연대회",
-    "description": "청년 소셜벤처 혁신경연대회",
-    "fullLink": "goView('R2023050912470');",
-    "link": "goView('R2023050912470');"
+    "region": "중랑구",
+    "title": "청년 창업 아카데미",
+    "description": "청년 창업 아카데미",
+    "fullLink": "goView('R2023050912441');",
+    "link": "goView('R2023050912441');"
   },
   {
     "region": "성북구",
@@ -554,17 +526,17 @@
   },
   {
     "region": "동대문구",
-    "title": "남녀 임신준비 지원사업",
-    "description": "남녀 임신준비 지원사업",
-    "fullLink": "goView('R2023050912454');",
-    "link": "goView('R2023050912454');"
+    "title": "지역주도형 청년일자리 사업",
+    "description": "지역주도형 청년일자리 사업",
+    "fullLink": "goView('R2023050912436');",
+    "link": "goView('R2023050912436');"
   },
   {
-    "region": "동대문구",
-    "title": "청년 취업 자격취득 활동 지원사업",
-    "description": "청년 취업 자격취득 활동 지원사업",
-    "fullLink": "goView('R2023050912420');",
-    "link": "goView('R2023050912420');"
+    "region": "성북구",
+    "title": "청년지원협의체운영",
+    "description": "청년지원협의체운영",
+    "fullLink": "goView('R2023050912450');",
+    "link": "goView('R2023050912450');"
   },
   {
     "region": "광진구",
@@ -588,18 +560,18 @@
     "link": "goView('R2023050912471');"
   },
   {
-    "region": "노원구",
-    "title": "노원청년문화살롱(문화예술네트워크)",
-    "description": "노원청년문화살롱(문화예술네트워크)",
-    "fullLink": "goView('R2023050912433');",
-    "link": "goView('R2023050912433');"
+    "region": "강북구",
+    "title": "청년정책위원회",
+    "description": "청년정책위원회",
+    "fullLink": "goView('R2023050912452');",
+    "link": "goView('R2023050912452');"
   },
   {
-    "region": "노원구",
-    "title": "데이터 액티비스트 양성",
-    "description": "데이터 액티비스트 양성",
-    "fullLink": "goView('R2023050912432');",
-    "link": "goView('R2023050912432');"
+    "region": "성북구",
+    "title": "청년 소셜벤처 혁신경연대회",
+    "description": "청년 소셜벤처 혁신경연대회",
+    "fullLink": "goView('R2023050912470');",
+    "link": "goView('R2023050912470');"
   },
   {
     "region": "노원구",
@@ -623,18 +595,18 @@
     "link": "goView('R2023050912414');"
   },
   {
-    "region": "성북구",
-    "title": "2023 서울형 뉴딜일자리 사업",
-    "description": "2023 서울형 뉴딜일자리 사업",
-    "fullLink": "goView('R2023050912466');",
-    "link": "goView('R2023050912466');"
+    "region": "동대문구",
+    "title": "남녀 임신준비 지원사업",
+    "description": "남녀 임신준비 지원사업",
+    "fullLink": "goView('R2023050912454');",
+    "link": "goView('R2023050912454');"
   },
   {
-    "region": "성북구",
-    "title": "미취업 청년 자격증 및 어학시험 응시료 지원",
-    "description": "미취업 청년 자격증 및 어학시험 응시료 지원",
-    "fullLink": "goView('R2023050912448');",
-    "link": "goView('R2023050912448');"
+    "region": "동대문구",
+    "title": "청년 취업 자격취득 활동 지원사업",
+    "description": "청년 취업 자격취득 활동 지원사업",
+    "fullLink": "goView('R2023050912420');",
+    "link": "goView('R2023050912420');"
   },
   {
     "region": "성북구",
@@ -659,17 +631,17 @@
   },
   {
     "region": "노원구",
-    "title": "청년 창업지원 사업",
-    "description": "청년 창업지원 사업",
-    "fullLink": "goView('R2023050912405');",
-    "link": "goView('R2023050912405');"
+    "title": "노원청년문화살롱(문화예술네트워크)",
+    "description": "노원청년문화살롱(문화예술네트워크)",
+    "fullLink": "goView('R2023050912433');",
+    "link": "goView('R2023050912433');"
   },
   {
     "region": "노원구",
-    "title": "노원구 청년일자리센터 운영",
-    "description": "노원구 청년일자리센터 운영",
-    "fullLink": "goView('R2023050912404');",
-    "link": "goView('R2023050912404');"
+    "title": "데이터 액티비스트 양성",
+    "description": "데이터 액티비스트 양성",
+    "fullLink": "goView('R2023050912432');",
+    "link": "goView('R2023050912432');"
   },
   {
     "region": "성북구",
@@ -693,18 +665,18 @@
     "link": "goView('R2023050912449');"
   },
   {
-    "region": "금천구",
-    "title": "맞춤형 취업박람회 개최",
-    "description": "맞춤형 취업박람회 개최",
-    "fullLink": "goView('R2023050912347');",
-    "link": "goView('R2023050912347');"
+    "region": "성북구",
+    "title": "2023 서울형 뉴딜일자리 사업",
+    "description": "2023 서울형 뉴딜일자리 사업",
+    "fullLink": "goView('R2023050912466');",
+    "link": "goView('R2023050912466');"
   },
   {
-    "region": "금천구",
-    "title": "소셜믹스형 공공임대주택 (청년주택)",
-    "description": "소셜믹스형 공공임대주택 (청년주택)",
-    "fullLink": "goView('R2023050912346');",
-    "link": "goView('R2023050912346');"
+    "region": "성북구",
+    "title": "미취업 청년 자격증 및 어학시험 응시료 지원",
+    "description": "미취업 청년 자격증 및 어학시험 응시료 지원",
+    "fullLink": "goView('R2023050912448');",
+    "link": "goView('R2023050912448');"
   },
   {
     "region": "노원구",
@@ -728,18 +700,18 @@
     "link": "goView('R2023050912406');"
   },
   {
-    "region": "관악구",
-    "title": "청년 1인가구 커뮤니티 교실 운영(홀로배움)",
-    "description": "청년 1인가구 커뮤니티 교실 운영(홀로배움)",
-    "fullLink": "goView('R2023050912318');",
-    "link": "goView('R2023050912318');"
+    "region": "노원구",
+    "title": "청년 창업지원 사업",
+    "description": "청년 창업지원 사업",
+    "fullLink": "goView('R2023050912405');",
+    "link": "goView('R2023050912405');"
   },
   {
-    "region": "강북구",
-    "title": "강북구 청년네트워크 운영",
-    "description": "강북구 청년네트워크 운영",
-    "fullLink": "goView('R2023050912399');",
-    "link": "goView('R2023050912399');"
+    "region": "노원구",
+    "title": "노원구 청년일자리센터 운영",
+    "description": "노원구 청년일자리센터 운영",
+    "fullLink": "goView('R2023050912404');",
+    "link": "goView('R2023050912404');"
   },
   {
     "region": "양천구",
@@ -763,18 +735,18 @@
     "link": "goView('R2023050912327');"
   },
   {
-    "region": "양천구",
-    "title": "대학생 행정인턴 운영",
-    "description": "대학생 행정인턴 운영",
-    "fullLink": "goView('R2023050912333');",
-    "link": "goView('R2023050912333');"
+    "region": "금천구",
+    "title": "맞춤형 취업박람회 개최",
+    "description": "맞춤형 취업박람회 개최",
+    "fullLink": "goView('R2023050912347');",
+    "link": "goView('R2023050912347');"
   },
   {
-    "region": "양천구",
-    "title": "서울청년센터 양천오랑 조성 및 운영지원",
-    "description": "서울청년센터 양천오랑 조성 및 운영지원",
-    "fullLink": "goView('R2023050912354');",
-    "link": "goView('R2023050912354');"
+    "region": "금천구",
+    "title": "소셜믹스형 공공임대주택 (청년주택)",
+    "description": "소셜믹스형 공공임대주택 (청년주택)",
+    "fullLink": "goView('R2023050912346');",
+    "link": "goView('R2023050912346');"
   },
   {
     "region": "관악구",
@@ -798,18 +770,18 @@
     "link": "goView('R2023050912319');"
   },
   {
-    "region": "구로구",
-    "title": "구로 청년공간 청년이룸 운영",
-    "description": "구로 청년공간 청년이룸 운영",
-    "fullLink": "goView('R2023050912320');",
-    "link": "goView('R2023050912320');"
+    "region": "관악구",
+    "title": "청년 1인가구 커뮤니티 교실 운영(홀로배움)",
+    "description": "청년 1인가구 커뮤니티 교실 운영(홀로배움)",
+    "fullLink": "goView('R2023050912318');",
+    "link": "goView('R2023050912318');"
   },
   {
-    "region": "강서구",
-    "title": "청년 디지털 핵심인재 양성사업",
-    "description": "청년 디지털 핵심인재 양성사업",
-    "fullLink": "goView('R2023050912335');",
-    "link": "goView('R2023050912335');"
+    "region": "강북구",
+    "title": "강북구 청년네트워크 운영",
+    "description": "강북구 청년네트워크 운영",
+    "fullLink": "goView('R2023050912399');",
+    "link": "goView('R2023050912399');"
   },
   {
     "region": "양천구",
@@ -833,18 +805,18 @@
     "link": "goView('R2023050912334');"
   },
   {
-    "region": "강북구",
-    "title": "강북 청년교육 및 포럼",
-    "description": "강북 청년교육 및 포럼",
-    "fullLink": "goView('R2023050912400');",
-    "link": "goView('R2023050912400');"
+    "region": "양천구",
+    "title": "대학생 행정인턴 운영",
+    "description": "대학생 행정인턴 운영",
+    "fullLink": "goView('R2023050912333');",
+    "link": "goView('R2023050912333');"
   },
   {
-    "region": "강서구",
-    "title": "서울 캠퍼스타운 사업",
-    "description": "서울 캠퍼스타운 사업",
-    "fullLink": "goView('R2023050912357');",
-    "link": "goView('R2023050912357');"
+    "region": "양천구",
+    "title": "서울청년센터 양천오랑 조성 및 운영지원",
+    "description": "서울청년센터 양천오랑 조성 및 운영지원",
+    "fullLink": "goView('R2023050912354');",
+    "link": "goView('R2023050912354');"
   },
   {
     "region": "강서구",
@@ -868,18 +840,18 @@
     "link": "goView('R2023050912321');"
   },
   {
-    "region": "도봉구",
-    "title": "도봉청년축제",
-    "description": "도봉청년축제",
-    "fullLink": "goView('R2023050912403');",
-    "link": "goView('R2023050912403');"
+    "region": "구로구",
+    "title": "구로 청년공간 청년이룸 운영",
+    "description": "구로 청년공간 청년이룸 운영",
+    "fullLink": "goView('R2023050912320');",
+    "link": "goView('R2023050912320');"
   },
   {
-    "region": "도봉구",
-    "title": "청년 창업교육 및 아이디어 경진대회",
-    "description": "청년 창업교육 및 아이디어 경진대회",
-    "fullLink": "goView('R2023050912402');",
-    "link": "goView('R2023050912402');"
+    "region": "강서구",
+    "title": "청년 디지털 핵심인재 양성사업",
+    "description": "청년 디지털 핵심인재 양성사업",
+    "fullLink": "goView('R2023050912335');",
+    "link": "goView('R2023050912335');"
   },
   {
     "region": "도봉구",
@@ -903,18 +875,18 @@
     "link": "goView('R2023050912401');"
   },
   {
-    "region": "강서구",
-    "title": "공항 및 국가중요시설 보안검색 전문인력 양성사업",
-    "description": "공항 및 국가중요시설 보안검색 전문인력 양성사업",
-    "fullLink": "goView('R2023050912337');",
-    "link": "goView('R2023050912337');"
+    "region": "강북구",
+    "title": "강북 청년교육 및 포럼",
+    "description": "강북 청년교육 및 포럼",
+    "fullLink": "goView('R2023050912400');",
+    "link": "goView('R2023050912400');"
   },
   {
     "region": "강서구",
-    "title": "청년참여 활성화 지원사업",
-    "description": "청년참여 활성화 지원사업",
-    "fullLink": "goView('R2023050912358');",
-    "link": "goView('R2023050912358');"
+    "title": "서울 캠퍼스타운 사업",
+    "description": "서울 캠퍼스타운 사업",
+    "fullLink": "goView('R2023050912357');",
+    "link": "goView('R2023050912357');"
   },
   {
     "region": "금천구",
@@ -938,18 +910,18 @@
     "link": "goView('R2023050912423');"
   },
   {
-    "region": "서대문구",
-    "title": "청년 쉐어하우스(청년누리) 운영",
-    "description": "청년 쉐어하우스(청년누리) 운영",
-    "fullLink": "goView('R2023050912370');",
-    "link": "goView('R2023050912370');"
+    "region": "도봉구",
+    "title": "도봉청년축제",
+    "description": "도봉청년축제",
+    "fullLink": "goView('R2023050912403');",
+    "link": "goView('R2023050912403');"
   },
   {
-    "region": "서대문구",
-    "title": "디지털 튜터 지원사업",
-    "description": "디지털 튜터 지원사업",
-    "fullLink": "goView('R2023050912369');",
-    "link": "goView('R2023050912369');"
+    "region": "도봉구",
+    "title": "청년 창업교육 및 아이디어 경진대회",
+    "description": "청년 창업교육 및 아이디어 경진대회",
+    "fullLink": "goView('R2023050912402');",
+    "link": "goView('R2023050912402');"
   },
   {
     "region": "은평구",
@@ -973,18 +945,18 @@
     "link": "goView('R2023050912338');"
   },
   {
-    "region": "동작구",
-    "title": "노량진 청년일자리센터",
-    "description": "노량진 청년일자리센터",
-    "fullLink": "goView('R2023050912298');",
-    "link": "goView('R2023050912298');"
+    "region": "강서구",
+    "title": "공항 및 국가중요시설 보안검색 전문인력 양성사업",
+    "description": "공항 및 국가중요시설 보안검색 전문인력 양성사업",
+    "fullLink": "goView('R2023050912337');",
+    "link": "goView('R2023050912337');"
   },
   {
-    "region": "관악구",
-    "title": "청년 예술동아리 거리공연 공모사업",
-    "description": "청년 예술동아리 거리공연 공모사업",
-    "fullLink": "goView('R2023050912300');",
-    "link": "goView('R2023050912300');"
+    "region": "강서구",
+    "title": "청년참여 활성화 지원사업",
+    "description": "청년참여 활성화 지원사업",
+    "fullLink": "goView('R2023050912358');",
+    "link": "goView('R2023050912358');"
   },
   {
     "region": "동작구",
@@ -1008,18 +980,18 @@
     "link": "goView('R2023050912388');"
   },
   {
-    "region": "동작구",
-    "title": "창업보육 전문 컨설팅",
-    "description": "창업보육 전문 컨설팅",
-    "fullLink": "goView('R2023050912317');",
-    "link": "goView('R2023050912317');"
+    "region": "서대문구",
+    "title": "청년 쉐어하우스(청년누리) 운영",
+    "description": "청년 쉐어하우스(청년누리) 운영",
+    "fullLink": "goView('R2023050912370');",
+    "link": "goView('R2023050912370');"
   },
   {
-    "region": "동작구",
-    "title": "창업지원센터 네트워킹데이 운영",
-    "description": "창업지원센터 네트워킹데이 운영",
-    "fullLink": "goView('R2023050912316');",
-    "link": "goView('R2023050912316');"
+    "region": "서대문구",
+    "title": "디지털 튜터 지원사업",
+    "description": "디지털 튜터 지원사업",
+    "fullLink": "goView('R2023050912369');",
+    "link": "goView('R2023050912369');"
   },
   {
     "region": "양천구",
@@ -1043,18 +1015,18 @@
     "link": "goView('R2023050912351');"
   },
   {
-    "region": "마포구",
-    "title": "청년예술가 일자리 창출 확대",
-    "description": "청년예술가 일자리 창출 확대",
-    "fullLink": "goView('R2023050912379');",
-    "link": "goView('R2023050912379');"
+    "region": "동작구",
+    "title": "노량진 청년일자리센터",
+    "description": "노량진 청년일자리센터",
+    "fullLink": "goView('R2023050912298');",
+    "link": "goView('R2023050912298');"
   },
   {
-    "region": "마포구",
-    "title": "대학생 아르바이트",
-    "description": "대학생 아르바이트",
-    "fullLink": "goView('R2023050912397');",
-    "link": "goView('R2023050912397');"
+    "region": "관악구",
+    "title": "청년 예술동아리 거리공연 공모사업",
+    "description": "청년 예술동아리 거리공연 공모사업",
+    "fullLink": "goView('R2023050912300');",
+    "link": "goView('R2023050912300');"
   },
   {
     "region": "마포구",
@@ -1078,18 +1050,18 @@
     "link": "goView('R2023050912352');"
   },
   {
-    "region": "은평구",
-    "title": "지역주도형 청년일자리 사업(청년 신규일자리 창출)",
-    "description": "지역주도형 청년일자리 사업(청년 신규일자리 창출)",
-    "fullLink": "goView('R2023050912384');",
-    "link": "goView('R2023050912384');"
+    "region": "동작구",
+    "title": "창업보육 전문 컨설팅",
+    "description": "창업보육 전문 컨설팅",
+    "fullLink": "goView('R2023050912317');",
+    "link": "goView('R2023050912317');"
   },
   {
-    "region": "은평구",
-    "title": "은평형 청년월세 지원사업",
-    "description": "은평형 청년월세 지원사업",
-    "fullLink": "goView('R2023050912365');",
-    "link": "goView('R2023050912365');"
+    "region": "동작구",
+    "title": "창업지원센터 네트워킹데이 운영",
+    "description": "창업지원센터 네트워킹데이 운영",
+    "fullLink": "goView('R2023050912316');",
+    "link": "goView('R2023050912316');"
   },
   {
     "region": "은평구",
@@ -1113,18 +1085,18 @@
     "link": "goView('R2023050912380');"
   },
   {
-    "region": "구로구",
-    "title": "구로구청년정책네트워크",
-    "description": "구로구청년정책네트워크",
-    "fullLink": "goView('R2023050912361');",
-    "link": "goView('R2023050912361');"
+    "region": "마포구",
+    "title": "청년예술가 일자리 창출 확대",
+    "description": "청년예술가 일자리 창출 확대",
+    "fullLink": "goView('R2023050912379');",
+    "link": "goView('R2023050912379');"
   },
   {
-    "region": "영등포구",
-    "title": "청년온라인플랫폼 운영",
-    "description": "청년온라인플랫폼 운영",
-    "fullLink": "goView('R2023050912349');",
-    "link": "goView('R2023050912349');"
+    "region": "마포구",
+    "title": "대학생 아르바이트",
+    "description": "대학생 아르바이트",
+    "fullLink": "goView('R2023050912397');",
+    "link": "goView('R2023050912397');"
   },
   {
     "region": "영등포구",
@@ -1148,18 +1120,18 @@
     "link": "goView('R2023050912385');"
   },
   {
-    "region": "노원구",
-    "title": "청년 창업센터 조성",
-    "description": "청년 창업센터 조성",
-    "fullLink": "goView('R2023050912364');",
-    "link": "goView('R2023050912364');"
+    "region": "은평구",
+    "title": "지역주도형 청년일자리 사업(청년 신규일자리 창출)",
+    "description": "지역주도형 청년일자리 사업(청년 신규일자리 창출)",
+    "fullLink": "goView('R2023050912384');",
+    "link": "goView('R2023050912384');"
   },
   {
-    "region": "노원구",
-    "title": "자립청년을 위한 자활사업단",
-    "description": "자립청년을 위한 자활사업단",
-    "fullLink": "goView('R2023050912363');",
-    "link": "goView('R2023050912363');"
+    "region": "은평구",
+    "title": "은평형 청년월세 지원사업",
+    "description": "은평형 청년월세 지원사업",
+    "fullLink": "goView('R2023050912365');",
+    "link": "goView('R2023050912365');"
   },
   {
     "region": "노원구",
@@ -1183,18 +1155,18 @@
     "link": "goView('R2023050912362');"
   },
   {
-    "region": "양천구",
-    "title": "온라인마케팅 지원사업(플래너 육성사업)",
-    "description": "온라인마케팅 지원사업(플래너 육성사업)",
-    "fullLink": "goView('R2023050912350');",
-    "link": "goView('R2023050912350');"
+    "region": "구로구",
+    "title": "구로구청년정책네트워크",
+    "description": "구로구청년정책네트워크",
+    "fullLink": "goView('R2023050912361');",
+    "link": "goView('R2023050912361');"
   },
   {
-    "region": "양천구",
-    "title": "양천 창업인큐베이팅(공유주방&바리스타교육장)운영",
-    "description": "양천 창업인큐베이팅(공유주방&바리스타교육장)운영",
-    "fullLink": "goView('R2023050912330');",
-    "link": "goView('R2023050912330');"
+    "region": "영등포구",
+    "title": "청년온라인플랫폼 운영",
+    "description": "청년온라인플랫폼 운영",
+    "fullLink": "goView('R2023050912349');",
+    "link": "goView('R2023050912349');"
   },
   {
     "region": "영등포구",
@@ -1218,18 +1190,18 @@
     "link": "goView('R2023050912383');"
   },
   {
-    "region": "마포구",
-    "title": "1인 창조기업 지원 센터",
-    "description": "1인 창조기업 지원 센터",
-    "fullLink": "goView('R2023050912377');",
-    "link": "goView('R2023050912377');"
+    "region": "노원구",
+    "title": "청년 창업센터 조성",
+    "description": "청년 창업센터 조성",
+    "fullLink": "goView('R2023050912364');",
+    "link": "goView('R2023050912364');"
   },
   {
-    "region": "마포구",
-    "title": "마포구 청년네트워크 구성 운영",
-    "description": "마포구 청년네트워크 구성 운영",
-    "fullLink": "goView('R2023050912395');",
-    "link": "goView('R2023050912395');"
+    "region": "노원구",
+    "title": "자립청년을 위한 자활사업단",
+    "description": "자립청년을 위한 자활사업단",
+    "fullLink": "goView('R2023050912363');",
+    "link": "goView('R2023050912363');"
   },
   {
     "region": "서대문구",
@@ -1253,18 +1225,18 @@
     "link": "goView('R2023050912375');"
   },
   {
-    "region": "서대문구",
-    "title": "청년 행사개최",
-    "description": "청년 행사개최",
-    "fullLink": "goView('R2023050912371');",
-    "link": "goView('R2023050912371');"
+    "region": "양천구",
+    "title": "온라인마케팅 지원사업(플래너 육성사업)",
+    "description": "온라인마케팅 지원사업(플래너 육성사업)",
+    "fullLink": "goView('R2023050912350');",
+    "link": "goView('R2023050912350');"
   },
   {
-    "region": "구로구",
-    "title": "구로청년 민주시민 교육",
-    "description": "구로청년 민주시민 교육",
-    "fullLink": "goView('R2023050912339');",
-    "link": "goView('R2023050912339');"
+    "region": "양천구",
+    "title": "양천 창업인큐베이팅(공유주방&바리스타교육장)운영",
+    "description": "양천 창업인큐베이팅(공유주방&바리스타교육장)운영",
+    "fullLink": "goView('R2023050912330');",
+    "link": "goView('R2023050912330');"
   },
   {
     "region": "구로구",
@@ -1288,18 +1260,18 @@
     "link": "goView('R2023050912378');"
   },
   {
-    "region": "금천구",
-    "title": "(서울 금천구)대학생 아르바이트",
-    "description": "(서울 금천구)대학생 아르바이트",
-    "fullLink": "goView('R2023050912325');",
-    "link": "goView('R2023050912325');"
+    "region": "마포구",
+    "title": "1인 창조기업 지원 센터",
+    "description": "1인 창조기업 지원 센터",
+    "fullLink": "goView('R2023050912377');",
+    "link": "goView('R2023050912377');"
   },
   {
-    "region": "금천구",
-    "title": "금천 청년 주거상담 서비스",
-    "description": "금천 청년 주거상담 서비스",
-    "fullLink": "goView('R2023050912343');",
-    "link": "goView('R2023050912343');"
+    "region": "마포구",
+    "title": "마포구 청년네트워크 구성 운영",
+    "description": "마포구 청년네트워크 구성 운영",
+    "fullLink": "goView('R2023050912395');",
+    "link": "goView('R2023050912395');"
   },
   {
     "region": "서대문구",
@@ -1324,17 +1296,17 @@
   },
   {
     "region": "서대문구",
-    "title": "청년주택 1호 공급",
-    "description": "청년주택 1호 공급",
-    "fullLink": "goView('R2023050912373');",
-    "link": "goView('R2023050912373');"
+    "title": "청년 행사개최",
+    "description": "청년 행사개최",
+    "fullLink": "goView('R2023050912371');",
+    "link": "goView('R2023050912371');"
   },
   {
     "region": "구로구",
-    "title": "비대면 AI/VR 면접체험관 운영",
-    "description": "비대면 AI/VR 면접체험관 운영",
-    "fullLink": "goView('R2023050912340');",
-    "link": "goView('R2023050912340');"
+    "title": "구로청년 민주시민 교육",
+    "description": "구로청년 민주시민 교육",
+    "fullLink": "goView('R2023050912339');",
+    "link": "goView('R2023050912339');"
   },
   {
     "region": "금천구",
@@ -1358,18 +1330,18 @@
     "link": "goView('R2023050912344');"
   },
   {
-    "region": "강남구",
-    "title": "청년 마음건강 지원사업",
-    "description": "청년 마음건강 지원사업",
-    "fullLink": "goView('R2023050912283');",
-    "link": "goView('R2023050912283');"
+    "region": "금천구",
+    "title": "(서울 금천구)대학생 아르바이트",
+    "description": "(서울 금천구)대학생 아르바이트",
+    "fullLink": "goView('R2023050912325');",
+    "link": "goView('R2023050912325');"
   },
   {
-    "region": "강남구",
-    "title": "신혼부부 및 청년 전월세 대출이자 지원사업",
-    "description": "신혼부부 및 청년 전월세 대출이자 지원사업",
-    "fullLink": "goView('R2023050912281');",
-    "link": "goView('R2023050912281');"
+    "region": "금천구",
+    "title": "금천 청년 주거상담 서비스",
+    "description": "금천 청년 주거상담 서비스",
+    "fullLink": "goView('R2023050912343');",
+    "link": "goView('R2023050912343');"
   },
   {
     "region": "도봉구",
@@ -1393,18 +1365,18 @@
     "link": "goView('R2023050912374');"
   },
   {
-    "region": "영등포구",
-    "title": "영등포 청년건축학교 운영",
-    "description": "영등포 청년건축학교 운영",
-    "fullLink": "goView('R2023050912312');",
-    "link": "goView('R2023050912312');"
+    "region": "서대문구",
+    "title": "청년주택 1호 공급",
+    "description": "청년주택 1호 공급",
+    "fullLink": "goView('R2023050912373');",
+    "link": "goView('R2023050912373');"
   },
   {
-    "region": "관악구",
-    "title": "관악 청년네트워크 운영(공론장 및 토론회)",
-    "description": "관악 청년네트워크 운영(공론장 및 토론회)",
-    "fullLink": "goView('R2023050912285');",
-    "link": "goView('R2023050912285');"
+    "region": "구로구",
+    "title": "비대면 AI/VR 면접체험관 운영",
+    "description": "비대면 AI/VR 면접체험관 운영",
+    "fullLink": "goView('R2023050912340');",
+    "link": "goView('R2023050912340');"
   },
   {
     "region": "관악구",
@@ -1428,18 +1400,18 @@
     "link": "goView('R2023050912284');"
   },
   {
-    "region": "서초구",
-    "title": "취업능력 개발 교육과정",
-    "description": "취업능력 개발 교육과정",
-    "fullLink": "goView('R2023050912291');",
-    "link": "goView('R2023050912291');"
+    "region": "강남구",
+    "title": "청년 마음건강 지원사업",
+    "description": "청년 마음건강 지원사업",
+    "fullLink": "goView('R2023050912283');",
+    "link": "goView('R2023050912283');"
   },
   {
-    "region": "동작구",
-    "title": "동작구형 청년 내일채움공제",
-    "description": "동작구형 청년 내일채움공제",
-    "fullLink": "goView('R2023050912314');",
-    "link": "goView('R2023050912314');"
+    "region": "강남구",
+    "title": "신혼부부 및 청년 전월세 대출이자 지원사업",
+    "description": "신혼부부 및 청년 전월세 대출이자 지원사업",
+    "fullLink": "goView('R2023050912281');",
+    "link": "goView('R2023050912281');"
   },
   {
     "region": "영등포구",
@@ -1464,17 +1436,17 @@
   },
   {
     "region": "영등포구",
-    "title": "(서울 영등포구)대학생 아르바이트",
-    "description": "(서울 영등포구)대학생 아르바이트",
-    "fullLink": "goView('R2023050912294');",
-    "link": "goView('R2023050912294');"
+    "title": "영등포 청년건축학교 운영",
+    "description": "영등포 청년건축학교 운영",
+    "fullLink": "goView('R2023050912312');",
+    "link": "goView('R2023050912312');"
   },
   {
-    "region": "영등포구",
-    "title": "메타버스 플랫폼 운영 및 취업컨설팅",
-    "description": "메타버스 플랫폼 운영 및 취업컨설팅",
-    "fullLink": "goView('R2023050912293');",
-    "link": "goView('R2023050912293');"
+    "region": "관악구",
+    "title": "관악 청년네트워크 운영(공론장 및 토론회)",
+    "description": "관악 청년네트워크 운영(공론장 및 토론회)",
+    "fullLink": "goView('R2023050912285');",
+    "link": "goView('R2023050912285');"
   },
   {
     "region": "영등포구",
@@ -1498,18 +1470,18 @@
     "link": "goView('R2023050912292');"
   },
   {
-    "region": "관악구",
-    "title": "2030 청년마음 안아주기",
-    "description": "2030 청년마음 안아주기",
-    "fullLink": "goView('R2023050912290');",
-    "link": "goView('R2023050912290');"
+    "region": "서초구",
+    "title": "취업능력 개발 교육과정",
+    "description": "취업능력 개발 교육과정",
+    "fullLink": "goView('R2023050912291');",
+    "link": "goView('R2023050912291');"
   },
   {
-    "region": "관악구",
-    "title": "청년 맞춤형 정보 제공",
-    "description": "청년 맞춤형 정보 제공",
-    "fullLink": "goView('R2023050912289');",
-    "link": "goView('R2023050912289');"
+    "region": "동작구",
+    "title": "동작구형 청년 내일채움공제",
+    "description": "동작구형 청년 내일채움공제",
+    "fullLink": "goView('R2023050912314');",
+    "link": "goView('R2023050912314');"
   },
   {
     "region": "관악구",
@@ -1533,18 +1505,18 @@
     "link": "goView('R2023050912262');"
   },
   {
-    "region": "관악구",
-    "title": "(서울 관악구)지역주도형 청년일자리사업",
-    "description": "(서울 관악구)지역주도형 청년일자리사업",
-    "fullLink": "goView('R2023050912287');",
-    "link": "goView('R2023050912287');"
+    "region": "영등포구",
+    "title": "(서울 영등포구)대학생 아르바이트",
+    "description": "(서울 영등포구)대학생 아르바이트",
+    "fullLink": "goView('R2023050912294');",
+    "link": "goView('R2023050912294');"
   },
   {
-    "region": "동작구",
-    "title": "(서울 동작구)청년정책 네트워크 활성화 사업",
-    "description": "(서울 동작구)청년정책 네트워크 활성화 사업",
-    "fullLink": "goView('R2023050912297');",
-    "link": "goView('R2023050912297');"
+    "region": "영등포구",
+    "title": "메타버스 플랫폼 운영 및 취업컨설팅",
+    "description": "메타버스 플랫폼 운영 및 취업컨설팅",
+    "fullLink": "goView('R2023050912293');",
+    "link": "goView('R2023050912293');"
   },
   {
     "region": "동작구",
@@ -1568,18 +1540,18 @@
     "link": "goView('R2023050912308');"
   },
   {
-    "region": "강동구",
-    "title": "청년창업주택",
-    "description": "청년창업주택",
-    "fullLink": "goView('R2023050912251');",
-    "link": "goView('R2023050912251');"
+    "region": "관악구",
+    "title": "2030 청년마음 안아주기",
+    "description": "2030 청년마음 안아주기",
+    "fullLink": "goView('R2023050912290');",
+    "link": "goView('R2023050912290');"
   },
   {
     "region": "관악구",
-    "title": "관악구X삼성전자 청년 취업멘토링",
-    "description": "관악구X삼성전자 청년 취업멘토링",
-    "fullLink": "goView('R2023050912305');",
-    "link": "goView('R2023050912305');"
+    "title": "청년 맞춤형 정보 제공",
+    "description": "청년 맞춤형 정보 제공",
+    "fullLink": "goView('R2023050912289');",
+    "link": "goView('R2023050912289');"
   },
   {
     "region": "관악구",
@@ -1603,18 +1575,18 @@
     "link": "goView('R2023050912288');"
   },
   {
-    "region": "강동구",
-    "title": "사립작은도서관 청년일자리 지원",
-    "description": "사립작은도서관 청년일자리 지원",
-    "fullLink": "goView('R2023050912249');",
-    "link": "goView('R2023050912249');"
+    "region": "관악구",
+    "title": "(서울 관악구)지역주도형 청년일자리사업",
+    "description": "(서울 관악구)지역주도형 청년일자리사업",
+    "fullLink": "goView('R2023050912287');",
+    "link": "goView('R2023050912287');"
   },
   {
-    "region": "강동구",
-    "title": "구천면로 청년다락공방 운영",
-    "description": "구천면로 청년다락공방 운영",
-    "fullLink": "goView('R2023050912268');",
-    "link": "goView('R2023050912268');"
+    "region": "동작구",
+    "title": "(서울 동작구)청년정책 네트워크 활성화 사업",
+    "description": "(서울 동작구)청년정책 네트워크 활성화 사업",
+    "fullLink": "goView('R2023050912297');",
+    "link": "goView('R2023050912297');"
   },
   {
     "region": "송파구",
@@ -1638,18 +1610,18 @@
     "link": "goView('R2023050912279');"
   },
   {
-    "region": "송파구",
-    "title": "(서울 송파구)성년 출발 지원금",
-    "description": "(서울 송파구)성년 출발 지원금",
-    "fullLink": "goView('R2023050912263');",
-    "link": "goView('R2023050912263');"
+    "region": "강동구",
+    "title": "청년창업주택",
+    "description": "청년창업주택",
+    "fullLink": "goView('R2023050912251');",
+    "link": "goView('R2023050912251');"
   },
   {
-    "region": "강동구",
-    "title": "엔젤공방거리 조성",
-    "description": "엔젤공방거리 조성",
-    "fullLink": "goView('R2023050912244');",
-    "link": "goView('R2023050912244');"
+    "region": "관악구",
+    "title": "관악구X삼성전자 청년 취업멘토링",
+    "description": "관악구X삼성전자 청년 취업멘토링",
+    "fullLink": "goView('R2023050912305');",
+    "link": "goView('R2023050912305');"
   },
   {
     "region": "강남구",
@@ -1673,18 +1645,18 @@
     "link": "goView('R2023050912269');"
   },
   {
-    "region": "송파구",
-    "title": "(서울 송파구)중소기업 청년취업인턴제 운영",
-    "description": "(서울 송파구)중소기업 청년취업인턴제 운영",
-    "fullLink": "goView('R2023050912247');",
-    "link": "goView('R2023050912247');"
+    "region": "강동구",
+    "title": "사립작은도서관 청년일자리 지원",
+    "description": "사립작은도서관 청년일자리 지원",
+    "fullLink": "goView('R2023050912249');",
+    "link": "goView('R2023050912249');"
   },
   {
-    "region": "송파구",
-    "title": "송파 ICT청년창업지원센터 운영",
-    "description": "송파 ICT청년창업지원센터 운영",
-    "fullLink": "goView('R2023050912265');",
-    "link": "goView('R2023050912265');"
+    "region": "강동구",
+    "title": "구천면로 청년다락공방 운영",
+    "description": "구천면로 청년다락공방 운영",
+    "fullLink": "goView('R2023050912268');",
+    "link": "goView('R2023050912268');"
   },
   {
     "region": "송파구",
@@ -1708,18 +1680,18 @@
     "link": "goView('R2023050912264');"
   },
   {
-    "region": "서초구",
-    "title": "서초 청년센터",
-    "description": "서초 청년센터",
-    "fullLink": "goView('R2023050912259');",
-    "link": "goView('R2023050912259');"
+    "region": "송파구",
+    "title": "(서울 송파구)성년 출발 지원금",
+    "description": "(서울 송파구)성년 출발 지원금",
+    "fullLink": "goView('R2023050912263');",
+    "link": "goView('R2023050912263');"
   },
   {
-    "region": "서초구",
-    "title": "서리풀청년문화기획단",
-    "description": "서리풀청년문화기획단",
-    "fullLink": "goView('R2023050912278');",
-    "link": "goView('R2023050912278');"
+    "region": "강동구",
+    "title": "엔젤공방거리 조성",
+    "description": "엔젤공방거리 조성",
+    "fullLink": "goView('R2023050912244');",
+    "link": "goView('R2023050912244');"
   },
   {
     "region": "서초구",
@@ -1743,18 +1715,18 @@
     "link": "goView('R2023050912248');"
   },
   {
-    "region": "서초구",
-    "title": "서초실내악축제",
-    "description": "서초실내악축제",
-    "fullLink": "goView('R2023050912256');",
-    "link": "goView('R2023050912256');"
+    "region": "송파구",
+    "title": "(서울 송파구)중소기업 청년취업인턴제 운영",
+    "description": "(서울 송파구)중소기업 청년취업인턴제 운영",
+    "fullLink": "goView('R2023050912247');",
+    "link": "goView('R2023050912247');"
   },
   {
-    "region": "서초구",
-    "title": "찾아가는 꽃자리 콘서트",
-    "description": "찾아가는 꽃자리 콘서트",
-    "fullLink": "goView('R2023050912255');",
-    "link": "goView('R2023050912255');"
+    "region": "송파구",
+    "title": "송파 ICT청년창업지원센터 운영",
+    "description": "송파 ICT청년창업지원센터 운영",
+    "fullLink": "goView('R2023050912265');",
+    "link": "goView('R2023050912265');"
   },
   {
     "region": "서초구",
@@ -1779,17 +1751,17 @@
   },
   {
     "region": "서초구",
-    "title": "취업연계(청년인턴지원사업)",
-    "description": "취업연계(청년인턴지원사업)",
-    "fullLink": "goView('R2023050912271');",
-    "link": "goView('R2023050912271');"
+    "title": "서초 청년센터",
+    "description": "서초 청년센터",
+    "fullLink": "goView('R2023050912259');",
+    "link": "goView('R2023050912259');"
   },
   {
-    "region": "강동구",
-    "title": "강동구 청년네트워크",
-    "description": "강동구 청년네트워크",
-    "fullLink": "goView('R2023050912252');",
-    "link": "goView('R2023050912252');"
+    "region": "서초구",
+    "title": "서리풀청년문화기획단",
+    "description": "서리풀청년문화기획단",
+    "fullLink": "goView('R2023050912278');",
+    "link": "goView('R2023050912278');"
   },
   {
     "region": "서초구",
@@ -1813,18 +1785,18 @@
     "link": "goView('R2023050912275');"
   },
   {
-    "region": "구로구",
-    "title": "구로 청년도전지원사업",
-    "description": "구로 청년도전지원사업",
-    "fullLink": "goView('20240327005400200002');",
-    "link": "goView('20240327005400200002');"
+    "region": "서초구",
+    "title": "서초실내악축제",
+    "description": "서초실내악축제",
+    "fullLink": "goView('R2023050912256');",
+    "link": "goView('R2023050912256');"
   },
   {
     "region": "서초구",
-    "title": "사회적경제 문화예술 청년창업지원 프로젝트",
-    "description": "사회적경제 문화예술 청년창업지원 프로젝트",
-    "fullLink": "goView('R2023050912273');",
-    "link": "goView('R2023050912273');"
+    "title": "찾아가는 꽃자리 콘서트",
+    "description": "찾아가는 꽃자리 콘서트",
+    "fullLink": "goView('R2023050912255');",
+    "link": "goView('R2023050912255');"
   },
   {
     "region": "서초구",
@@ -1848,18 +1820,18 @@
     "link": "goView('R2023050912272');"
   },
   {
-    "region": "동대문구",
-    "title": "청년취업 해Dream 사업",
-    "description": "청년취업 해Dream 사업",
-    "fullLink": "goView('20240417005400200011');",
-    "link": "goView('20240417005400200011');"
+    "region": "서초구",
+    "title": "취업연계(청년인턴지원사업)",
+    "description": "취업연계(청년인턴지원사업)",
+    "fullLink": "goView('R2023050912271');",
+    "link": "goView('R2023050912271');"
   },
   {
-    "region": "서대문구",
-    "title": "서대문구 <청년도전지원사업> 참여자 추가 모집",
-    "description": "서대문구 <청년도전지원사업> 참여자 추가 모집",
-    "fullLink": "goView('20240416005400200006');",
-    "link": "goView('20240416005400200006');"
+    "region": "강동구",
+    "title": "강동구 청년네트워크",
+    "description": "강동구 청년네트워크",
+    "fullLink": "goView('R2023050912252');",
+    "link": "goView('R2023050912252');"
   },
   {
     "region": "강동구",
@@ -1883,11 +1855,18 @@
     "link": "goView('20240328005400200003');"
   },
   {
-    "region": "영등포구",
-    "title": "청년 국가자격증 응시료 지원(영등포구)",
-    "description": "청년 국가자격증 응시료 지원(영등포구)",
-    "fullLink": "goView('20240418005400200015');",
-    "link": "goView('20240418005400200015');"
+    "region": "구로구",
+    "title": "구로 청년도전지원사업",
+    "description": "구로 청년도전지원사업",
+    "fullLink": "goView('20240327005400200002');",
+    "link": "goView('20240327005400200002');"
+  },
+  {
+    "region": "서초구",
+    "title": "사회적경제 문화예술 청년창업지원 프로젝트",
+    "description": "사회적경제 문화예술 청년창업지원 프로젝트",
+    "fullLink": "goView('R2023050912273');",
+    "link": "goView('R2023050912273');"
   },
   {
     "region": "양천구",
@@ -1895,13 +1874,6 @@
     "description": "청년 국가자격증 응시료 지원(양천구)",
     "fullLink": "goView('20240418005400200014');",
     "link": "goView('20240418005400200014');"
-  },
-  {
-    "region": "성북구",
-    "title": "미취업 청년 어학 및 자격증 응시료 지원(성북구)",
-    "description": "미취업 청년 어학 및 자격증 응시료 지원(성북구)",
-    "fullLink": "goView('20240418005400200013');",
-    "link": "goView('20240418005400200013');"
   },
   {
     "region": "중랑구",
@@ -1918,11 +1890,18 @@
     "link": "goView('20240418005400200025');"
   },
   {
-    "region": "마포구",
-    "title": "청년 취업준비 비용 지원사업(마포구)",
-    "description": "청년 취업준비 비용 지원사업(마포구)",
-    "fullLink": "goView('20240418005400200018');",
-    "link": "goView('20240418005400200018');"
+    "region": "동대문구",
+    "title": "청년취업 해Dream 사업",
+    "description": "청년취업 해Dream 사업",
+    "fullLink": "goView('20240417005400200011');",
+    "link": "goView('20240417005400200011');"
+  },
+  {
+    "region": "서대문구",
+    "title": "서대문구 <청년도전지원사업> 참여자 추가 모집",
+    "description": "서대문구 <청년도전지원사업> 참여자 추가 모집",
+    "fullLink": "goView('20240416005400200006');",
+    "link": "goView('20240416005400200006');"
   },
   {
     "region": "관악구",
@@ -1953,11 +1932,11 @@
     "link": "goView('20240418005400200016');"
   },
   {
-    "region": "서초구",
-    "title": "서초 AI 칼리지",
-    "description": "서초 AI 칼리지",
-    "fullLink": "goView('20240419005400200007');",
-    "link": "goView('20240419005400200007');"
+    "region": "영등포구",
+    "title": "청년 국가자격증 응시료 지원(영등포구)",
+    "description": "청년 국가자격증 응시료 지원(영등포구)",
+    "fullLink": "goView('20240418005400200015');",
+    "link": "goView('20240418005400200015');"
   },
   {
     "region": "동작구",
@@ -1988,11 +1967,11 @@
     "link": "goView('20240418005400200019');"
   },
   {
-    "region": "용산구",
-    "title": "일자리기금 청년기업 융자지원",
-    "description": "일자리기금 청년기업 융자지원",
-    "fullLink": "goView('20240419005400200015');",
-    "link": "goView('20240419005400200015');"
+    "region": "마포구",
+    "title": "청년 취업준비 비용 지원사업(마포구)",
+    "description": "청년 취업준비 비용 지원사업(마포구)",
+    "fullLink": "goView('20240418005400200018');",
+    "link": "goView('20240418005400200018');"
   },
   {
     "region": "용산구",
@@ -2023,11 +2002,11 @@
     "link": "goView('20240419005400200013');"
   },
   {
-    "region": "노원구",
-    "title": "노원구 2024년 스터디카페·독서실 이용권 지원사업",
-    "description": "노원구 2024년 스터디카페·독서실 이용권 지원사업",
-    "fullLink": "goView('20240424005400200004');",
-    "link": "goView('20240424005400200004');"
+    "region": "서초구",
+    "title": "서초 AI 칼리지",
+    "description": "서초 AI 칼리지",
+    "fullLink": "goView('20240419005400200007');",
+    "link": "goView('20240419005400200007');"
   },
   {
     "region": "강동구",
@@ -2058,11 +2037,11 @@
     "link": "goView('20240422005400200084');"
   },
   {
-    "region": "동대문구",
-    "title": "휘경마을 두레주택 추가입주자 모집(동대문구)",
-    "description": "휘경마을 두레주택 추가입주자 모집(동대문구)",
-    "fullLink": "goView('20240510005400200011');",
-    "link": "goView('20240510005400200011');"
+    "region": "용산구",
+    "title": "일자리기금 청년기업 융자지원",
+    "description": "일자리기금 청년기업 융자지원",
+    "fullLink": "goView('20240419005400200015');",
+    "link": "goView('20240419005400200015');"
   },
   {
     "region": "관악구",
@@ -2093,11 +2072,11 @@
     "link": "goView('20240425005400200010');"
   },
   {
-    "region": "동작구",
-    "title": "동작구 청년 맞춤형 공공주택 입주자 모집",
-    "description": "동작구 청년 맞춤형 공공주택 입주자 모집",
-    "fullLink": "goView('20240517005400200007');",
-    "link": "goView('20240517005400200007');"
+    "region": "노원구",
+    "title": "노원구 2024년 스터디카페·독서실 이용권 지원사업",
+    "description": "노원구 2024년 스터디카페·독서실 이용권 지원사업",
+    "fullLink": "goView('20240424005400200004');",
+    "link": "goView('20240424005400200004');"
   },
   {
     "region": "동작구",
@@ -2128,11 +2107,11 @@
     "link": "goView('20240510005400200005');"
   },
   {
-    "region": "관악구",
-    "title": "관악구X삼성전자 청년 취업멘토링",
-    "description": "관악구X삼성전자 청년 취업멘토링",
-    "fullLink": "goView('20240619005400200002');",
-    "link": "goView('20240619005400200002');"
+    "region": "동대문구",
+    "title": "휘경마을 두레주택 추가입주자 모집(동대문구)",
+    "description": "휘경마을 두레주택 추가입주자 모집(동대문구)",
+    "fullLink": "goView('20240510005400200011');",
+    "link": "goView('20240510005400200011');"
   },
   {
     "region": "서대문구",
@@ -2163,11 +2142,11 @@
     "link": "goView('20240528005400200001');"
   },
   {
-    "region": "관악구",
-    "title": "2050 청·장년마음 안아주기",
-    "description": "2050 청·장년마음 안아주기",
-    "fullLink": "goView('20240621005400200006');",
-    "link": "goView('20240621005400200006');"
+    "region": "동작구",
+    "title": "동작구 청년 맞춤형 공공주택 입주자 모집",
+    "description": "동작구 청년 맞춤형 공공주택 입주자 모집",
+    "fullLink": "goView('20240517005400200007');",
+    "link": "goView('20240517005400200007');"
   },
   {
     "region": "관악구",
@@ -2198,11 +2177,11 @@
     "link": "goView('20240621005400200002');"
   },
   {
-    "region": "송파구",
-    "title": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
-    "description": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
-    "fullLink": "goView('20240624005400200009');",
-    "link": "goView('20240624005400200009');"
+    "region": "관악구",
+    "title": "관악구X삼성전자 청년 취업멘토링",
+    "description": "관악구X삼성전자 청년 취업멘토링",
+    "fullLink": "goView('20240619005400200002');",
+    "link": "goView('20240619005400200002');"
   },
   {
     "region": "송파구",
@@ -2233,18 +2212,11 @@
     "link": "goView('20240621005400200007');"
   },
   {
-    "region": "강남구",
-    "title": "혁신인재육성 아카데미 운영",
-    "description": "혁신인재육성 아카데미 운영",
-    "fullLink": "goView('20240703005400200002');",
-    "link": "goView('20240703005400200002');"
-  },
-  {
-    "region": "강남구",
-    "title": "청년 취업아카데미",
-    "description": "청년 취업아카데미",
-    "fullLink": "goView('20240703005400200001');",
-    "link": "goView('20240703005400200001');"
+    "region": "관악구",
+    "title": "2050 청·장년마음 안아주기",
+    "description": "2050 청·장년마음 안아주기",
+    "fullLink": "goView('20240621005400200006');",
+    "link": "goView('20240621005400200006');"
   },
   {
     "region": "광진구",
@@ -2268,11 +2240,18 @@
     "link": "goView('20240627005400200004');"
   },
   {
-    "region": "동작구",
-    "title": "군 복무 청년 상해보험 가입(동작구)",
-    "description": "군 복무 청년 상해보험 가입(동작구)",
-    "fullLink": "goView('20240703005400200012');",
-    "link": "goView('20240703005400200012');"
+    "region": "송파구",
+    "title": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
+    "description": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
+    "fullLink": "goView('20240624005400200009');",
+    "link": "goView('20240624005400200009');"
+  },
+  {
+    "region": "송파구",
+    "title": "송파 ICT청년창업지원센터 운영",
+    "description": "송파 ICT청년창업지원센터 운영",
+    "fullLink": "goView('20240624005400200006');",
+    "link": "goView('20240624005400200006');"
   },
   {
     "region": "동작구",
@@ -2303,11 +2282,11 @@
     "link": "goView('20240703005400200003');"
   },
   {
-    "region": "용산구",
-    "title": "청년심리지원프로그램 나에게 건네는 마음 인사",
-    "description": "청년심리지원프로그램 나에게 건네는 마음 인사",
-    "fullLink": "goView('20240703005400200015');",
-    "link": "goView('20240703005400200015');"
+    "region": "강남구",
+    "title": "혁신인재육성 아카데미 운영",
+    "description": "혁신인재육성 아카데미 운영",
+    "fullLink": "goView('20240703005400200002');",
+    "link": "goView('20240703005400200002');"
   },
   {
     "region": "중구",
@@ -2338,11 +2317,11 @@
     "link": "goView('20240703005400200013');"
   },
   {
-    "region": "구로구",
-    "title": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
-    "description": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
-    "fullLink": "goView('20240709005400200010');",
-    "link": "goView('20240709005400200010');"
+    "region": "동작구",
+    "title": "군 복무 청년 상해보험 가입(동작구)",
+    "description": "군 복무 청년 상해보험 가입(동작구)",
+    "fullLink": "goView('20240703005400200012');",
+    "link": "goView('20240703005400200012');"
   },
   {
     "region": "마포구",
@@ -2373,11 +2352,11 @@
     "link": "goView('20240703005400200006');"
   },
   {
-    "region": "노원구",
-    "title": "노원구 청년일자리센터 청년 내일",
-    "description": "노원구 청년일자리센터 청년 내일",
-    "fullLink": "goView('20240710005400200004');",
-    "link": "goView('20240710005400200004');"
+    "region": "용산구",
+    "title": "청년심리지원프로그램 나에게 건네는 마음 인사",
+    "description": "청년심리지원프로그램 나에게 건네는 마음 인사",
+    "fullLink": "goView('20240703005400200015');",
+    "link": "goView('20240703005400200015');"
   },
   {
     "region": "노원구",
@@ -2408,11 +2387,11 @@
     "link": "goView('20240710005400200022');"
   },
   {
-    "region": "강북구",
-    "title": "강북구 청년네트워크 운영",
-    "description": "강북구 청년네트워크 운영",
-    "fullLink": "goView('20240715005400200025');",
-    "link": "goView('20240715005400200025');"
+    "region": "구로구",
+    "title": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
+    "description": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
+    "fullLink": "goView('20240709005400200010');",
+    "link": "goView('20240709005400200010');"
   },
   {
     "region": "강북구",
@@ -2443,11 +2422,11 @@
     "link": "goView('20240710005400200010');"
   },
   {
-    "region": "도봉구",
-    "title": "청년 자기개발 도서구입비 지원",
-    "description": "청년 자기개발 도서구입비 지원",
-    "fullLink": "goView('20240715005400200017');",
-    "link": "goView('20240715005400200017');"
+    "region": "노원구",
+    "title": "노원구 청년일자리센터 청년 내일",
+    "description": "노원구 청년일자리센터 청년 내일",
+    "fullLink": "goView('20240710005400200004');",
+    "link": "goView('20240710005400200004');"
   },
   {
     "region": "강북구",
@@ -2478,11 +2457,11 @@
     "link": "goView('20240715005400200003');"
   },
   {
-    "region": "도봉구",
-    "title": "청년취업지원센터(도봉구)",
-    "description": "청년취업지원센터(도봉구)",
-    "fullLink": "goView('20240715005400200008');",
-    "link": "goView('20240715005400200008');"
+    "region": "강북구",
+    "title": "강북구 청년네트워크 운영",
+    "description": "강북구 청년네트워크 운영",
+    "fullLink": "goView('20240715005400200025');",
+    "link": "goView('20240715005400200025');"
   },
   {
     "region": "도봉구",
@@ -2513,11 +2492,11 @@
     "link": "goView('20240715005400200016');"
   },
   {
-    "region": "은평구",
-    "title": "청년일자리창출사업",
-    "description": "청년일자리창출사업",
-    "fullLink": "goView('20240717005400200014');",
-    "link": "goView('20240717005400200014');"
+    "region": "도봉구",
+    "title": "청년 자기개발 도서구입비 지원",
+    "description": "청년 자기개발 도서구입비 지원",
+    "fullLink": "goView('20240715005400200017');",
+    "link": "goView('20240715005400200017');"
   },
   {
     "region": "은평구",
@@ -2548,11 +2527,11 @@
     "link": "goView('20240715005400200009');"
   },
   {
-    "region": "강남구",
-    "title": "청년 마음과 건강함 사이(심리상담)",
-    "description": "청년 마음과 건강함 사이(심리상담)",
-    "fullLink": "goView('20240805005400200031');",
-    "link": "goView('20240805005400200031');"
+    "region": "도봉구",
+    "title": "청년취업지원센터(도봉구)",
+    "description": "청년취업지원센터(도봉구)",
+    "fullLink": "goView('20240715005400200008');",
+    "link": "goView('20240715005400200008');"
   },
   {
     "region": "강남구",
@@ -2583,11 +2562,11 @@
     "link": "goView('20240717005400200007');"
   },
   {
-    "region": "강북구",
-    "title": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
-    "description": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
-    "fullLink": "goView('20240805005400200005');",
-    "link": "goView('20240805005400200005');"
+    "region": "은평구",
+    "title": "청년일자리창출사업",
+    "description": "청년일자리창출사업",
+    "fullLink": "goView('20240717005400200014');",
+    "link": "goView('20240717005400200014');"
   },
   {
     "region": "강북구",
@@ -2618,11 +2597,11 @@
     "link": "goView('20240805005400200014');"
   },
   {
-    "region": "구로구",
-    "title": "G밸리형 구로청년 일경험 지원사업",
-    "description": "G밸리형 구로청년 일경험 지원사업",
-    "fullLink": "goView('20240805005400200012');",
-    "link": "goView('20240805005400200012');"
+    "region": "강남구",
+    "title": "청년 마음과 건강함 사이(심리상담)",
+    "description": "청년 마음과 건강함 사이(심리상담)",
+    "fullLink": "goView('20240805005400200031');",
+    "link": "goView('20240805005400200031');"
   },
   {
     "region": "구로구",
@@ -2653,11 +2632,11 @@
     "link": "goView('20240805005400200034');"
   },
   {
-    "region": "강서구",
-    "title": "청년참여 활성화 지원사업",
-    "description": "청년참여 활성화 지원사업",
-    "fullLink": "goView('20240806005400200014');",
-    "link": "goView('20240806005400200014');"
+    "region": "강북구",
+    "title": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
+    "description": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
+    "fullLink": "goView('20240805005400200005');",
+    "link": "goView('20240805005400200005');"
   },
   {
     "region": "강서구",
@@ -2688,11 +2667,11 @@
     "link": "goView('20240806005400200011');"
   },
   {
-    "region": "강동구",
-    "title": "미래내일 일경험 인턴 모집",
-    "description": "미래내일 일경험 인턴 모집",
-    "fullLink": "goView('20240809005400200001');",
-    "link": "goView('20240809005400200001');"
+    "region": "구로구",
+    "title": "G밸리형 구로청년 일경험 지원사업",
+    "description": "G밸리형 구로청년 일경험 지원사업",
+    "fullLink": "goView('20240805005400200012');",
+    "link": "goView('20240805005400200012');"
   },
   {
     "region": "관악구",
@@ -2723,11 +2702,11 @@
     "link": "goView('20240806005400200008');"
   },
   {
-    "region": "송파구",
-    "title": "송파 청년CEO포럼",
-    "description": "송파 청년CEO포럼",
-    "fullLink": "goView('20240812005400200008');",
-    "link": "goView('20240812005400200008');"
+    "region": "강서구",
+    "title": "청년참여 활성화 지원사업",
+    "description": "청년참여 활성화 지원사업",
+    "fullLink": "goView('20240806005400200014');",
+    "link": "goView('20240806005400200014');"
   },
   {
     "region": "송파구",
@@ -2758,11 +2737,11 @@
     "link": "goView('20240809005400200002');"
   },
   {
-    "region": "강남구",
-    "title": "강남구 청년 네트워크 운영",
-    "description": "강남구 청년 네트워크 운영",
-    "fullLink": "goView('20240812005400200011');",
-    "link": "goView('20240812005400200011');"
+    "region": "강동구",
+    "title": "미래내일 일경험 인턴 모집",
+    "description": "미래내일 일경험 인턴 모집",
+    "fullLink": "goView('20240809005400200001');",
+    "link": "goView('20240809005400200001');"
   },
   {
     "region": "송파구",
@@ -2793,11 +2772,11 @@
     "link": "goView('20240812005400200002');"
   },
   {
-    "region": "양천구",
-    "title": "서울청년센터 양천",
-    "description": "서울청년센터 양천",
-    "fullLink": "goView('20240814005400200002');",
-    "link": "goView('20240814005400200002');"
+    "region": "송파구",
+    "title": "송파 청년CEO포럼",
+    "description": "송파 청년CEO포럼",
+    "fullLink": "goView('20240812005400200008');",
+    "link": "goView('20240812005400200008');"
   },
   {
     "region": "양천구",
@@ -2828,11 +2807,11 @@
     "link": "goView('20240812005400200013');"
   },
   {
-    "region": "용산구",
-    "title": "용산구 청년창업지원센터",
-    "description": "용산구 청년창업지원센터",
-    "fullLink": "goView('20240828005400200002');",
-    "link": "goView('20240828005400200002');"
+    "region": "강남구",
+    "title": "강남구 청년 네트워크 운영",
+    "description": "강남구 청년 네트워크 운영",
+    "fullLink": "goView('20240812005400200011');",
+    "link": "goView('20240812005400200011');"
   },
   {
     "region": "종로구",
@@ -2863,11 +2842,11 @@
     "link": "goView('20240814005400200003');"
   },
   {
-    "region": "은평구",
-    "title": "은평구심리지원센터 다독임(심리상담, 심리치료 제공)",
-    "description": "은평구심리지원센터 다독임(심리상담, 심리치료 제공)",
-    "fullLink": "goView('20240923005400200002');",
-    "link": "goView('20240923005400200002');"
+    "region": "양천구",
+    "title": "서울청년센터 양천",
+    "description": "서울청년센터 양천",
+    "fullLink": "goView('20240814005400200002');",
+    "link": "goView('20240814005400200002');"
   },
   {
     "region": "용산구",
@@ -2899,17 +2878,17 @@
   },
   {
     "region": "용산구",
-    "title": "무역마스터 글로벌 전문가 육성사업",
-    "description": "무역마스터 글로벌 전문가 육성사업",
-    "fullLink": "goView('R2024082826244');",
-    "link": "goView('R2024082826244');"
+    "title": "용산구 청년창업지원센터",
+    "description": "용산구 청년창업지원센터",
+    "fullLink": "goView('20240828005400200002');",
+    "link": "goView('20240828005400200002');"
   },
   {
-    "region": "종로구",
-    "title": "청년 1인가구 다독다독 건강밥상(종로구)",
-    "description": "청년 1인가구 다독다독 건강밥상(종로구)",
-    "fullLink": "goView('R2024082826203');",
-    "link": "goView('R2024082826203');"
+    "region": "성동구",
+    "title": "미취업 청년 어학자격시험 응시료 지원(성동구)",
+    "description": "미취업 청년 어학자격시험 응시료 지원(성동구)",
+    "fullLink": "goView('R2024082826228');",
+    "link": "goView('R2024082826228');"
   },
   {
     "region": "은평구",
@@ -2933,6 +2912,13 @@
     "link": "goView('20240930005400200005');"
   },
   {
+    "region": "은평구",
+    "title": "은평구심리지원센터 다독임(심리상담, 심리치료 제공)",
+    "description": "은평구심리지원센터 다독임(심리상담, 심리치료 제공)",
+    "fullLink": "goView('20240923005400200002');",
+    "link": "goView('20240923005400200002');"
+  },
+  {
     "region": "종로구",
     "title": "청년 생활클리닉",
     "description": "청년 생활클리닉",
@@ -2941,52 +2927,10 @@
   },
   {
     "region": "용산구",
-    "title": "용산구 청년창업지원센터",
-    "description": "용산구 청년창업지원센터",
-    "fullLink": "goView('R2024082826223');",
-    "link": "goView('R2024082826223');"
-  },
-  {
-    "region": "종로구",
-    "title": "종로청년창업센터",
-    "description": "종로청년창업센터",
-    "fullLink": "goView('R2024082826183');",
-    "link": "goView('R2024082826183');"
-  },
-  {
-    "region": "용산구",
-    "title": "하반기 중소기업육성기금 융자지원",
-    "description": "하반기 중소기업육성기금 융자지원",
-    "fullLink": "goView('R2024082826227');",
-    "link": "goView('R2024082826227');"
-  },
-  {
-    "region": "성동구",
-    "title": "미취업 청년 어학자격시험 응시료 지원(성동구)",
-    "description": "미취업 청년 어학자격시험 응시료 지원(성동구)",
-    "fullLink": "goView('R2024082826228');",
-    "link": "goView('R2024082826228');"
-  },
-  {
-    "region": "양천구",
-    "title": "자립준비청년 지원(양천구)",
-    "description": "자립준비청년 지원(양천구)",
-    "fullLink": "goView('R2024081426045');",
-    "link": "goView('R2024081426045');"
-  },
-  {
-    "region": "양천구",
-    "title": "서울청년센터 양천",
-    "description": "서울청년센터 양천",
-    "fullLink": "goView('R2024081426044');",
-    "link": "goView('R2024081426044');"
-  },
-  {
-    "region": "양천구",
-    "title": "청년점포 및 청년기업 육성사업 지원",
-    "description": "청년점포 및 청년기업 육성사업 지원",
-    "fullLink": "goView('R2024081426043');",
-    "link": "goView('R2024081426043');"
+    "title": "청년주간행사",
+    "description": "청년주간행사",
+    "fullLink": "goView('R2024082826224');",
+    "link": "goView('R2024082826224');"
   },
   {
     "region": "용산구",
@@ -2997,10 +2941,157 @@
   },
   {
     "region": "용산구",
-    "title": "청년주간행사",
-    "description": "청년주간행사",
-    "fullLink": "goView('R2024082826224');",
-    "link": "goView('R2024082826224');"
+    "title": "하반기 중소기업육성기금 융자지원",
+    "description": "하반기 중소기업육성기금 융자지원",
+    "fullLink": "goView('R2024082826227');",
+    "link": "goView('R2024082826227');"
+  },
+  {
+    "region": "용산구",
+    "title": "무역마스터 글로벌 전문가 육성사업",
+    "description": "무역마스터 글로벌 전문가 육성사업",
+    "fullLink": "goView('R2024082826244');",
+    "link": "goView('R2024082826244');"
+  },
+  {
+    "region": "양천구",
+    "title": "자립준비청년 지원(양천구)",
+    "description": "자립준비청년 지원(양천구)",
+    "fullLink": "goView('R2024081426045');",
+    "link": "goView('R2024081426045');"
+  },
+  {
+    "region": "양천구",
+    "title": "청년점포 및 청년기업 육성사업 지원",
+    "description": "청년점포 및 청년기업 육성사업 지원",
+    "fullLink": "goView('R2024081426043');",
+    "link": "goView('R2024081426043');"
+  },
+  {
+    "region": "종로구",
+    "title": "종로청년창업센터",
+    "description": "종로청년창업센터",
+    "fullLink": "goView('R2024082826183');",
+    "link": "goView('R2024082826183');"
+  },
+  {
+    "region": "용산구",
+    "title": "용산구 청년창업지원센터",
+    "description": "용산구 청년창업지원센터",
+    "fullLink": "goView('R2024082826223');",
+    "link": "goView('R2024082826223');"
+  },
+  {
+    "region": "종로구",
+    "title": "청년 1인가구 다독다독 건강밥상(종로구)",
+    "description": "청년 1인가구 다독다독 건강밥상(종로구)",
+    "fullLink": "goView('R2024082826203');",
+    "link": "goView('R2024082826203');"
+  },
+  {
+    "region": "금천구",
+    "title": "금천 청년기록단 모집",
+    "description": "금천 청년기록단 모집",
+    "fullLink": "goView('R2024080625823');",
+    "link": "goView('R2024080625823');"
+  },
+  {
+    "region": "구로구",
+    "title": "구로청년창업지원센터 하반기 교육",
+    "description": "구로청년창업지원센터 하반기 교육",
+    "fullLink": "goView('R2024080525790');",
+    "link": "goView('R2024080525790');"
+  },
+  {
+    "region": "구로구",
+    "title": "구로 청년공간 청년이룸 운영",
+    "description": "구로 청년공간 청년이룸 운영",
+    "fullLink": "goView('R2024080525787');",
+    "link": "goView('R2024080525787');"
+  },
+  {
+    "region": "강남구",
+    "title": "교통약자 교통비 지원사업(강남구)",
+    "description": "교통약자 교통비 지원사업(강남구)",
+    "fullLink": "goView('R2024081225950');",
+    "link": "goView('R2024081225950');"
+  },
+  {
+    "region": "양천구",
+    "title": "서울청년센터 양천",
+    "description": "서울청년센터 양천",
+    "fullLink": "goView('R2024081426044');",
+    "link": "goView('R2024081426044');"
+  },
+  {
+    "region": "강서구",
+    "title": "서울 캠퍼스타운 사업",
+    "description": "서울 캠퍼스타운 사업",
+    "fullLink": "goView('R2024080625808');",
+    "link": "goView('R2024080625808');"
+  },
+  {
+    "region": "강서구",
+    "title": "청년참여 활성화 지원사업",
+    "description": "청년참여 활성화 지원사업",
+    "fullLink": "goView('R2024080625831');",
+    "link": "goView('R2024080625831');"
+  },
+  {
+    "region": "금천구",
+    "title": "소셜믹스형 공공임대주택 (청년주택)",
+    "description": "소셜믹스형 공공임대주택 (청년주택)",
+    "fullLink": "goView('R2024080625825');",
+    "link": "goView('R2024080625825');"
+  },
+  {
+    "region": "금천구",
+    "title": "청년활동공간 청춘삘딩 운영",
+    "description": "청년활동공간 청춘삘딩 운영",
+    "fullLink": "goView('R2024080625804');",
+    "link": "goView('R2024080625804');"
+  },
+  {
+    "region": "금천구",
+    "title": "G밸리 하우스 (청년주택)",
+    "description": "G밸리 하우스 (청년주택)",
+    "fullLink": "goView('R2024080625824');",
+    "link": "goView('R2024080625824');"
+  },
+  {
+    "region": "관악구",
+    "title": "청년 기자단 운영",
+    "description": "청년 기자단 운영",
+    "fullLink": "goView('R2024080625809');",
+    "link": "goView('R2024080625809');"
+  },
+  {
+    "region": "송파구",
+    "title": "ICT산업기반 전문인력 양성",
+    "description": "ICT산업기반 전문인력 양성",
+    "fullLink": "goView('R2024081225947');",
+    "link": "goView('R2024081225947');"
+  },
+  {
+    "region": "강남구",
+    "title": "강남구 청년 일자리 CATCH 프로젝트",
+    "description": "강남구 청년 일자리 CATCH 프로젝트",
+    "fullLink": "goView('R2024081225967');",
+    "link": "goView('R2024081225967');"
+  },
+  {
+    "region": "관악구",
+    "title": "맞춤형 정보 제공 및 홍보활동_ ‘웰컴관악’ 제작 및 배포",
+    "description": "맞춤형 정보 제공 및 홍보활동_ ‘웰컴관악’ 제작 및 배포",
+    "fullLink": "goView('R2024080625810');",
+    "link": "goView('R2024080625810');"
+  },
+  {
+    "region": "송파구",
+    "title": "문정비즈밸리 일자리허브센터 운영",
+    "description": "문정비즈밸리 일자리허브센터 운영",
+    "fullLink": "goView('R2024081225946');",
+    "link": "goView('R2024081225946');"
   },
   {
     "region": "송파구",
@@ -3038,118 +3129,6 @@
     "link": "goView('R2024080925925');"
   },
   {
-    "region": "구로구",
-    "title": "구로 청년공간 청년이룸 운영",
-    "description": "구로 청년공간 청년이룸 운영",
-    "fullLink": "goView('R2024080525787');",
-    "link": "goView('R2024080525787');"
-  },
-  {
-    "region": "강남구",
-    "title": "교통약자 교통비 지원사업(강남구)",
-    "description": "교통약자 교통비 지원사업(강남구)",
-    "fullLink": "goView('R2024081225950');",
-    "link": "goView('R2024081225950');"
-  },
-  {
-    "region": "강남구",
-    "title": "강남구 청년 일자리 CATCH 프로젝트",
-    "description": "강남구 청년 일자리 CATCH 프로젝트",
-    "fullLink": "goView('R2024081225967');",
-    "link": "goView('R2024081225967');"
-  },
-  {
-    "region": "송파구",
-    "title": "ICT산업기반 전문인력 양성",
-    "description": "ICT산업기반 전문인력 양성",
-    "fullLink": "goView('R2024081225947');",
-    "link": "goView('R2024081225947');"
-  },
-  {
-    "region": "송파구",
-    "title": "문정비즈밸리 일자리허브센터 운영",
-    "description": "문정비즈밸리 일자리허브센터 운영",
-    "fullLink": "goView('R2024081225946');",
-    "link": "goView('R2024081225946');"
-  },
-  {
-    "region": "금천구",
-    "title": "소셜믹스형 공공임대주택 (청년주택)",
-    "description": "소셜믹스형 공공임대주택 (청년주택)",
-    "fullLink": "goView('R2024080625825');",
-    "link": "goView('R2024080625825');"
-  },
-  {
-    "region": "금천구",
-    "title": "청년활동공간 청춘삘딩 운영",
-    "description": "청년활동공간 청춘삘딩 운영",
-    "fullLink": "goView('R2024080625804');",
-    "link": "goView('R2024080625804');"
-  },
-  {
-    "region": "금천구",
-    "title": "G밸리 하우스 (청년주택)",
-    "description": "G밸리 하우스 (청년주택)",
-    "fullLink": "goView('R2024080625824');",
-    "link": "goView('R2024080625824');"
-  },
-  {
-    "region": "금천구",
-    "title": "금천 청년기록단 모집",
-    "description": "금천 청년기록단 모집",
-    "fullLink": "goView('R2024080625823');",
-    "link": "goView('R2024080625823');"
-  },
-  {
-    "region": "구로구",
-    "title": "구로청년창업지원센터 하반기 교육",
-    "description": "구로청년창업지원센터 하반기 교육",
-    "fullLink": "goView('R2024080525790');",
-    "link": "goView('R2024080525790');"
-  },
-  {
-    "region": "강남구",
-    "title": "청년 마음과 건강함 사이(심리상담)",
-    "description": "청년 마음과 건강함 사이(심리상담)",
-    "fullLink": "goView('R2024080525726');",
-    "link": "goView('R2024080525726');"
-  },
-  {
-    "region": "관악구",
-    "title": "맞춤형 정보 제공 및 홍보활동_ ‘웰컴관악’ 제작 및 배포",
-    "description": "맞춤형 정보 제공 및 홍보활동_ ‘웰컴관악’ 제작 및 배포",
-    "fullLink": "goView('R2024080625810');",
-    "link": "goView('R2024080625810');"
-  },
-  {
-    "region": "관악구",
-    "title": "청년 기자단 운영",
-    "description": "청년 기자단 운영",
-    "fullLink": "goView('R2024080625809');",
-    "link": "goView('R2024080625809');"
-  },
-  {
-    "region": "강서구",
-    "title": "서울 캠퍼스타운 사업",
-    "description": "서울 캠퍼스타운 사업",
-    "fullLink": "goView('R2024080625808');",
-    "link": "goView('R2024080625808');"
-  },
-  {
-    "region": "강서구",
-    "title": "청년참여 활성화 지원사업",
-    "description": "청년참여 활성화 지원사업",
-    "fullLink": "goView('R2024080625831');",
-    "link": "goView('R2024080625831');"
-  },
-  {
-    "region": "강남구",
-    "title": "강남 청년정보 홈페이지 명칭 공모",
-    "description": "강남 청년정보 홈페이지 명칭 공모",
-    "fullLink": "goView('R2024080525727');",
-    "link": "goView('R2024080525727');"
-  },
-  {
     "region": "강북구",
     "title": "청년축제(강북구)",
     "description": "청년축제(강북구)",
@@ -3157,11 +3136,11 @@
     "link": "goView('R2024080525767');"
   },
   {
-    "region": "강북구",
-    "title": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
-    "description": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
-    "fullLink": "goView('R2024080525784');",
-    "link": "goView('R2024080525784');"
+    "region": "강남구",
+    "title": "청년 마음과 건강함 사이(심리상담)",
+    "description": "청년 마음과 건강함 사이(심리상담)",
+    "fullLink": "goView('R2024080525726');",
+    "link": "goView('R2024080525726');"
   },
   {
     "region": "강남구",
@@ -3178,6 +3157,13 @@
     "link": "goView('R2024080525743');"
   },
   {
+    "region": "강남구",
+    "title": "강남 청년정보 홈페이지 명칭 공모",
+    "description": "강남 청년정보 홈페이지 명칭 공모",
+    "fullLink": "goView('R2024080525727');",
+    "link": "goView('R2024080525727');"
+  },
+  {
     "region": "은평구",
     "title": "서울 청년센터 은평 운영",
     "description": "서울 청년센터 은평 운영",
@@ -3186,10 +3172,10 @@
   },
   {
     "region": "은평구",
-    "title": "맞춤형 공공원룸주택 (창업인의 집)",
-    "description": "맞춤형 공공원룸주택 (창업인의 집)",
-    "fullLink": "goView('R2024071725080');",
-    "link": "goView('R2024071725080');"
+    "title": "청년일자리창출사업",
+    "description": "청년일자리창출사업",
+    "fullLink": "goView('R2024071725100');",
+    "link": "goView('R2024071725100');"
   },
   {
     "region": "은평구",
@@ -3199,13 +3185,6 @@
     "link": "goView('R2024071725081');"
   },
   {
-    "region": "은평구",
-    "title": "청년 창업점포 운영",
-    "description": "청년 창업점포 운영",
-    "fullLink": "goView('R2024071725102');",
-    "link": "goView('R2024071725102');"
-  },
-  {
     "region": "노원구",
     "title": "청년 평생 교육 프로그램 ‘다 담다’ 운영(노원구)",
     "description": "청년 평생 교육 프로그램 ‘다 담다’ 운영(노원구)",
@@ -3213,11 +3192,11 @@
     "link": "goView('R2024071725114');"
   },
   {
-    "region": "도봉구",
-    "title": "공공기관 실무형 청년인턴십 운영",
-    "description": "공공기관 실무형 청년인턴십 운영",
-    "fullLink": "goView('R2024071524977');",
-    "link": "goView('R2024071524977');"
+    "region": "강북구",
+    "title": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
+    "description": "인공지능(AI)을 활용한 면접, 자기소개서 분석·진단 서비스 운영",
+    "fullLink": "goView('R2024080525784');",
+    "link": "goView('R2024080525784');"
   },
   {
     "region": "도봉구",
@@ -3228,24 +3207,10 @@
   },
   {
     "region": "도봉구",
-    "title": "청년 1인가구 생활안전키트 지원",
-    "description": "청년 1인가구 생활안전키트 지원",
-    "fullLink": "goView('R2024071024907');",
-    "link": "goView('R2024071024907');"
-  },
-  {
-    "region": "중랑구",
-    "title": "패션봉제 전문인력 양성과정(심화반) 교육생 모집",
-    "description": "패션봉제 전문인력 양성과정(심화반) 교육생 모집",
-    "fullLink": "goView('R2024071524975');",
-    "link": "goView('R2024071524975');"
-  },
-  {
-    "region": "은평구",
-    "title": "청년일자리창출사업",
-    "description": "청년일자리창출사업",
-    "fullLink": "goView('R2024071725100');",
-    "link": "goView('R2024071725100');"
+    "title": "미취업 청년 어학·자격증 응시료 지원사업(도봉구)",
+    "description": "미취업 청년 어학·자격증 응시료 지원사업(도봉구)",
+    "fullLink": "goView('R2024071024906');",
+    "link": "goView('R2024071024906');"
   },
   {
     "region": "도봉구",
@@ -3255,11 +3220,32 @@
     "link": "goView('R2024071524979');"
   },
   {
-    "region": "강남구",
-    "title": "청년정책 경진대회",
-    "description": "청년정책 경진대회",
-    "fullLink": "goView('R2024071524980');",
-    "link": "goView('R2024071524980');"
+    "region": "은평구",
+    "title": "청년 창업점포 운영",
+    "description": "청년 창업점포 운영",
+    "fullLink": "goView('R2024071725102');",
+    "link": "goView('R2024071725102');"
+  },
+  {
+    "region": "은평구",
+    "title": "맞춤형 공공원룸주택 (창업인의 집)",
+    "description": "맞춤형 공공원룸주택 (창업인의 집)",
+    "fullLink": "goView('R2024071725080');",
+    "link": "goView('R2024071725080');"
+  },
+  {
+    "region": "도봉구",
+    "title": "청년취업지원센터(도봉구)",
+    "description": "청년취업지원센터(도봉구)",
+    "fullLink": "goView('R2024071524978');",
+    "link": "goView('R2024071524978');"
+  },
+  {
+    "region": "도봉구",
+    "title": "공공기관 실무형 청년인턴십 운영",
+    "description": "공공기관 실무형 청년인턴십 운영",
+    "fullLink": "goView('R2024071524977');",
+    "link": "goView('R2024071524977');"
   },
   {
     "region": "성북구",
@@ -3269,18 +3255,67 @@
     "link": "goView('R2024071525006');"
   },
   {
-    "region": "도봉구",
-    "title": "미취업 청년 어학·자격증 응시료 지원사업(도봉구)",
-    "description": "미취업 청년 어학·자격증 응시료 지원사업(도봉구)",
-    "fullLink": "goView('R2024071024906');",
-    "link": "goView('R2024071024906');"
-  },
-  {
     "region": "노원구",
     "title": "청년 일자리사업 참여청년 모집",
     "description": "청년 일자리사업 참여청년 모집",
     "fullLink": "goView('R2024071525007');",
     "link": "goView('R2024071525007');"
+  },
+  {
+    "region": "중랑구",
+    "title": "패션봉제 전문인력 양성과정(심화반) 교육생 모집",
+    "description": "패션봉제 전문인력 양성과정(심화반) 교육생 모집",
+    "fullLink": "goView('R2024071524975');",
+    "link": "goView('R2024071524975');"
+  },
+  {
+    "region": "구로구",
+    "title": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
+    "description": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
+    "fullLink": "goView('R2024070924843');",
+    "link": "goView('R2024070924843');"
+  },
+  {
+    "region": "노원구",
+    "title": "청년 취업준비 첫걸음‘틔움(TEEUM)’사업",
+    "description": "청년 취업준비 첫걸음‘틔움(TEEUM)’사업",
+    "fullLink": "goView('R2024071024884');",
+    "link": "goView('R2024071024884');"
+  },
+  {
+    "region": "노원구",
+    "title": "노원구 청년일자리센터 청년 내일",
+    "description": "노원구 청년일자리센터 청년 내일",
+    "fullLink": "goView('R2024071024885');",
+    "link": "goView('R2024071024885');"
+  },
+  {
+    "region": "강남구",
+    "title": "청년정책 경진대회",
+    "description": "청년정책 경진대회",
+    "fullLink": "goView('R2024071524980');",
+    "link": "goView('R2024071524980');"
+  },
+  {
+    "region": "도봉구",
+    "title": "청년 1인가구 생활안전키트 지원",
+    "description": "청년 1인가구 생활안전키트 지원",
+    "fullLink": "goView('R2024071024907');",
+    "link": "goView('R2024071024907');"
+  },
+  {
+    "region": "강남구",
+    "title": "강남 청년의 날 행사",
+    "description": "강남 청년의 날 행사",
+    "fullLink": "goView('R2024070324605');",
+    "link": "goView('R2024070324605');"
+  },
+  {
+    "region": "중구",
+    "title": "청년 소상공인을 위한 고민상담소",
+    "description": "청년 소상공인을 위한 고민상담소",
+    "fullLink": "goView('R2024070324663');",
+    "link": "goView('R2024070324663');"
   },
   {
     "region": "노원구",
@@ -3304,18 +3339,18 @@
     "link": "goView('R2024070924825');"
   },
   {
-    "region": "구로구",
-    "title": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
-    "description": "생각하는 크리에이터 띵크 캐릭터 디자인 과정",
-    "fullLink": "goView('R2024070924843');",
-    "link": "goView('R2024070924843');"
+    "region": "강남구",
+    "title": "혁신인재육성 아카데미(특성화고 3학년 대상)",
+    "description": "혁신인재육성 아카데미(특성화고 3학년 대상)",
+    "fullLink": "goView('R2024070324624');",
+    "link": "goView('R2024070324624');"
   },
   {
-    "region": "도봉구",
-    "title": "청년취업지원센터(도봉구)",
-    "description": "청년취업지원센터(도봉구)",
-    "fullLink": "goView('R2024071524978');",
-    "link": "goView('R2024071524978');"
+    "region": "종로구",
+    "title": "청년, 동네 건강 이음 프로젝트 공모전",
+    "description": "청년, 동네 건강 이음 프로젝트 공모전",
+    "fullLink": "goView('R2024070324643');",
+    "link": "goView('R2024070324643');"
   },
   {
     "region": "동작구",
@@ -3332,32 +3367,11 @@
     "link": "goView('R2024070324606');"
   },
   {
-    "region": "동대문구",
-    "title": "하반기 동대문구 동행일자리 사업 참여자 모집",
-    "description": "하반기 동대문구 동행일자리 사업 참여자 모집",
-    "fullLink": "goView('R2024070324667');",
-    "link": "goView('R2024070324667');"
-  },
-  {
-    "region": "노원구",
-    "title": "노원구 청년일자리센터 청년 내일",
-    "description": "노원구 청년일자리센터 청년 내일",
-    "fullLink": "goView('R2024071024885');",
-    "link": "goView('R2024071024885');"
-  },
-  {
-    "region": "노원구",
-    "title": "청년 취업준비 첫걸음‘틔움(TEEUM)’사업",
-    "description": "청년 취업준비 첫걸음‘틔움(TEEUM)’사업",
-    "fullLink": "goView('R2024071024884');",
-    "link": "goView('R2024071024884');"
-  },
-  {
-    "region": "강남구",
-    "title": "청년취업사관학교 강남캠퍼스",
-    "description": "청년취업사관학교 강남캠퍼스",
-    "fullLink": "goView('R2024070324623');",
-    "link": "goView('R2024070324623');"
+    "region": "중랑구",
+    "title": "청년 재테크 교육 참여자 모집",
+    "description": "청년 재테크 교육 참여자 모집",
+    "fullLink": "goView('R2024062724467');",
+    "link": "goView('R2024062724467');"
   },
   {
     "region": "광진구",
@@ -3367,34 +3381,6 @@
     "link": "goView('R2024062824484');"
   },
   {
-    "region": "중구",
-    "title": "중구일자리플러스센터",
-    "description": "중구일자리플러스센터",
-    "fullLink": "goView('R2024070324665');",
-    "link": "goView('R2024070324665');"
-  },
-  {
-    "region": "중구",
-    "title": "청년 소상공인을 위한 고민상담소",
-    "description": "청년 소상공인을 위한 고민상담소",
-    "fullLink": "goView('R2024070324663');",
-    "link": "goView('R2024070324663');"
-  },
-  {
-    "region": "종로구",
-    "title": "청년, 동네 건강 이음 프로젝트 공모전",
-    "description": "청년, 동네 건강 이음 프로젝트 공모전",
-    "fullLink": "goView('R2024070324643');",
-    "link": "goView('R2024070324643');"
-  },
-  {
-    "region": "관악구",
-    "title": "2050 청·장년마음 안아주기",
-    "description": "2050 청·장년마음 안아주기",
-    "fullLink": "goView('R2024062124263');",
-    "link": "goView('R2024062124263');"
-  },
-  {
     "region": "강남구",
     "title": "청년 취업아카데미",
     "description": "청년 취업아카데미",
@@ -3402,32 +3388,25 @@
     "link": "goView('R2024070324603');"
   },
   {
-    "region": "중랑구",
-    "title": "청년 재테크 교육 참여자 모집",
-    "description": "청년 재테크 교육 참여자 모집",
-    "fullLink": "goView('R2024062724467');",
-    "link": "goView('R2024062724467');"
-  },
-  {
     "region": "강남구",
-    "title": "강남 청년의 날 행사",
-    "description": "강남 청년의 날 행사",
-    "fullLink": "goView('R2024070324605');",
-    "link": "goView('R2024070324605');"
+    "title": "청년취업사관학교 강남캠퍼스",
+    "description": "청년취업사관학교 강남캠퍼스",
+    "fullLink": "goView('R2024070324623');",
+    "link": "goView('R2024070324623');"
   },
   {
-    "region": "강남구",
-    "title": "혁신인재육성 아카데미(특성화고 3학년 대상)",
-    "description": "혁신인재육성 아카데미(특성화고 3학년 대상)",
-    "fullLink": "goView('R2024070324624');",
-    "link": "goView('R2024070324624');"
+    "region": "동대문구",
+    "title": "하반기 동대문구 동행일자리 사업 참여자 모집",
+    "description": "하반기 동대문구 동행일자리 사업 참여자 모집",
+    "fullLink": "goView('R2024070324667');",
+    "link": "goView('R2024070324667');"
   },
   {
-    "region": "서초구",
-    "title": "청년 직무캠프(현직자 멘토링)",
-    "description": "청년 직무캠프(현직자 멘토링)",
-    "fullLink": "goView('R2024062124265');",
-    "link": "goView('R2024062124265');"
+    "region": "중구",
+    "title": "중구일자리플러스센터",
+    "description": "중구일자리플러스센터",
+    "fullLink": "goView('R2024070324665');",
+    "link": "goView('R2024070324665');"
   },
   {
     "region": "관악구",
@@ -3437,46 +3416,11 @@
     "link": "goView('R2024062124244');"
   },
   {
-    "region": "관악구",
-    "title": "청년 1인가구 커뮤니티 교실 운영(토닥토닥)",
-    "description": "청년 1인가구 커뮤니티 교실 운영(토닥토닥)",
-    "fullLink": "goView('R2024062124245');",
-    "link": "goView('R2024062124245');"
-  },
-  {
-    "region": "송파구",
-    "title": "송파 ICT청년창업지원센터 운영",
-    "description": "송파 ICT청년창업지원센터 운영",
-    "fullLink": "goView('R2024062424327');",
-    "link": "goView('R2024062424327');"
-  },
-  {
-    "region": "송파구",
-    "title": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
-    "description": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
-    "fullLink": "goView('R2024062424328');",
-    "link": "goView('R2024062424328');"
-  },
-  {
-    "region": "관악구",
-    "title": "관악구X삼성전자 청년 취업멘토링",
-    "description": "관악구X삼성전자 청년 취업멘토링",
-    "fullLink": "goView('R2024061924163');",
-    "link": "goView('R2024061924163');"
-  },
-  {
-    "region": "관악구",
-    "title": "청년 1인가구 무료 건강검진",
-    "description": "청년 1인가구 무료 건강검진",
-    "fullLink": "goView('R2024062124223');",
-    "link": "goView('R2024062124223');"
-  },
-  {
     "region": "서초구",
-    "title": "서리풀 청년 크루",
-    "description": "서리풀 청년 크루",
-    "fullLink": "goView('R2024062124266');",
-    "link": "goView('R2024062124266');"
+    "title": "청년 직무캠프(현직자 멘토링)",
+    "description": "청년 직무캠프(현직자 멘토링)",
+    "fullLink": "goView('R2024062124265');",
+    "link": "goView('R2024062124265');"
   },
   {
     "region": "관악구",
@@ -3493,11 +3437,46 @@
     "link": "goView('R2024062124264');"
   },
   {
-    "region": "동작구",
-    "title": "동작구 청년 맞춤형 공공주택 입주자 모집",
-    "description": "동작구 청년 맞춤형 공공주택 입주자 모집",
-    "fullLink": "goView('R2024051722964');",
-    "link": "goView('R2024051722964');"
+    "region": "서초구",
+    "title": "서리풀 청년 크루",
+    "description": "서리풀 청년 크루",
+    "fullLink": "goView('R2024062124266');",
+    "link": "goView('R2024062124266');"
+  },
+  {
+    "region": "관악구",
+    "title": "관악구X삼성전자 청년 취업멘토링",
+    "description": "관악구X삼성전자 청년 취업멘토링",
+    "fullLink": "goView('R2024061924163');",
+    "link": "goView('R2024061924163');"
+  },
+  {
+    "region": "관악구",
+    "title": "2050 청·장년마음 안아주기",
+    "description": "2050 청·장년마음 안아주기",
+    "fullLink": "goView('R2024062124263');",
+    "link": "goView('R2024062124263');"
+  },
+  {
+    "region": "송파구",
+    "title": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
+    "description": "파이썬&웹기반 빅데이터 분석 전문가 과정 교육생 모집",
+    "fullLink": "goView('R2024062424328');",
+    "link": "goView('R2024062424328');"
+  },
+  {
+    "region": "송파구",
+    "title": "송파 ICT청년창업지원센터 운영",
+    "description": "송파 ICT청년창업지원센터 운영",
+    "fullLink": "goView('R2024062424327');",
+    "link": "goView('R2024062424327');"
+  },
+  {
+    "region": "관악구",
+    "title": "청년 1인가구 커뮤니티 교실 운영(토닥토닥)",
+    "description": "청년 1인가구 커뮤니티 교실 운영(토닥토닥)",
+    "fullLink": "goView('R2024062124245');",
+    "link": "goView('R2024062124245');"
   },
   {
     "region": "성동구",
@@ -3528,18 +3507,11 @@
     "link": "goView('R2024061423984');"
   },
   {
-    "region": "강북구",
-    "title": "청년일자리센터(강북구)",
-    "description": "청년일자리센터(강북구)",
-    "fullLink": "goView('R2024071524964');",
-    "link": "goView('R2024071524964');"
-  },
-  {
-    "region": "강북구",
-    "title": "청년정책위원회 운영",
-    "description": "청년정책위원회 운영",
-    "fullLink": "goView('R2024071524985');",
-    "link": "goView('R2024071524985');"
+    "region": "관악구",
+    "title": "청년 1인가구 무료 건강검진",
+    "description": "청년 1인가구 무료 건강검진",
+    "fullLink": "goView('R2024062124223');",
+    "link": "goView('R2024062124223');"
   },
   {
     "region": "강북구",
@@ -3547,6 +3519,13 @@
     "description": "인공지능(AI) 면접진단서비스 운영",
     "fullLink": "goView('R2024071524984');",
     "link": "goView('R2024071524984');"
+  },
+  {
+    "region": "강북구",
+    "title": "청년정책위원회 운영",
+    "description": "청년정책위원회 운영",
+    "fullLink": "goView('R2024071524985');",
+    "link": "goView('R2024071524985');"
   },
   {
     "region": "강북구",
@@ -3563,11 +3542,11 @@
     "link": "goView('R2024051722985');"
   },
   {
-    "region": "구로구",
-    "title": "아무튼,시작 3기 모집(청년도전지원사업)",
-    "description": "아무튼,시작 3기 모집(청년도전지원사업)",
-    "fullLink": "goView('R2024051022703');",
-    "link": "goView('R2024051022703');"
+    "region": "동작구",
+    "title": "동작구 청년 맞춤형 공공주택 입주자 모집",
+    "description": "동작구 청년 맞춤형 공공주택 입주자 모집",
+    "fullLink": "goView('R2024051722964');",
+    "link": "goView('R2024051722964');"
   },
   {
     "region": "광진구",
@@ -3577,11 +3556,18 @@
     "link": "goView('R2024051022704');"
   },
   {
-    "region": "노원구",
-    "title": "미취업청년 스터디카페(독서실) 이용권 지원",
-    "description": "미취업청년 스터디카페(독서실) 이용권 지원",
-    "fullLink": "goView('R2024071024883');",
-    "link": "goView('R2024071024883');"
+    "region": "구로구",
+    "title": "아무튼,시작 3기 모집(청년도전지원사업)",
+    "description": "아무튼,시작 3기 모집(청년도전지원사업)",
+    "fullLink": "goView('R2024051022703');",
+    "link": "goView('R2024051022703');"
+  },
+  {
+    "region": "강북구",
+    "title": "청년일자리센터(강북구)",
+    "description": "청년일자리센터(강북구)",
+    "fullLink": "goView('R2024071524964');",
+    "link": "goView('R2024071524964');"
   },
   {
     "region": "강북구",
@@ -3598,11 +3584,11 @@
     "link": "goView('R2024071524965');"
   },
   {
-    "region": "동대문구",
-    "title": "남녀 임신준비 지원사업",
-    "description": "남녀 임신준비 지원사업",
-    "fullLink": "goView('R2024042522294');",
-    "link": "goView('R2024042522294');"
+    "region": "노원구",
+    "title": "미취업청년 스터디카페(독서실) 이용권 지원",
+    "description": "미취업청년 스터디카페(독서실) 이용권 지원",
+    "fullLink": "goView('R2024071024883');",
+    "link": "goView('R2024071024883');"
   },
   {
     "region": "관악구",
@@ -3634,17 +3620,10 @@
   },
   {
     "region": "성동구",
-    "title": "성동형 청년 등 탈모 치료 지원 사업",
-    "description": "성동형 청년 등 탈모 치료 지원 사업",
-    "fullLink": "goView('R2024042322166');",
-    "link": "goView('R2024042322166');"
-  },
-  {
-    "region": "성동구",
-    "title": "청년(현역병) 문화체육활동 지원",
-    "description": "청년(현역병) 문화체육활동 지원",
-    "fullLink": "goView('R2024042322194');",
-    "link": "goView('R2024042322194');"
+    "title": "성동구 인재육성장학재단 운영",
+    "description": "성동구 인재육성장학재단 운영",
+    "fullLink": "goView('R2024042322193');",
+    "link": "goView('R2024042322193');"
   },
   {
     "region": "노원구",
@@ -3661,25 +3640,18 @@
     "link": "goView('R2024042522308');"
   },
   {
+    "region": "동대문구",
+    "title": "남녀 임신준비 지원사업",
+    "description": "남녀 임신준비 지원사업",
+    "fullLink": "goView('R2024042522294');",
+    "link": "goView('R2024042522294');"
+  },
+  {
     "region": "광진구",
     "title": "도전숙(수요자맞춤형 매입임대주택) 추가 입주자 모집 공고",
     "description": "도전숙(수요자맞춤형 매입임대주택) 추가 입주자 모집 공고",
     "fullLink": "goView('R2024042522304');",
     "link": "goView('R2024042522304');"
-  },
-  {
-    "region": "중구",
-    "title": "창업혁신공간 을지유니크팩토리 운영",
-    "description": "창업혁신공간 을지유니크팩토리 운영",
-    "fullLink": "goView('R2024041922011');",
-    "link": "goView('R2024041922011');"
-  },
-  {
-    "region": "성동구",
-    "title": "성동구인재육성장학재단 운영",
-    "description": "성동구인재육성장학재단 운영",
-    "fullLink": "goView('R2024042222136');",
-    "link": "goView('R2024042222136');"
   },
   {
     "region": "성동구",
@@ -3690,17 +3662,31 @@
   },
   {
     "region": "성동구",
+    "title": "성동구인재육성장학재단 운영",
+    "description": "성동구인재육성장학재단 운영",
+    "fullLink": "goView('R2024042222136');",
+    "link": "goView('R2024042222136');"
+  },
+  {
+    "region": "성동구",
+    "title": "청년(현역병) 문화체육활동 지원",
+    "description": "청년(현역병) 문화체육활동 지원",
+    "fullLink": "goView('R2024042322194');",
+    "link": "goView('R2024042322194');"
+  },
+  {
+    "region": "성동구",
+    "title": "성동형 청년 등 탈모 치료 지원 사업",
+    "description": "성동형 청년 등 탈모 치료 지원 사업",
+    "fullLink": "goView('R2024042322166');",
+    "link": "goView('R2024042322166');"
+  },
+  {
+    "region": "성동구",
     "title": "청년정책 프로젝트 지원 사업(성동구)",
     "description": "청년정책 프로젝트 지원 사업(성동구)",
     "fullLink": "goView('R2024042322195');",
     "link": "goView('R2024042322195');"
-  },
-  {
-    "region": "성동구",
-    "title": "성동구 인재육성장학재단 운영",
-    "description": "성동구 인재육성장학재단 운영",
-    "fullLink": "goView('R2024042322193');",
-    "link": "goView('R2024042322193');"
   },
   {
     "region": "용산구",
@@ -3710,53 +3696,11 @@
     "link": "goView('R2024041821954');"
   },
   {
-    "region": "광진구",
-    "title": "어학·자격시험 응시료 지원 사업(광진구)",
-    "description": "어학·자격시험 응시료 지원 사업(광진구)",
-    "fullLink": "goView('R2024041821961');",
-    "link": "goView('R2024041821961');"
-  },
-  {
-    "region": "동대문구",
-    "title": "청년취업 자격취득 활동지원 사업(동대문구)",
-    "description": "청년취업 자격취득 활동지원 사업(동대문구)",
-    "fullLink": "goView('R2024041821966');",
-    "link": "goView('R2024041821966');"
-  },
-  {
-    "region": "용산구",
-    "title": "청년 어학‧자격시험 응시료 지원사업(강북구)",
-    "description": "청년 어학‧자격시험 응시료 지원사업(강북구)",
-    "fullLink": "goView('R2024041821933');",
-    "link": "goView('R2024041821933');"
-  },
-  {
-    "region": "금천구",
-    "title": "구직청년 자격시험 응시료 지원(금천구)",
-    "description": "구직청년 자격시험 응시료 지원(금천구)",
-    "fullLink": "goView('R2024041921983');",
-    "link": "goView('R2024041921983');"
-  },
-  {
-    "region": "송파구",
-    "title": "송파 성년출발지원금",
-    "description": "송파 성년출발지원금",
-    "fullLink": "goView('R2024041821956');",
-    "link": "goView('R2024041821956');"
-  },
-  {
-    "region": "관악구",
-    "title": "청년 어학·자격시험 응시료 지원 사업(관악구)",
-    "description": "청년 어학·자격시험 응시료 지원 사업(관악구)",
-    "fullLink": "goView('R2024041821936');",
-    "link": "goView('R2024041821936');"
-  },
-  {
-    "region": "양천구",
-    "title": "청년 국가자격증 응시료 지원(양천구)",
-    "description": "청년 국가자격증 응시료 지원(양천구)",
-    "fullLink": "goView('R2024041821951');",
-    "link": "goView('R2024041821951');"
+    "region": "영등포구",
+    "title": "청년 국가자격증 응시료 지원(영등포구)",
+    "description": "청년 국가자격증 응시료 지원(영등포구)",
+    "fullLink": "goView('R2024041821953');",
+    "link": "goView('R2024041821953');"
   },
   {
     "region": "마포구",
@@ -3766,67 +3710,18 @@
     "link": "goView('R2024041821959');"
   },
   {
-    "region": "영등포구",
-    "title": "청년 국가자격증 응시료 지원(영등포구)",
-    "description": "청년 국가자격증 응시료 지원(영등포구)",
-    "fullLink": "goView('R2024041821953');",
-    "link": "goView('R2024041821953');"
+    "region": "양천구",
+    "title": "청년 국가자격증 응시료 지원(양천구)",
+    "description": "청년 국가자격증 응시료 지원(양천구)",
+    "fullLink": "goView('R2024041821951');",
+    "link": "goView('R2024041821951');"
   },
   {
-    "region": "서초구",
-    "title": "서초 AI 칼리지",
-    "description": "서초 AI 칼리지",
-    "fullLink": "goView('R2024041922009');",
-    "link": "goView('R2024041922009');"
-  },
-  {
-    "region": "서초구",
-    "title": "Dream홈씨씨(청년의 꿈을 인테리어하다)",
-    "description": "Dream홈씨씨(청년의 꿈을 인테리어하다)",
-    "fullLink": "goView('R2024041922024');",
-    "link": "goView('R2024041922024');"
-  },
-  {
-    "region": "중구",
-    "title": "청년창업센터 충무창업큐브 운영",
-    "description": "청년창업센터 충무창업큐브 운영",
-    "fullLink": "goView('R2024041922010');",
-    "link": "goView('R2024041922010');"
-  },
-  {
-    "region": "용산구",
-    "title": "광역일자리카페 취업 지원프로그램(용산구)",
-    "description": "광역일자리카페 취업 지원프로그램(용산구)",
-    "fullLink": "goView('R2024041922027');",
-    "link": "goView('R2024041922027');"
-  },
-  {
-    "region": "용산구",
-    "title": "일자리기금 청년기업 융자지원",
-    "description": "일자리기금 청년기업 융자지원",
-    "fullLink": "goView('R2024041922029');",
-    "link": "goView('R2024041922029');"
-  },
-  {
-    "region": "성북구",
-    "title": "수요자맞춤형 매입임대주택(성북구 신혼부부주택) 추가 입주자 모집",
-    "description": "수요자맞춤형 매입임대주택(성북구 신혼부부주택) 추가 입주자 모집",
-    "fullLink": "goView('R2024041821948');",
-    "link": "goView('R2024041821948');"
-  },
-  {
-    "region": "중랑구",
-    "title": "미취업청년 자격증 응시료 지원사업(중랑구)",
-    "description": "미취업청년 자격증 응시료 지원사업(중랑구)",
-    "fullLink": "goView('R2024041821928');",
-    "link": "goView('R2024041821928');"
-  },
-  {
-    "region": "동대문구",
-    "title": "청년취업 해Dream 사업",
-    "description": "청년취업 해Dream 사업",
-    "fullLink": "goView('R2024041721908');",
-    "link": "goView('R2024041721908');"
+    "region": "관악구",
+    "title": "청년 어학·자격시험 응시료 지원 사업(관악구)",
+    "description": "청년 어학·자격시험 응시료 지원 사업(관악구)",
+    "fullLink": "goView('R2024041821936');",
+    "link": "goView('R2024041821936');"
   },
   {
     "region": "은평구",
@@ -3836,6 +3731,62 @@
     "link": "goView('R2024041921985');"
   },
   {
+    "region": "금천구",
+    "title": "구직청년 자격시험 응시료 지원(금천구)",
+    "description": "구직청년 자격시험 응시료 지원(금천구)",
+    "fullLink": "goView('R2024041921983');",
+    "link": "goView('R2024041921983');"
+  },
+  {
+    "region": "용산구",
+    "title": "청년 어학‧자격시험 응시료 지원사업(강북구)",
+    "description": "청년 어학‧자격시험 응시료 지원사업(강북구)",
+    "fullLink": "goView('R2024041821933');",
+    "link": "goView('R2024041821933');"
+  },
+  {
+    "region": "동대문구",
+    "title": "청년취업 자격취득 활동지원 사업(동대문구)",
+    "description": "청년취업 자격취득 활동지원 사업(동대문구)",
+    "fullLink": "goView('R2024041821966');",
+    "link": "goView('R2024041821966');"
+  },
+  {
+    "region": "광진구",
+    "title": "어학·자격시험 응시료 지원 사업(광진구)",
+    "description": "어학·자격시험 응시료 지원 사업(광진구)",
+    "fullLink": "goView('R2024041821961');",
+    "link": "goView('R2024041821961');"
+  },
+  {
+    "region": "중구",
+    "title": "창업혁신공간 을지유니크팩토리 운영",
+    "description": "창업혁신공간 을지유니크팩토리 운영",
+    "fullLink": "goView('R2024041922011');",
+    "link": "goView('R2024041922011');"
+  },
+  {
+    "region": "중구",
+    "title": "청년창업센터 충무창업큐브 운영",
+    "description": "청년창업센터 충무창업큐브 운영",
+    "fullLink": "goView('R2024041922010');",
+    "link": "goView('R2024041922010');"
+  },
+  {
+    "region": "서초구",
+    "title": "Dream홈씨씨(청년의 꿈을 인테리어하다)",
+    "description": "Dream홈씨씨(청년의 꿈을 인테리어하다)",
+    "fullLink": "goView('R2024041922024');",
+    "link": "goView('R2024041922024');"
+  },
+  {
+    "region": "서초구",
+    "title": "서초 AI 칼리지",
+    "description": "서초 AI 칼리지",
+    "fullLink": "goView('R2024041922009');",
+    "link": "goView('R2024041922009');"
+  },
+  {
     "region": "동작구",
     "title": "구직활동 지원사업(동작구)",
     "description": "구직활동 지원사업(동작구)",
@@ -3843,11 +3794,39 @@
     "link": "goView('R2024041922007');"
   },
   {
-    "region": "강남구",
-    "title": "청년정책위원회",
-    "description": "청년정책위원회",
-    "fullLink": "goView('R2024081225966');",
-    "link": "goView('R2024081225966');"
+    "region": "동대문구",
+    "title": "청년취업 해Dream 사업",
+    "description": "청년취업 해Dream 사업",
+    "fullLink": "goView('R2024041721908');",
+    "link": "goView('R2024041721908');"
+  },
+  {
+    "region": "성북구",
+    "title": "수요자맞춤형 매입임대주택(성북구 신혼부부주택) 추가 입주자 모집",
+    "description": "수요자맞춤형 매입임대주택(성북구 신혼부부주택) 추가 입주자 모집",
+    "fullLink": "goView('R2024041821948');",
+    "link": "goView('R2024041821948');"
+  },
+  {
+    "region": "송파구",
+    "title": "송파 성년출발지원금",
+    "description": "송파 성년출발지원금",
+    "fullLink": "goView('R2024041821956');",
+    "link": "goView('R2024041821956');"
+  },
+  {
+    "region": "용산구",
+    "title": "일자리기금 청년기업 융자지원",
+    "description": "일자리기금 청년기업 융자지원",
+    "fullLink": "goView('R2024041922029');",
+    "link": "goView('R2024041922029');"
+  },
+  {
+    "region": "용산구",
+    "title": "광역일자리카페 취업 지원프로그램(용산구)",
+    "description": "광역일자리카페 취업 지원프로그램(용산구)",
+    "fullLink": "goView('R2024041922027');",
+    "link": "goView('R2024041922027');"
   },
   {
     "region": "강남구",
@@ -3864,6 +3843,13 @@
     "link": "goView('R2024081225945');"
   },
   {
+    "region": "강남구",
+    "title": "청년정책위원회",
+    "description": "청년정책위원회",
+    "fullLink": "goView('R2024081225966');",
+    "link": "goView('R2024081225966');"
+  },
+  {
     "region": "서대문구",
     "title": "서대문구 <청년도전지원사업> 참여자 추가 모집",
     "description": "서대문구 <청년도전지원사업> 참여자 추가 모집",
@@ -3871,18 +3857,11 @@
     "link": "goView('R2024041621834');"
   },
   {
-    "region": "성북구",
-    "title": "미취업 청년 어학 및 자격증 응시료 지원(성북구)",
-    "description": "미취업 청년 어학 및 자격증 응시료 지원(성북구)",
-    "fullLink": "goView('R2024041821950');",
-    "link": "goView('R2024041821950');"
-  },
-  {
-    "region": "관악구",
-    "title": "으뜸관악 청년통장",
-    "description": "으뜸관악 청년통장",
-    "fullLink": "goView('R2024080825887');",
-    "link": "goView('R2024080825887');"
+    "region": "중랑구",
+    "title": "미취업청년 자격증 응시료 지원사업(중랑구)",
+    "description": "미취업청년 자격증 응시료 지원사업(중랑구)",
+    "fullLink": "goView('R2024041821928');",
+    "link": "goView('R2024041821928');"
   },
   {
     "region": "강동구",
@@ -3892,11 +3871,11 @@
     "link": "goView('R2024041121678');"
   },
   {
-    "region": "송파구",
-    "title": "청년네트워크(송파구) 운영",
-    "description": "청년네트워크(송파구) 운영",
-    "fullLink": "goView('R2024081225948');",
-    "link": "goView('R2024081225948');"
+    "region": "관악구",
+    "title": "청년 동아리 활동 지원",
+    "description": "청년 동아리 활동 지원",
+    "fullLink": "goView('R2024080825888');",
+    "link": "goView('R2024080825888');"
   },
   {
     "region": "도봉구",
@@ -3907,17 +3886,17 @@
   },
   {
     "region": "송파구",
+    "title": "청년네트워크(송파구) 운영",
+    "description": "청년네트워크(송파구) 운영",
+    "fullLink": "goView('R2024081225948');",
+    "link": "goView('R2024081225948');"
+  },
+  {
+    "region": "송파구",
     "title": "송파 청년정책 거버넌스 활성화 사업",
     "description": "송파 청년정책 거버넌스 활성화 사업",
     "fullLink": "goView('R2024081225965');",
     "link": "goView('R2024081225965');"
-  },
-  {
-    "region": "구로구",
-    "title": "구로청년정책네트워크",
-    "description": "구로청년정책네트워크",
-    "fullLink": "goView('R2024080525793');",
-    "link": "goView('R2024080525793');"
   },
   {
     "region": "구로구",
@@ -3928,24 +3907,31 @@
   },
   {
     "region": "강북구",
-    "title": "강북구 장학생",
-    "description": "강북구 장학생",
-    "fullLink": "goView('R2024080525768');",
-    "link": "goView('R2024080525768');"
-  },
-  {
-    "region": "강북구",
     "title": "청년도전 프로젝트",
     "description": "청년도전 프로젝트",
     "fullLink": "goView('R2024080525786');",
     "link": "goView('R2024080525786');"
   },
   {
+    "region": "강북구",
+    "title": "강북구 장학생",
+    "description": "강북구 장학생",
+    "fullLink": "goView('R2024080525768');",
+    "link": "goView('R2024080525768');"
+  },
+  {
+    "region": "구로구",
+    "title": "구로청년정책네트워크",
+    "description": "구로청년정책네트워크",
+    "fullLink": "goView('R2024080525793');",
+    "link": "goView('R2024080525793');"
+  },
+  {
     "region": "관악구",
-    "title": "청년 동아리 활동 지원",
-    "description": "청년 동아리 활동 지원",
-    "fullLink": "goView('R2024080825888');",
-    "link": "goView('R2024080825888');"
+    "title": "으뜸관악 청년통장",
+    "description": "으뜸관악 청년통장",
+    "fullLink": "goView('R2024080825887');",
+    "link": "goView('R2024080825887');"
   },
   {
     "region": "영등포구",
@@ -3953,6 +3939,13 @@
     "description": "청년도전 지원사업",
     "fullLink": "goView('R2024032821185');",
     "link": "goView('R2024032821185');"
+  },
+  {
+    "region": "강남구",
+    "title": "혁신인재육성 아카데미 운영",
+    "description": "혁신인재육성 아카데미 운영",
+    "fullLink": "goView('R2024070324604');",
+    "link": "goView('R2024070324604');"
   },
   {
     "region": "용산구",
@@ -3967,13 +3960,6 @@
     "description": "용산구 일자리기금 청년기업 융자지원",
     "fullLink": "goView('R2024070324644');",
     "link": "goView('R2024070324644');"
-  },
-  {
-    "region": "강남구",
-    "title": "혁신인재육성 아카데미 운영",
-    "description": "혁신인재육성 아카데미 운영",
-    "fullLink": "goView('R2024070324604');",
-    "link": "goView('R2024070324604');"
   },
   {
     "region": "중구",
@@ -4025,18 +4011,18 @@
     "link": "goView('20241018005400200005');"
   },
   {
-    "region": "마포구",
-    "title": "서울 마포구 결혼이민자 GTQ 2급 자격증 취득지원 교육",
-    "description": "서울 마포구 결혼이민자 GTQ 2급 자격증 취득지원 교육",
-    "fullLink": "goView('20241016005400200003');",
-    "link": "goView('20241016005400200003');"
-  },
-  {
     "region": "노원구",
     "title": "서울 노원구가족센터 다문화 통번역서비스 지원",
     "description": "서울 노원구가족센터 다문화 통번역서비스 지원",
     "fullLink": "goView('20241016005400200008');",
     "link": "goView('20241016005400200008');"
+  },
+  {
+    "region": "마포구",
+    "title": "서울 마포구 결혼이민자 GTQ 2급 자격증 취득지원 교육",
+    "description": "서울 마포구 결혼이민자 GTQ 2급 자격증 취득지원 교육",
+    "fullLink": "goView('20241016005400200003');",
+    "link": "goView('20241016005400200003');"
   },
   {
     "region": "강동구",
@@ -4089,17 +4075,17 @@
   },
   {
     "region": "용산구",
-    "title": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
-    "description": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
-    "fullLink": "goView('20241028005400200007');",
-    "link": "goView('20241028005400200007');"
-  },
-  {
-    "region": "용산구",
     "title": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집(아모레퍼시픽, 일시: 11.13(수) 12:30-16:30)",
     "description": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집(아모레퍼시픽, 일시: 11.13(수) 12:30-16:30)",
     "fullLink": "goView('20241028005400200008');",
     "link": "goView('20241028005400200008');"
+  },
+  {
+    "region": "용산구",
+    "title": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
+    "description": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
+    "fullLink": "goView('20241028005400200007');",
+    "link": "goView('20241028005400200007');"
   },
   {
     "region": "서초구",
@@ -4123,18 +4109,11 @@
     "link": "goView('20241025005400200010');"
   },
   {
-    "region": "서초구",
-    "title": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
-    "description": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
-    "fullLink": "goView('20241031005400200002');",
-    "link": "goView('20241031005400200002');"
-  },
-  {
-    "region": "강서구",
-    "title": "서울청년센터 강서 <11월 치아미백 무료 지원>",
-    "description": "서울청년센터 강서 <11월 치아미백 무료 지원>",
-    "fullLink": "goView('20241031005400200005');",
-    "link": "goView('20241031005400200005');"
+    "region": "도봉구",
+    "title": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
+    "description": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
+    "fullLink": "goView('20241031005400200011');",
+    "link": "goView('20241031005400200011');"
   },
   {
     "region": "동작구",
@@ -4142,6 +4121,13 @@
     "description": "동작구청 2024 생생국가유산 <동작구 에코 역사탐방> 참가자 모집 안내",
     "fullLink": "goView('20241031005400200007');",
     "link": "goView('20241031005400200007');"
+  },
+  {
+    "region": "강서구",
+    "title": "서울청년센터 강서 <11월 치아미백 무료 지원>",
+    "description": "서울청년센터 강서 <11월 치아미백 무료 지원>",
+    "fullLink": "goView('20241031005400200005');",
+    "link": "goView('20241031005400200005');"
   },
   {
     "region": "도봉구",
@@ -4159,10 +4145,10 @@
   },
   {
     "region": "종로구",
-    "title": "2024년 개방형 지식 나눔 프로그램 '그래도 살아야 하는 인생' 참여자 모집",
-    "description": "2024년 개방형 지식 나눔 프로그램 '그래도 살아야 하는 인생' 참여자 모집",
-    "fullLink": "goView('20241105005400200010');",
-    "link": "goView('20241105005400200010');"
+    "title": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
+    "description": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
+    "fullLink": "goView('20241105005400200004');",
+    "link": "goView('20241105005400200004');"
   },
   {
     "region": "용산구",
@@ -4186,11 +4172,11 @@
     "link": "goView('20241031005400200003');"
   },
   {
-    "region": "도봉구",
-    "title": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
-    "description": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
-    "fullLink": "goView('20241031005400200011');",
-    "link": "goView('20241031005400200011');"
+    "region": "서초구",
+    "title": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
+    "description": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
+    "fullLink": "goView('20241031005400200002');",
+    "link": "goView('20241031005400200002');"
   },
   {
     "region": "금천구",
@@ -4222,10 +4208,10 @@
   },
   {
     "region": "종로구",
-    "title": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
-    "description": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
-    "fullLink": "goView('20241105005400200004');",
-    "link": "goView('20241105005400200004');"
+    "title": "2024년 개방형 지식 나눔 프로그램 '그래도 살아야 하는 인생' 참여자 모집",
+    "description": "2024년 개방형 지식 나눔 프로그램 '그래도 살아야 하는 인생' 참여자 모집",
+    "fullLink": "goView('20241105005400200010');",
+    "link": "goView('20241105005400200010');"
   },
   {
     "region": "은평구",
@@ -4263,13 +4249,6 @@
     "link": "goView('20241108005400200007');"
   },
   {
-    "region": "마포구",
-    "title": "「2024년 마포구 플랫폼 배달노동자 지원사업」 2차 모집 공고",
-    "description": "「2024년 마포구 플랫폼 배달노동자 지원사업」 2차 모집 공고",
-    "fullLink": "goView('R2024111327753');",
-    "link": "goView('R2024111327753');"
-  },
-  {
     "region": "강서구",
     "title": "「서울 힐스테이트 등촌역」민영주택 장애인 특별공급 공고",
     "description": "「서울 힐스테이트 등촌역」민영주택 장애인 특별공급 공고",
@@ -4277,11 +4256,11 @@
     "link": "goView('R2024111327785');"
   },
   {
-    "region": "구로구",
-    "title": "서울 구로구『2025년 겨울방학 청년 행정체험 사업』참여자 모집 (구 대학생 아르바이트)",
-    "description": "서울 구로구『2025년 겨울방학 청년 행정체험 사업』참여자 모집 (구 대학생 아르바이트)",
-    "fullLink": "goView('R2024111327750');",
-    "link": "goView('R2024111327750');"
+    "region": "마포구",
+    "title": "「2024년 마포구 플랫폼 배달노동자 지원사업」 2차 모집 공고",
+    "description": "「2024년 마포구 플랫폼 배달노동자 지원사업」 2차 모집 공고",
+    "fullLink": "goView('R2024111327753');",
+    "link": "goView('R2024111327753');"
   },
   {
     "region": "동작구",
@@ -4291,6 +4270,13 @@
     "link": "goView('R2024111427826');"
   },
   {
+    "region": "관악구",
+    "title": "관악구 청년정책위원회 위원 모집 공고",
+    "description": "관악구 청년정책위원회 위원 모집 공고",
+    "fullLink": "goView('R2024111227746');",
+    "link": "goView('R2024111227746');"
+  },
+  {
     "region": "강동구",
     "title": "2024년 하반기 서울 강동구 1인가구 안심장비사업 지원대상자 2차모집 공고",
     "description": "2024년 하반기 서울 강동구 1인가구 안심장비사업 지원대상자 2차모집 공고",
@@ -4298,18 +4284,18 @@
     "link": "goView('20241111005400200011');"
   },
   {
-    "region": "서초구",
-    "title": "서울청년센터 서초<여성 구직청년을 위한 11월 1:1 커리어상담>",
-    "description": "서울청년센터 서초<여성 구직청년을 위한 11월 1:1 커리어상담>",
-    "fullLink": "goView('R2024111127706');",
-    "link": "goView('R2024111127706');"
+    "region": "동작구",
+    "title": "서울 동작형 청년신혼부부 전세임대주택 입주자 모집공고",
+    "description": "서울 동작형 청년신혼부부 전세임대주택 입주자 모집공고",
+    "fullLink": "goView('R2024110827669');",
+    "link": "goView('R2024110827669');"
   },
   {
-    "region": "양천구",
-    "title": "서울청년센터 양천 <양천 청년 트레이닝> 참여자 모집",
-    "description": "서울청년센터 양천 <양천 청년 트레이닝> 참여자 모집",
-    "fullLink": "goView('R2024111127724');",
-    "link": "goView('R2024111127724');"
+    "region": "동작구",
+    "title": "제2기 동작구 청년구청장 참여자 모집",
+    "description": "제2기 동작구 청년구청장 참여자 모집",
+    "fullLink": "goView('R2024110827686');",
+    "link": "goView('R2024110827686');"
   },
   {
     "region": "강동구",
@@ -4326,18 +4312,32 @@
     "link": "goView('R2024111127709');"
   },
   {
-    "region": "관악구",
-    "title": "관악구 청년정책위원회 위원 모집 공고",
-    "description": "관악구 청년정책위원회 위원 모집 공고",
-    "fullLink": "goView('R2024111227746');",
-    "link": "goView('R2024111227746');"
+    "region": "구로구",
+    "title": "서울 구로구『2025년 겨울방학 청년 행정체험 사업』참여자 모집 (구 대학생 아르바이트)",
+    "description": "서울 구로구『2025년 겨울방학 청년 행정체험 사업』참여자 모집 (구 대학생 아르바이트)",
+    "fullLink": "goView('R2024111327750');",
+    "link": "goView('R2024111327750');"
   },
   {
-    "region": "관악구",
-    "title": "관악구 깡충깡충 성장양육지원금",
-    "description": "관악구 깡충깡충 성장양육지원금",
-    "fullLink": "goView('R2024110527567');",
-    "link": "goView('R2024110527567');"
+    "region": "마포구",
+    "title": "마포 청년정책네트워크 <2024 청년정책 아카데미> 참가자 모집",
+    "description": "마포 청년정책네트워크 <2024 청년정책 아카데미> 참가자 모집",
+    "fullLink": "goView('R2024110627623');",
+    "link": "goView('R2024110627623');"
+  },
+  {
+    "region": "양천구",
+    "title": "서울청년센터 양천 <양천 청년 트레이닝> 참여자 모집",
+    "description": "서울청년센터 양천 <양천 청년 트레이닝> 참여자 모집",
+    "fullLink": "goView('R2024111127724');",
+    "link": "goView('R2024111127724');"
+  },
+  {
+    "region": "서초구",
+    "title": "서울청년센터 서초<여성 구직청년을 위한 11월 1:1 커리어상담>",
+    "description": "서울청년센터 서초<여성 구직청년을 위한 11월 1:1 커리어상담>",
+    "fullLink": "goView('R2024111127706');",
+    "link": "goView('R2024111127706');"
   },
   {
     "region": "노원구",
@@ -4354,18 +4354,11 @@
     "link": "goView('R2024110827684');"
   },
   {
-    "region": "동작구",
-    "title": "제2기 동작구 청년구청장 참여자 모집",
-    "description": "제2기 동작구 청년구청장 참여자 모집",
-    "fullLink": "goView('R2024110827686');",
-    "link": "goView('R2024110827686');"
-  },
-  {
-    "region": "동작구",
-    "title": "서울 동작형 청년신혼부부 전세임대주택 입주자 모집공고",
-    "description": "서울 동작형 청년신혼부부 전세임대주택 입주자 모집공고",
-    "fullLink": "goView('R2024110827669');",
-    "link": "goView('R2024110827669');"
+    "region": "종로구",
+    "title": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
+    "description": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
+    "fullLink": "goView('R2024110527565');",
+    "link": "goView('R2024110527565');"
   },
   {
     "region": "송파구",
@@ -4389,18 +4382,11 @@
     "link": "goView('R2024110427536');"
   },
   {
-    "region": "종로구",
-    "title": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
-    "description": "2024-2025절기 서울 종로구 코로나19 무료 예방접종",
-    "fullLink": "goView('R2024110527565');",
-    "link": "goView('R2024110527565');"
-  },
-  {
-    "region": "마포구",
-    "title": "마포 청년정책네트워크 <2024 청년정책 아카데미> 참가자 모집",
-    "description": "마포 청년정책네트워크 <2024 청년정책 아카데미> 참가자 모집",
-    "fullLink": "goView('R2024110627623');",
-    "link": "goView('R2024110627623');"
+    "region": "관악구",
+    "title": "관악구 깡충깡충 성장양육지원금",
+    "description": "관악구 깡충깡충 성장양육지원금",
+    "fullLink": "goView('R2024110527567');",
+    "link": "goView('R2024110527567');"
   },
   {
     "region": "강서구",
@@ -4410,25 +4396,18 @@
     "link": "goView('R2024103127483');"
   },
   {
-    "region": "도봉구",
-    "title": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
-    "description": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
-    "fullLink": "goView('R2024103127504');",
-    "link": "goView('R2024103127504');"
-  },
-  {
-    "region": "서초구",
-    "title": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
-    "description": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
-    "fullLink": "goView('R2024103127484');",
-    "link": "goView('R2024103127484');"
-  },
-  {
     "region": "동작구",
     "title": "동작구청 2024 생생국가유산 <동작구 에코 역사탐방> 참가자 모집 안내",
     "description": "동작구청 2024 생생국가유산 <동작구 에코 역사탐방> 참가자 모집 안내",
     "fullLink": "goView('R2024103127503');",
     "link": "goView('R2024103127503');"
+  },
+  {
+    "region": "도봉구",
+    "title": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
+    "description": "「구민활력을 높이는 도봉 아이디어 공모」 안내",
+    "fullLink": "goView('R2024103127504');",
+    "link": "goView('R2024103127504');"
   },
   {
     "region": "강남구",
@@ -4439,17 +4418,17 @@
   },
   {
     "region": "도봉구",
-    "title": "2024년 플랫폼종사자 고용보험료 지원사업(2차)",
-    "description": "2024년 플랫폼종사자 고용보험료 지원사업(2차)",
-    "fullLink": "goView('R2024102527343');",
-    "link": "goView('R2024102527343');"
+    "title": "도봉구청년창업센터 <스타트업을 위한 회계 역량 강화 특강> 참여자 모집",
+    "description": "도봉구청년창업센터 <스타트업을 위한 회계 역량 강화 특강> 참여자 모집",
+    "fullLink": "goView('R2024103027444');",
+    "link": "goView('R2024103027444');"
   },
   {
-    "region": "강북구",
-    "title": "장애인 평생학습 매니저 양성 과정",
-    "description": "장애인 평생학습 매니저 양성 과정",
-    "fullLink": "goView('R2024102527345');",
-    "link": "goView('R2024102527345');"
+    "region": "용산구",
+    "title": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
+    "description": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
+    "fullLink": "goView('R2024102827387');",
+    "link": "goView('R2024102827387');"
   },
   {
     "region": "용산구",
@@ -4459,6 +4438,13 @@
     "link": "goView('R2024102827388');"
   },
   {
+    "region": "도봉구",
+    "title": "2024년 플랫폼종사자 고용보험료 지원사업(2차)",
+    "description": "2024년 플랫폼종사자 고용보험료 지원사업(2차)",
+    "fullLink": "goView('R2024102527343');",
+    "link": "goView('R2024102527343');"
+  },
+  {
     "region": "종로구",
     "title": "종로싱글홈케어(종로구 1인가구 주택 소규모 고장 수리 지원 서비스)",
     "description": "종로싱글홈케어(종로구 1인가구 주택 소규모 고장 수리 지원 서비스)",
@@ -4466,11 +4452,11 @@
     "link": "goView('R2024102827369');"
   },
   {
-    "region": "도봉구",
-    "title": "도봉구청년창업센터 <스타트업을 위한 회계 역량 강화 특강> 참여자 모집",
-    "description": "도봉구청년창업센터 <스타트업을 위한 회계 역량 강화 특강> 참여자 모집",
-    "fullLink": "goView('R2024103027444');",
-    "link": "goView('R2024103027444');"
+    "region": "서초구",
+    "title": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
+    "description": "2024년 2차 서초구 신혼부부·청년 전월세 보증금 대출이자 지원사업",
+    "fullLink": "goView('R2024103127484');",
+    "link": "goView('R2024103127484');"
   },
   {
     "region": "도봉구",
@@ -4494,13 +4480,6 @@
     "link": "goView('R2024102527328');"
   },
   {
-    "region": "용산구",
-    "title": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
-    "description": "2024 용산구 청년 우수기업 탐방 프로그램 참여자 모집((주)트웰브랩스, 일시: 11.6.(수) 14-16시)",
-    "fullLink": "goView('R2024102827387');",
-    "link": "goView('R2024102827387');"
-  },
-  {
     "region": "서초구",
     "title": "[전액지원] 자바 기반 개발자 입문 브릿지과정",
     "description": "[전액지원] 자바 기반 개발자 입문 브릿지과정",
@@ -4508,18 +4487,25 @@
     "link": "goView('R2024102527330');"
   },
   {
+    "region": "강북구",
+    "title": "장애인 평생학습 매니저 양성 과정",
+    "description": "장애인 평생학습 매니저 양성 과정",
+    "fullLink": "goView('R2024102527345');",
+    "link": "goView('R2024102527345');"
+  },
+  {
+    "region": "노원구",
+    "title": "서울 노원구가족센터 다문화 통번역서비스 지원",
+    "description": "서울 노원구가족센터 다문화 통번역서비스 지원",
+    "fullLink": "goView('R2024101627131');",
+    "link": "goView('R2024101627131');"
+  },
+  {
     "region": "마포구",
     "title": "서울 마포구 결혼이민자 GTQ 2급 자격증 취득지원 교육",
     "description": "서울 마포구 결혼이민자 GTQ 2급 자격증 취득지원 교육",
     "fullLink": "goView('R2024101627143');",
     "link": "goView('R2024101627143');"
-  },
-  {
-    "region": "강동구",
-    "title": "2024 창업취약분야 무료 컨설팅(강동구청년해냄센터)",
-    "description": "2024 창업취약분야 무료 컨설팅(강동구청년해냄센터)",
-    "fullLink": "goView('R2024101527107');",
-    "link": "goView('R2024101527107');"
   },
   {
     "region": "마포구",
@@ -4543,13 +4529,6 @@
     "link": "goView('R2024102127226');"
   },
   {
-    "region": "서대문구",
-    "title": "서울 서대문구 장애인, 임산부, 생후 1년 영아 양육자 대상 책배달 서비스",
-    "description": "서울 서대문구 장애인, 임산부, 생후 1년 영아 양육자 대상 책배달 서비스",
-    "fullLink": "goView('R2024101127032');",
-    "link": "goView('R2024101127032');"
-  },
-  {
     "region": "도봉구",
     "title": "도봉구청 <온라인 직무 부트캠프(마케팅/사무행정)> 참여자 모집",
     "description": "도봉구청 <온라인 직무 부트캠프(마케팅/사무행정)> 참여자 모집",
@@ -4557,11 +4536,11 @@
     "link": "goView('R2024101127047');"
   },
   {
-    "region": "중랑구",
-    "title": "중랑구<중랑구 청년네트워크 6기> 참여자 모집",
-    "description": "중랑구<중랑구 청년네트워크 6기> 참여자 모집",
-    "fullLink": "goView('R2024101127029');",
-    "link": "goView('R2024101127029');"
+    "region": "서대문구",
+    "title": "서울 서대문구 장애인, 임산부, 생후 1년 영아 양육자 대상 책배달 서비스",
+    "description": "서울 서대문구 장애인, 임산부, 생후 1년 영아 양육자 대상 책배달 서비스",
+    "fullLink": "goView('R2024101127032');",
+    "link": "goView('R2024101127032');"
   },
   {
     "region": "도봉구",
@@ -4571,18 +4550,25 @@
     "link": "goView('R2024101127048');"
   },
   {
-    "region": "노원구",
-    "title": "서울 노원구가족센터 다문화 통번역서비스 지원",
-    "description": "서울 노원구가족센터 다문화 통번역서비스 지원",
-    "fullLink": "goView('R2024101627131');",
-    "link": "goView('R2024101627131');"
+    "region": "중랑구",
+    "title": "중랑구<중랑구 청년네트워크 6기> 참여자 모집",
+    "description": "중랑구<중랑구 청년네트워크 6기> 참여자 모집",
+    "fullLink": "goView('R2024101127029');",
+    "link": "goView('R2024101127029');"
   },
   {
-    "region": "광진구",
-    "title": "2025년 상반기 청년 행정아르바이트 모집",
-    "description": "2025년 상반기 청년 행정아르바이트 모집",
-    "fullLink": "goView('R2024121128468');",
-    "link": "goView('R2024121128468');"
+    "region": "강동구",
+    "title": "2024 창업취약분야 무료 컨설팅(강동구청년해냄센터)",
+    "description": "2024 창업취약분야 무료 컨설팅(강동구청년해냄센터)",
+    "fullLink": "goView('R2024101527107');",
+    "link": "goView('R2024101527107');"
+  },
+  {
+    "region": "강서구",
+    "title": "제15기 강서까치뉴스 명예기자 모집",
+    "description": "제15기 강서까치뉴스 명예기자 모집",
+    "fullLink": "goView('R2024121128489');",
+    "link": "goView('R2024121128489');"
   },
   {
     "region": "금천구",
@@ -4614,10 +4600,10 @@
   },
   {
     "region": "종로구",
-    "title": "2024년 서울 종로구청 생명을 살리는 응급처치교육(일시 : 12.11.(수) 10-12시)",
-    "description": "2024년 서울 종로구청 생명을 살리는 응급처치교육(일시 : 12.11.(수) 10-12시)",
-    "fullLink": "goView('R2024120428388');",
-    "link": "goView('R2024120428388');"
+    "title": "종로구민 무료세무상담(상담일 : 2024.12.11)",
+    "description": "종로구민 무료세무상담(상담일 : 2024.12.11)",
+    "fullLink": "goView('R2024120428404');",
+    "link": "goView('R2024120428404');"
   },
   {
     "region": "성동구",
@@ -4627,13 +4613,6 @@
     "link": "goView('R2024120928426');"
   },
   {
-    "region": "강북구",
-    "title": "서울 강북청년창업마루<사업계획서작성실무&서비스디자인방법론 이해> 교육(일시 : 12.13.(금) 19-21시)",
-    "description": "서울 강북청년창업마루<사업계획서작성실무&서비스디자인방법론 이해> 교육(일시 : 12.13.(금) 19-21시)",
-    "fullLink": "goView('R2024120928427');",
-    "link": "goView('R2024120928427');"
-  },
-  {
     "region": "성동구",
     "title": "서울청년센터 성동<지속적인 매출을 만드는 브랜드마케팅 핵심 비법>참여자 모집(일시 : 12.17.(화) 19-21시)",
     "description": "서울청년센터 성동<지속적인 매출을 만드는 브랜드마케팅 핵심 비법>참여자 모집(일시 : 12.17.(화) 19-21시)",
@@ -4641,25 +4620,18 @@
     "link": "goView('R2024120928428');"
   },
   {
-    "region": "강서구",
-    "title": "제15기 강서까치뉴스 명예기자 모집",
-    "description": "제15기 강서까치뉴스 명예기자 모집",
-    "fullLink": "goView('R2024121128489');",
-    "link": "goView('R2024121128489');"
+    "region": "강북구",
+    "title": "서울 강북청년창업마루<사업계획서작성실무&서비스디자인방법론 이해> 교육(일시 : 12.13.(금) 19-21시)",
+    "description": "서울 강북청년창업마루<사업계획서작성실무&서비스디자인방법론 이해> 교육(일시 : 12.13.(금) 19-21시)",
+    "fullLink": "goView('R2024120928427');",
+    "link": "goView('R2024120928427');"
   },
   {
-    "region": "서대문구",
-    "title": "2024년 서울 서대문구 학교체육시설 사용료 지원(2차) 안내",
-    "description": "2024년 서울 서대문구 학교체육시설 사용료 지원(2차) 안내",
-    "fullLink": "goView('R2024120428387');",
-    "link": "goView('R2024120428387');"
-  },
-  {
-    "region": "성동구",
-    "title": "＜2025년 성동구 원어민 화상영어 학습센터＞ 1기 수강생 모집",
-    "description": "＜2025년 성동구 원어민 화상영어 학습센터＞ 1기 수강생 모집",
-    "fullLink": "goView('R2024120428385');",
-    "link": "goView('R2024120428385');"
+    "region": "광진구",
+    "title": "2025년 상반기 청년 행정아르바이트 모집",
+    "description": "2025년 상반기 청년 행정아르바이트 모집",
+    "fullLink": "goView('R2024121128468');",
+    "link": "goView('R2024121128468');"
   },
   {
     "region": "영등포구",
@@ -4669,18 +4641,39 @@
     "link": "goView('R2024120428360');"
   },
   {
-    "region": "성동구",
-    "title": "「2025년 상반기 서울 성동구 동행일자리（공공근로)사업」 참여자 모집",
-    "description": "「2025년 상반기 서울 성동구 동행일자리（공공근로)사업」 참여자 모집",
-    "fullLink": "goView('R2024120428386');",
-    "link": "goView('R2024120428386');"
+    "region": "구로구",
+    "title": "서울 구로구 2025년「문화철도959」입주작가 모집공고",
+    "description": "서울 구로구 2025년「문화철도959」입주작가 모집공고",
+    "fullLink": "goView('R2024120428403');",
+    "link": "goView('R2024120428403');"
+  },
+  {
+    "region": "서대문구",
+    "title": "2024년 서울 서대문구 학교체육시설 사용료 지원(2차) 안내",
+    "description": "2024년 서울 서대문구 학교체육시설 사용료 지원(2차) 안내",
+    "fullLink": "goView('R2024120428387');",
+    "link": "goView('R2024120428387');"
   },
   {
     "region": "종로구",
-    "title": "종로구민 무료세무상담(상담일 : 2024.12.11)",
-    "description": "종로구민 무료세무상담(상담일 : 2024.12.11)",
-    "fullLink": "goView('R2024120428404');",
-    "link": "goView('R2024120428404');"
+    "title": "2024년 서울 종로구청 생명을 살리는 응급처치교육(일시 : 12.11.(수) 10-12시)",
+    "description": "2024년 서울 종로구청 생명을 살리는 응급처치교육(일시 : 12.11.(수) 10-12시)",
+    "fullLink": "goView('R2024120428388');",
+    "link": "goView('R2024120428388');"
+  },
+  {
+    "region": "종로구",
+    "title": "서울 종로구청 2025학년도 대입정시전형 진학상담(일시 : 12.23.(월) 17-21:10, 총 5회차)",
+    "description": "서울 종로구청 2025학년도 대입정시전형 진학상담(일시 : 12.23.(월) 17-21:10, 총 5회차)",
+    "fullLink": "goView('R2024120428389');",
+    "link": "goView('R2024120428389');"
+  },
+  {
+    "region": "구로구",
+    "title": "서울 구로구 0세아 의료비 지원",
+    "description": "서울 구로구 0세아 의료비 지원",
+    "fullLink": "goView('R2024112928326');",
+    "link": "goView('R2024112928326');"
   },
   {
     "region": "동대문구",
@@ -4690,18 +4683,11 @@
     "link": "goView('R2024120328346');"
   },
   {
-    "region": "관악구",
-    "title": "2024 서울 관악구 친환경 보일러 교체 보조금 3차 추가 접수 알림",
-    "description": "2024 서울 관악구 친환경 보일러 교체 보조금 3차 추가 접수 알림",
-    "fullLink": "goView('R2024112828230');",
-    "link": "goView('R2024112828230');"
-  },
-  {
-    "region": "구로구",
-    "title": "서울 구로구 2025년「문화철도959」입주작가 모집공고",
-    "description": "서울 구로구 2025년「문화철도959」입주작가 모집공고",
-    "fullLink": "goView('R2024120428403');",
-    "link": "goView('R2024120428403');"
+    "region": "성동구",
+    "title": "「2025년 상반기 서울 성동구 동행일자리（공공근로)사업」 참여자 모집",
+    "description": "「2025년 상반기 서울 성동구 동행일자리（공공근로)사업」 참여자 모집",
+    "fullLink": "goView('R2024120428386');",
+    "link": "goView('R2024120428386');"
   },
   {
     "region": "영등포구",
@@ -4711,11 +4697,11 @@
     "link": "goView('R2024120428405');"
   },
   {
-    "region": "종로구",
-    "title": "서울 종로구청 2025학년도 대입정시전형 진학상담(일시 : 12.23.(월) 17-21:10, 총 5회차)",
-    "description": "서울 종로구청 2025학년도 대입정시전형 진학상담(일시 : 12.23.(월) 17-21:10, 총 5회차)",
-    "fullLink": "goView('R2024120428389');",
-    "link": "goView('R2024120428389');"
+    "region": "성동구",
+    "title": "＜2025년 성동구 원어민 화상영어 학습센터＞ 1기 수강생 모집",
+    "description": "＜2025년 성동구 원어민 화상영어 학습센터＞ 1기 수강생 모집",
+    "fullLink": "goView('R2024120428385');",
+    "link": "goView('R2024120428385');"
   },
   {
     "region": "강동구",
@@ -4732,11 +4718,18 @@
     "link": "goView('20250224005400210564');"
   },
   {
-    "region": "구로구",
-    "title": "서울 구로구 0세아 의료비 지원",
-    "description": "서울 구로구 0세아 의료비 지원",
-    "fullLink": "goView('R2024112928326');",
-    "link": "goView('R2024112928326');"
+    "region": "강동구",
+    "title": "서울 강동구 1인가구 겨울나기 근감소 극복 운동교실",
+    "description": "서울 강동구 1인가구 겨울나기 근감소 극복 운동교실",
+    "fullLink": "goView('R2024112828267');",
+    "link": "goView('R2024112828267');"
+  },
+  {
+    "region": "관악구",
+    "title": "2024 서울 관악구 친환경 보일러 교체 보조금 3차 추가 접수 알림",
+    "description": "2024 서울 관악구 친환경 보일러 교체 보조금 3차 추가 접수 알림",
+    "fullLink": "goView('R2024112828230');",
+    "link": "goView('R2024112828230');"
   },
   {
     "region": "관악구",
@@ -4744,12 +4737,5 @@
     "description": "2025년 겨울 청년행정체험단 모집",
     "fullLink": "goView('R2024112828265');",
     "link": "goView('R2024112828265');"
-  },
-  {
-    "region": "강동구",
-    "title": "서울 강동구 1인가구 겨울나기 근감소 극복 운동교실",
-    "description": "서울 강동구 1인가구 겨울나기 근감소 극복 운동교실",
-    "fullLink": "goView('R2024112828267');",
-    "link": "goView('R2024112828267');"
   }
 ]
