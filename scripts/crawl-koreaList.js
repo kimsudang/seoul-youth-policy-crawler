@@ -49,7 +49,7 @@ export default async function crawlKoreaList() {
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
         fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
         link:
-          item.querySelector('a')?.getAttribute('onclick').slice(9, -3) ?? null,
+          item.querySelector('a')?.getAttribute('onclick').slice(8, -3) ?? null,
       }))
     );
 

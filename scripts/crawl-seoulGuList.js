@@ -50,7 +50,8 @@ export default async function crawlSeoulGuList() {
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
         fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
-        link: item.querySelector('a')?.getAttribute('onclick') ?? null,
+        link:
+          item.querySelector('a')?.getAttribute('onclick').slice(8, -3) ?? null,
       }))
     );
 
