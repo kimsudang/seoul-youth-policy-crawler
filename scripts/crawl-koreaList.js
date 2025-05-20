@@ -7,13 +7,13 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const BASE_URL =
-  'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list1.do?plcyBizId=&key=2309160001&sc_detailAt=&pageIndex=1&orderBy=regYmd+desc&blueWorksYn=N&tabKind=002&sw=#none';
+  'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list1.do?plcyBizId=&key=2309160001&sc_detailAt=';
 
 export default async function crawlKoreaList() {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
 
-  console.log('🌀 [전체정책] 마지막 페이지 번호 가져오는 중...');
+  console.log('🌀 [전국정책] 마지막 페이지 번호 가져오는 중...');
 
   await page.goto(`${BASE_URL}&pageIndex=1`, { waitUntil: 'networkidle' });
 
@@ -23,12 +23,12 @@ export default async function crawlKoreaList() {
     return match ? parseInt(match[1]) : 1;
   });
 
-  console.log(`✅ [전체정책] 마지막 페이지: ${lastPage} 페이지`);
+  console.log(`✅ [전국정책] 마지막 페이지: ${lastPage} 페이지`);
 
   const results = [];
 
   for (let pageIndex = lastPage; pageIndex >= 1; pageIndex--) {
-    console.log(`📄 [전체정책] ${pageIndex} 페이지 크롤링 중...`);
+    console.log(`📄 [전국정책] ${pageIndex} 페이지 크롤링 중...`);
 
     await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, {
       waitUntil: 'networkidle',
@@ -37,7 +37,7 @@ export default async function crawlKoreaList() {
     try {
       await page.waitForSelector('ul.policy-list > li', { timeout: 5000 });
     } catch {
-      console.log(`⚠️ [전체정책] ${pageIndex} 페이지에 리스트 없음 (건너뜀)`);
+      console.log(`⚠️ [전국정책] ${pageIndex} 페이지에 리스트 없음 (건너뜀)`);
       continue;
     }
 
@@ -54,7 +54,7 @@ export default async function crawlKoreaList() {
     );
 
     console.log(
-      `✅ [전체정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`
+      `✅ [전국정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`
     );
 
     results.push(...pageData);
@@ -63,6 +63,6 @@ export default async function crawlKoreaList() {
   const outputPath = path.join(__dirname, '../data/korea-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
 
-  console.log(`🎉 [전체정책 완료] 총 ${results.length}개 저장됨`);
+  console.log(`🎉 [전국정책 완료] 총 ${results.length}개 저장됨`);
   await browser.close();
 }

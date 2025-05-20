@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const BASE_URL =
-  'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list2.do?plcyBizId=&key=2309160001&sc_detailAt=&pageIndex=1&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=#none';
+  'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list2.do?plcyBizId=&key=2309160001&sc_detailAt=';
 
 export default async function crawlRegionList() {
   const browser = await chromium.launch({ headless: true });
