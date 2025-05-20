@@ -6,7 +6,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BASE_URL = 'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list2.do?plcyBizId=&key=2309160001&sc_detailAt=&pageIndex=1&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=#none';
+const BASE_URL =
+  'https://youth.seoul.go.kr/infoData/youthPlcyInfo/list2.do?plcyBizId=&key=2309160001&sc_detailAt=&pageIndex=1&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=#none';
 
 export default async function crawlRegionList() {
   const browser = await chromium.launch({ headless: true });
@@ -29,7 +30,9 @@ export default async function crawlRegionList() {
   for (let pageIndex = lastPage; pageIndex >= 1; pageIndex--) {
     console.log(`📄 [지역정책] ${pageIndex} 페이지 크롤링 중...`);
 
-    await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, { waitUntil: 'networkidle' });
+    await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, {
+      waitUntil: 'networkidle',
+    });
 
     try {
       await page.waitForSelector('ul.policy-list > li', { timeout: 5000 });
@@ -40,15 +43,22 @@ export default async function crawlRegionList() {
 
     const pageData = await page.$$eval('ul.policy-list > li', (items) =>
       items.map((item) => ({
-        region: item.querySelector('span')?.innerText.trim() ?? null,
+        caetgory: '',
+        region:
+          item.querySelector('span')?.innerText.trim() ??
+          item.querySelector('.tit')?.innerText.trim().slice(0, 2) ??
+          null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
         fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
-        link: item.querySelector('a')?.getAttribute('onclick').slice(9, -3) ?? null,
+        link:
+          item.querySelector('a')?.getAttribute('onclick').slice(9, -3) ?? null,
       }))
     );
 
-    console.log(`✅ [지역정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`);
+    console.log(
+      `✅ [지역정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`
+    );
 
     results.push(...pageData);
   }

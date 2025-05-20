@@ -6,7 +6,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BASE_URL = 'https://youth.seoul.go.kr/infoData/plcyInfo/guList.do?plcyBizId=&tab=001&key=2309150002&sc_detailAt=&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=';
+const BASE_URL =
+  'https://youth.seoul.go.kr/infoData/plcyInfo/guList.do?plcyBizId=&tab=001&key=2309150002&sc_detailAt=&orderBy=regYmd+desc&blueWorksYn=N&tabKind=003&sw=';
 
 export default async function crawlSeoulGuList() {
   const browser = await chromium.launch({ headless: true });
@@ -29,17 +30,22 @@ export default async function crawlSeoulGuList() {
   for (let pageIndex = lastPage; pageIndex >= 1; pageIndex--) {
     console.log(`📄 [서울시구정책] ${pageIndex} 페이지 크롤링 중...`);
 
-    await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, { waitUntil: 'networkidle' });
+    await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, {
+      waitUntil: 'networkidle',
+    });
 
     try {
       await page.waitForSelector('ul.policy-list > li', { timeout: 5000 });
     } catch {
-      console.log(`⚠️ [서울시구정책] ${pageIndex} 페이지에 리스트 없음 (건너뜀)`);
+      console.log(
+        `⚠️ [서울시구정책] ${pageIndex} 페이지에 리스트 없음 (건너뜀)`
+      );
       continue;
     }
 
     const pageData = await page.$$eval('ul.policy-list > li', (items) =>
       items.map((item) => ({
+        category: '',
         region: item.querySelector('.bg-purple')?.innerText.trim() ?? null,
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
@@ -48,7 +54,9 @@ export default async function crawlSeoulGuList() {
       }))
     );
 
-    console.log(`✅ [서울시구정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`);
+    console.log(
+      `✅ [서울시구정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`
+    );
 
     results.push(...pageData);
   }
