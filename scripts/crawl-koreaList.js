@@ -24,10 +24,13 @@ export default async function crawlKoreaList() {
   });
 
   console.log(`✅ [전국정책] 마지막 페이지: ${lastPage} 페이지`);
+  console.log(`✅ [전국정책] 마지막 페이지 / 2: ${lastPage / 2} 페이지`);
 
   const results = [];
 
-  for (let pageIndex = lastPage; pageIndex >= 1; pageIndex--) {
+  const cutPageIndex = lastPage / 2;
+
+  for (let pageIndex = cutPageIndex; pageIndex >= 1; pageIndex--) {
     console.log(`📄 [전국정책] ${pageIndex} 페이지 크롤링 중...`);
 
     await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, {
