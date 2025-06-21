@@ -63,7 +63,7 @@ export default async function crawlKoreaList() {
   console.log(`✅ [전국정책] 중복 제거 후: ${deduped.length}개 (중복 ${results.length - deduped.length}개 제거)`);
 
   // ✅ deduped로 저장
-  const outputPath = path.join(__dirname, '../data/region-policy-list.json');
+  const outputPath = path.join(__dirname, '../data/korea-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(deduped, null, 2), 'utf-8');
 
   console.log(`🎉 [전국정책 완료] 최종 ${deduped.length}개 저장됨`);

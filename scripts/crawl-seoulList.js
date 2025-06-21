@@ -64,7 +64,7 @@ export default async function crawlSeoulList() {
   console.log(`✅ [서울시정책] 중복 제거 후: ${deduped.length}개 (중복 ${results.length - deduped.length}개 제거)`);
 
   // ✅ deduped로 저장
-  const outputPath = path.join(__dirname, '../data/region-policy-list.json');
+  const outputPath = path.join(__dirname, '../data/seoul-policy-list.json');
   fs.writeFileSync(outputPath, JSON.stringify(deduped, null, 2), 'utf-8');
 
   console.log(`🎉 [서울시정책 완료] 최종 ${deduped.length}개 저장됨`);
