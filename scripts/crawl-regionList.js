@@ -27,7 +27,7 @@ export default async function crawlRegionList() {
 
   const results = [];
 
-  for (let pageIndex = lastPage; pageIndex >= 1; pageIndex--) {
+  for (let pageIndex = lastPage / 2; pageIndex >= 1; pageIndex--) {
     console.log(`📄 [지역정책] ${pageIndex} 페이지 크롤링 중...`);
 
     await page.goto(`${BASE_URL}&pageIndex=${pageIndex}`, {
@@ -62,7 +62,7 @@ export default async function crawlRegionList() {
 
   // ✅ 중복 제거
   console.log(`🗂️ [지역정책] 중복 제거 전: ${results.length}개`);
-  const deduped = removeDuplicates(results, (item) => item.link);
+  const deduped = removeDuplicates(results, (item) => item.title);
   console.log(`✅ [지역정책] 중복 제거 후: ${deduped.length}개 (중복 ${results.length - deduped.length}개 제거)`);
 
   // ✅ deduped로 저장

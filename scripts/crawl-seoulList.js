@@ -48,21 +48,24 @@ export default async function crawlSeoulList() {
         title: item.querySelector('.tit')?.innerText.trim() ?? null,
         description: item.querySelector('.txt-over1')?.innerText.trim() ?? null,
         fullLink: item.querySelector('a')?.getAttribute('onclick') ?? null,
-        link:
-          item.querySelector('a')?.getAttribute('onclick').slice(8, -3) ?? null,
+        link: item.querySelector('a')?.getAttribute('onclick').slice(8, -3) ?? null,
       }))
     );
 
-    console.log(
-      `✅ [서울시정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`
-    );
+    console.log(`✅ [서울시정책] ${pageIndex} 페이지에서 ${pageData.length}개 수집됨`);
 
     results.push(...pageData);
   }
 
-  const outputPath = path.join(__dirname, '../data/seoul-policy-list.json');
-  fs.writeFileSync(outputPath, JSON.stringify(results, null, 2), 'utf-8');
+  // ✅ 중복 제거
+  console.log(`🗂️ [서울시정책] 중복 제거 전: ${results.length}개`);
+  const deduped = removeDuplicates(results, (item) => item.title);
+  console.log(`✅ [서울시정책] 중복 제거 후: ${deduped.length}개 (중복 ${results.length - deduped.length}개 제거)`);
 
-  console.log(`🎉 [서울시정책 완료] 총 ${results.length}개 저장됨`);
+  // ✅ deduped로 저장
+  const outputPath = path.join(__dirname, '../data/region-policy-list.json');
+  fs.writeFileSync(outputPath, JSON.stringify(deduped, null, 2), 'utf-8');
+
+  console.log(`🎉 [서울시정책 완료] 최종 ${deduped.length}개 저장됨`);
   await browser.close();
 }
