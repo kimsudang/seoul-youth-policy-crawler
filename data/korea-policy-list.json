@@ -2,86 +2,6 @@
   {
     "category": "복지.문화",
     "region": "전국",
-    "title": "청년문화예술패스",
-    "description": "청년문화예술패스",
-    "fullLink": "goView('20240306005400100017');",
-    "link": "20240306005400100017"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "2024년 문화누리카드",
-    "description": "2024년 문화누리카드",
-    "fullLink": "goView('R2024022620103');",
-    "link": "R2024022620103"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "청년사회서비스사업단(신체건강증진서비스)",
-    "description": "청년사회서비스사업단(신체건강증진서비스)",
-    "fullLink": "goView('20240305005400100001');",
-    "link": "20240305005400100001"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "산모·신생아 건강관리 지원사업",
-    "description": "산모·신생아 건강관리 지원사업",
-    "fullLink": "goView('20240304005400100002');",
-    "link": "20240304005400100002"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "청년월세 특별지원 사업(2차)",
-    "description": "청년월세 특별지원 사업(2차)",
-    "fullLink": "goView('20240304005400100001');",
-    "link": "20240304005400100001"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "청년매입임대주택",
-    "description": "청년매입임대주택",
-    "fullLink": "goView('20240412005400100001');",
-    "link": "20240412005400100001"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "국립예술단체 무대에서 꿈을 펼칠 청년예술가 260명 찾습니다",
-    "description": "국립예술단체 무대에서 꿈을 펼칠 청년예술가 260명 찾습니다",
-    "fullLink": "goView('20240311005400100001');",
-    "link": "20240311005400100001"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "평생교육바우처 사업",
-    "description": "평생교육바우처 사업",
-    "fullLink": "goView('20240308005400100001');",
-    "link": "20240308005400100001"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "의료급여본인부담면제",
-    "description": "의료급여본인부담면제",
-    "fullLink": "goView('20240307005400100005');",
-    "link": "20240307005400100005"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "재난적의료비 지원 사업",
-    "description": "재난적의료비 지원 사업",
-    "fullLink": "goView('20240307005400100004');",
-    "link": "20240307005400100004"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
     "title": "청년마음건강지원사업",
     "description": "청년마음건강지원사업",
     "fullLink": "goView('20240315005400100001');",
@@ -200,20 +120,20 @@
     "link": "20240320005400100002"
   },
   {
-    "category": "참여.권리",
+    "category": "교육",
     "region": "전국",
-    "title": "2024년 전북콘텐츠기업지원센터 입주기업 상시모집 공고",
-    "description": "2024년 전북콘텐츠기업지원센터 입주기업 상시모집 공고",
-    "fullLink": "goView('R2024032521011');",
-    "link": "R2024032521011"
+    "title": "[강동구 청년해냄센터] 전문분야 창업 멘토링 데이",
+    "description": "[강동구 청년해냄센터] 전문분야 창업 멘토링 데이",
+    "fullLink": "goView('R2024032521012');",
+    "link": "R2024032521012"
   },
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2024 전북콘텐츠코리아랩 콘텐츠 창작랩 제작지원사업 모집 공고",
-    "description": "2024 전북콘텐츠코리아랩 콘텐츠 창작랩 제작지원사업 모집 공고",
-    "fullLink": "goView('R2024032521030');",
-    "link": "R2024032521030"
+    "title": "2024 콘텐츠 맞춤형 인턴십 지원사업",
+    "description": "2024 콘텐츠 맞춤형 인턴십 지원사업",
+    "fullLink": "goView('R2024032521034');",
+    "link": "R2024032521034"
   },
   {
     "category": "복지.문화",
@@ -242,6 +162,30 @@
   {
     "category": "참여.권리",
     "region": "전국",
+    "title": "2024 전북콘텐츠코리아랩 콘텐츠 창업랩 제작지원사업",
+    "description": "2024 전북콘텐츠코리아랩 콘텐츠 창업랩 제작지원사업",
+    "fullLink": "goView('R2024032521028');",
+    "link": "R2024032521028"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "2024년 서부경기문화창조허브 캐릭터IP 특화분야지원 모집",
+    "description": "2024년 서부경기문화창조허브 캐릭터IP 특화분야지원 모집",
+    "fullLink": "goView('R2024032521027');",
+    "link": "R2024032521027"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "익산형 청년창업 액셀러레이팅 지원(팁스 연계형) 및 MVP 지원사업 참여기업 모집 공고문",
+    "description": "익산형 청년창업 액셀러레이팅 지원(팁스 연계형) 및 MVP 지원사업 참여기업 모집 공고문",
+    "fullLink": "goView('R2024032721104');",
+    "link": "R2024032721104"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
     "title": "24년 3월 스타트업 언론 홍보 지원사업 참가사 2분기 모집 공고",
     "description": "24년 3월 스타트업 언론 홍보 지원사업 참가사 2분기 모집 공고",
     "fullLink": "goView('R2024032521039');",
@@ -256,44 +200,20 @@
     "link": "R2024032521037"
   },
   {
-    "category": "교육",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "[강동구 청년해냄센터] 전문분야 창업 멘토링 데이",
-    "description": "[강동구 청년해냄센터] 전문분야 창업 멘토링 데이",
-    "fullLink": "goView('R2024032521012');",
-    "link": "R2024032521012"
+    "title": "2024 전북콘텐츠코리아랩 콘텐츠 창작랩 제작지원사업 모집 공고",
+    "description": "2024 전북콘텐츠코리아랩 콘텐츠 창작랩 제작지원사업 모집 공고",
+    "fullLink": "goView('R2024032521030');",
+    "link": "R2024032521030"
   },
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2024 콘텐츠 맞춤형 인턴십 지원사업",
-    "description": "2024 콘텐츠 맞춤형 인턴십 지원사업",
-    "fullLink": "goView('R2024032521034');",
-    "link": "R2024032521034"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "2024년 경기 스타트업 랩(수원); 개방형지정석 및 입주기업 추가모집",
-    "description": "2024년 경기 스타트업 랩(수원); 개방형지정석 및 입주기업 추가모집",
-    "fullLink": "goView('R2024032521010');",
-    "link": "R2024032521010"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "2024 전북콘텐츠코리아랩 콘텐츠 창업랩 제작지원사업",
-    "description": "2024 전북콘텐츠코리아랩 콘텐츠 창업랩 제작지원사업",
-    "fullLink": "goView('R2024032521028');",
-    "link": "R2024032521028"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "[한국농업기술진흥원X씨엔티테크] 2024'FAST TRACK 프로그램' 농식품 기술창업 기업 모집",
-    "description": "[한국농업기술진흥원X씨엔티테크] 2024'FAST TRACK 프로그램' 농식품 기술창업 기업 모집",
-    "fullLink": "goView('R2024032521008');",
-    "link": "R2024032521008"
+    "title": "2024년 2차 창업지원센터(동백) 입주기업 모집 공고",
+    "description": "2024년 2차 창업지원센터(동백) 입주기업 모집 공고",
+    "fullLink": "goView('R2024032521009');",
+    "link": "R2024032521009"
   },
   {
     "category": "교육",
@@ -306,10 +226,10 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2024년 2차 창업지원센터(동백) 입주기업 모집 공고",
-    "description": "2024년 2차 창업지원센터(동백) 입주기업 모집 공고",
-    "fullLink": "goView('R2024032521009');",
-    "link": "R2024032521009"
+    "title": "[한국농업기술진흥원X씨엔티테크] 2024'FAST TRACK 프로그램' 농식품 기술창업 기업 모집",
+    "description": "[한국농업기술진흥원X씨엔티테크] 2024'FAST TRACK 프로그램' 농식품 기술창업 기업 모집",
+    "fullLink": "goView('R2024032521008');",
+    "link": "R2024032521008"
   },
   {
     "category": "교육",
@@ -338,18 +258,18 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "익산형 청년창업 액셀러레이팅 지원(팁스 연계형) 및 MVP 지원사업 참여기업 모집 공고문",
-    "description": "익산형 청년창업 액셀러레이팅 지원(팁스 연계형) 및 MVP 지원사업 참여기업 모집 공고문",
-    "fullLink": "goView('R2024032721104');",
-    "link": "R2024032721104"
+    "title": "2024년 전북콘텐츠기업지원센터 입주기업 상시모집 공고",
+    "description": "2024년 전북콘텐츠기업지원센터 입주기업 상시모집 공고",
+    "fullLink": "goView('R2024032521011');",
+    "link": "R2024032521011"
   },
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2024년 서부경기문화창조허브 캐릭터IP 특화분야지원 모집",
-    "description": "2024년 서부경기문화창조허브 캐릭터IP 특화분야지원 모집",
-    "fullLink": "goView('R2024032521027');",
-    "link": "R2024032521027"
+    "title": "2024년 경기 스타트업 랩(수원); 개방형지정석 및 입주기업 추가모집",
+    "description": "2024년 경기 스타트업 랩(수원); 개방형지정석 및 입주기업 추가모집",
+    "fullLink": "goView('R2024032521010');",
+    "link": "R2024032521010"
   },
   {
     "category": "교육",
@@ -946,10 +866,10 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "취업후상환학자금_생활비(하반기)",
-    "description": "취업후상환학자금_생활비(하반기)",
-    "fullLink": "goView('20240724005400100002');",
-    "link": "20240724005400100002"
+    "title": "취업후상환학자금_등록금(하반기)",
+    "description": "취업후상환학자금_등록금(하반기)",
+    "fullLink": "goView('20240724005400100001');",
+    "link": "20240724005400100001"
   },
   {
     "category": "교육",
@@ -1010,10 +930,10 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "취업후상환학자금_등록금(하반기)",
-    "description": "취업후상환학자금_등록금(하반기)",
-    "fullLink": "goView('20240724005400100001');",
-    "link": "20240724005400100001"
+    "title": "취업후상환학자금_생활비(하반기)",
+    "description": "취업후상환학자금_생활비(하반기)",
+    "fullLink": "goView('20240724005400100002');",
+    "link": "20240724005400100002"
   },
   {
     "category": "복지.문화",
@@ -1072,20 +992,20 @@
     "link": "20240802005400100002"
   },
   {
-    "category": "교육",
-    "region": "전국",
-    "title": "자립준비청년 자조모임(바람개비서포터즈)",
-    "description": "자립준비청년 자조모임(바람개비서포터즈)",
-    "fullLink": "goView('R2024080125684');",
-    "link": "R2024080125684"
-  },
-  {
     "category": "복지.문화",
     "region": "전국",
     "title": "온라인 자립준비청년 통합정보 플랫폼(자립정보ON)",
     "description": "온라인 자립준비청년 통합정보 플랫폼(자립정보ON)",
     "fullLink": "goView('R2024080125665');",
     "link": "R2024080125665"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "자립준비청년 자조모임(바람개비서포터즈)",
+    "description": "자립준비청년 자조모임(바람개비서포터즈)",
+    "fullLink": "goView('R2024080125684');",
+    "link": "R2024080125684"
   },
   {
     "category": "참여.권리",
@@ -1306,18 +1226,18 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "성남 중장년 기술창업센터 신규 입주기업 모집",
-    "description": "성남 중장년 기술창업센터 신규 입주기업 모집",
-    "fullLink": "goView('20240913005400100008');",
-    "link": "20240913005400100008"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
     "title": "[경희창업보육센터(서울)] 2024년 하반기 신규 입주기업 모집 공고",
     "description": "[경희창업보육센터(서울)] 2024년 하반기 신규 입주기업 모집 공고",
     "fullLink": "goView('20240913005400100004');",
     "link": "20240913005400100004"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "성남 중장년 기술창업센터 신규 입주기업 모집",
+    "description": "성남 중장년 기술창업센터 신규 입주기업 모집",
+    "fullLink": "goView('20240913005400100008');",
+    "link": "20240913005400100008"
   },
   {
     "category": "참여.권리",
@@ -1386,18 +1306,18 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "제18기 K-water 협력 스타트업 모집 공고",
-    "description": "제18기 K-water 협력 스타트업 모집 공고",
-    "fullLink": "goView('20240925005400100008');",
-    "link": "20240925005400100008"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
     "title": "분당서울대학교병원 창업보육센터 신규 입주기업 모집(접수기한 10/7(월) 16시까지)",
     "description": "분당서울대학교병원 창업보육센터 신규 입주기업 모집(접수기한 10/7(월) 16시까지)",
     "fullLink": "goView('20240925005400100006');",
     "link": "20240925005400100006"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "제18기 K-water 협력 스타트업 모집 공고",
+    "description": "제18기 K-water 협력 스타트업 모집 공고",
+    "fullLink": "goView('20240925005400100008');",
+    "link": "20240925005400100008"
   },
   {
     "category": "참여.권리",
@@ -1480,6 +1400,14 @@
     "link": "R2024072325364"
   },
   {
+    "category": "일자리",
+    "region": "전국",
+    "title": "해외일경험 지원사업(WELL)",
+    "description": "해외일경험 지원사업(WELL)",
+    "fullLink": "goView('R2024061424003');",
+    "link": "R2024061424003"
+  },
+  {
     "category": "참여.권리",
     "region": "전국",
     "title": "꿈드림 공작소",
@@ -1494,14 +1422,6 @@
     "description": "청년성장프로젝트",
     "fullLink": "goView('R2024061223884');",
     "link": "R2024061223884"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "해외일경험 지원사업(WELL)",
-    "description": "해외일경험 지원사업(WELL)",
-    "fullLink": "goView('R2024061424003');",
-    "link": "R2024061424003"
   },
   {
     "category": "교육",
@@ -1536,54 +1456,6 @@
     "link": "R2024051622906"
   },
   {
-    "category": "일자리",
-    "region": "전국",
-    "title": "사회적기업가 육성사업",
-    "description": "사회적기업가 육성사업",
-    "fullLink": "goView('R2024051422871');",
-    "link": "R2024051422871"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "온라인 소그룹 마음똑똑心+",
-    "description": "온라인 소그룹 마음똑똑心+",
-    "fullLink": "goView('R2024051422852');",
-    "link": "R2024051422852"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "(국민연금) 실업크레딧 지원",
-    "description": "(국민연금) 실업크레딧 지원",
-    "fullLink": "goView('R2024051422868');",
-    "link": "R2024051422868"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "고용복지플러스센터",
-    "description": "고용복지플러스센터",
-    "fullLink": "goView('R2024051622903');",
-    "link": "R2024051622903"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "산업계 주도 청년 맞춤형 훈련",
-    "description": "산업계 주도 청년 맞춤형 훈련",
-    "fullLink": "goView('R2024051422806');",
-    "link": "R2024051422806"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "온라인 소그룹 취업컨설팅 청년취업ON",
-    "description": "온라인 소그룹 취업컨설팅 청년취업ON",
-    "fullLink": "goView('R2024051422867');",
-    "link": "R2024051422867"
-  },
-  {
     "category": "주거",
     "region": "전국",
     "title": "유연근무제 간접노무비 지원(사업장 지원)",
@@ -1594,10 +1466,50 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "청년층직업지도프로그램(CAP@)",
-    "description": "청년층직업지도프로그램(CAP@)",
-    "fullLink": "goView('R2024051422870');",
-    "link": "R2024051422870"
+    "title": "온라인 소그룹 취업컨설팅 청년취업ON",
+    "description": "온라인 소그룹 취업컨설팅 청년취업ON",
+    "fullLink": "goView('R2024051422867');",
+    "link": "R2024051422867"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "온라인 소그룹 마음똑똑心+",
+    "description": "온라인 소그룹 마음똑똑心+",
+    "fullLink": "goView('R2024051422852');",
+    "link": "R2024051422852"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "고용복지플러스센터",
+    "description": "고용복지플러스센터",
+    "fullLink": "goView('R2024051622903');",
+    "link": "R2024051622903"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "실업급여",
+    "description": "실업급여",
+    "fullLink": "goView('R2024051422804');",
+    "link": "R2024051422804"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "(국민연금) 실업크레딧 지원",
+    "description": "(국민연금) 실업크레딧 지원",
+    "fullLink": "goView('R2024051422868');",
+    "link": "R2024051422868"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "사회적기업가 육성사업",
+    "description": "사회적기업가 육성사업",
+    "fullLink": "goView('R2024051422871');",
+    "link": "R2024051422871"
   },
   {
     "category": "일자리",
@@ -1606,6 +1518,38 @@
     "description": "예술인 고용보험 정책",
     "fullLink": "goView('R2024051422856');",
     "link": "R2024051422856"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "청년층직업지도프로그램(CAP@)",
+    "description": "청년층직업지도프로그램(CAP@)",
+    "fullLink": "goView('R2024051422870');",
+    "link": "R2024051422870"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "산업계 주도 청년 맞춤형 훈련",
+    "description": "산업계 주도 청년 맞춤형 훈련",
+    "fullLink": "goView('R2024051422806');",
+    "link": "R2024051422806"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "조기재취업수당",
+    "description": "조기재취업수당",
+    "fullLink": "goView('R2024051422808');",
+    "link": "R2024051422808"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "성취프로그램",
+    "description": "성취프로그램",
+    "fullLink": "goView('R2024051422805');",
+    "link": "R2024051422805"
   },
   {
     "category": "일자리",
@@ -1624,30 +1568,6 @@
     "link": "R2024051422823"
   },
   {
-    "category": "주거",
-    "region": "전국",
-    "title": "실업급여",
-    "description": "실업급여",
-    "fullLink": "goView('R2024051422804');",
-    "link": "R2024051422804"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "조기재취업수당",
-    "description": "조기재취업수당",
-    "fullLink": "goView('R2024051422808');",
-    "link": "R2024051422808"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "기업대학",
-    "description": "기업대학",
-    "fullLink": "goView('R2024051422826');",
-    "link": "R2024051422826"
-  },
-  {
     "category": "일자리",
     "region": "전국",
     "title": "청년장병 진로상담 및 일자리 지원",
@@ -1658,10 +1578,26 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "성취프로그램",
-    "description": "성취프로그램",
-    "fullLink": "goView('R2024051422805');",
-    "link": "R2024051422805"
+    "title": "기업대학",
+    "description": "기업대학",
+    "fullLink": "goView('R2024051422826');",
+    "link": "R2024051422826"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "청년매입임대주택",
+    "description": "청년매입임대주택",
+    "fullLink": "goView('R2024041221743');",
+    "link": "R2024041221743"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "농촌학자금융자",
+    "description": "농촌학자금융자",
+    "fullLink": "goView('R2024040121267');",
+    "link": "R2024040121267"
   },
   {
     "category": "교육",
@@ -1674,10 +1610,26 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "농촌학자금융자",
-    "description": "농촌학자금융자",
-    "fullLink": "goView('R2024040121267');",
-    "link": "R2024040121267"
+    "title": "대학일자리플러스센터",
+    "description": "대학일자리플러스센터",
+    "fullLink": "goView('R2024032621083');",
+    "link": "R2024032621083"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "월드잡플러스(해외통합정보망)",
+    "description": "월드잡플러스(해외통합정보망)",
+    "fullLink": "goView('R2024032521040');",
+    "link": "R2024032521040"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "근로자 생활안정자금 융자사업",
+    "description": "근로자 생활안정자금 융자사업",
+    "fullLink": "goView('R2024032521013');",
+    "link": "R2024032521013"
   },
   {
     "category": "일자리",
@@ -1704,28 +1656,12 @@
     "link": "R2024032521043"
   },
   {
-    "category": "교육",
-    "region": "전국",
-    "title": "대학일자리플러스센터",
-    "description": "대학일자리플러스센터",
-    "fullLink": "goView('R2024032621083');",
-    "link": "R2024032621083"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "근로자 생활안정자금 융자사업",
-    "description": "근로자 생활안정자금 융자사업",
-    "fullLink": "goView('R2024032521013');",
-    "link": "R2024032521013"
-  },
-  {
     "category": "일자리",
     "region": "전국",
-    "title": "월드잡플러스(해외통합정보망)",
-    "description": "월드잡플러스(해외통합정보망)",
-    "fullLink": "goView('R2024032521040');",
-    "link": "R2024032521040"
+    "title": "구직자ㆍ기업 도약보장 패키지",
+    "description": "구직자ㆍ기업 도약보장 패키지",
+    "fullLink": "goView('R2024032521022');",
+    "link": "R2024032521022"
   },
   {
     "category": "일자리",
@@ -1736,12 +1672,28 @@
     "link": "R2024032521014"
   },
   {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "제대군인지원센터",
+    "description": "제대군인지원센터",
+    "fullLink": "goView('R2024031420689');",
+    "link": "R2024031420689"
+  },
+  {
     "category": "일자리",
     "region": "전국",
-    "title": "구직자ㆍ기업 도약보장 패키지",
-    "description": "구직자ㆍ기업 도약보장 패키지",
-    "fullLink": "goView('R2024032521022');",
-    "link": "R2024032521022"
+    "title": "국내해외취업센터 운영",
+    "description": "국내해외취업센터 운영",
+    "fullLink": "goView('R2024030720426');",
+    "link": "R2024030720426"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "의료급여본인부담면제",
+    "description": "의료급여본인부담면제",
+    "fullLink": "goView('R2024030720428');",
+    "link": "R2024030720428"
   },
   {
     "category": "주거",
@@ -1770,18 +1722,34 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "취업희망프로그램",
-    "description": "취업희망프로그램",
-    "fullLink": "goView('R2024030620388');",
-    "link": "R2024030620388"
+    "title": "국가기간·전략산업직종 훈련",
+    "description": "국가기간·전략산업직종 훈련",
+    "fullLink": "goView('R2024030720423');",
+    "link": "R2024030720423"
   },
   {
-    "category": "복지.문화",
+    "category": "일자리",
     "region": "전국",
-    "title": "제대군인지원센터",
-    "description": "제대군인지원센터",
-    "fullLink": "goView('R2024031420689');",
-    "link": "R2024031420689"
+    "title": "국립예술단체 무대에서 꿈을 펼칠 청년예술가 260명 찾습니다",
+    "description": "국립예술단체 무대에서 꿈을 펼칠 청년예술가 260명 찾습니다",
+    "fullLink": "goView('R2024031120543');",
+    "link": "R2024031120543"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "평생교육바우처 사업",
+    "description": "평생교육바우처 사업",
+    "fullLink": "goView('R2024030820483');",
+    "link": "R2024030820483"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "해외취업정착지원금",
+    "description": "해외취업정착지원금",
+    "fullLink": "goView('R2024030620393');",
+    "link": "R2024030620393"
   },
   {
     "category": "일자리",
@@ -1792,20 +1760,12 @@
     "link": "R2024030720425"
   },
   {
-    "category": "교육",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "취업특강",
-    "description": "취업특강",
-    "fullLink": "goView('R2024030620389');",
-    "link": "R2024030620389"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "청년친화강소기업 선정",
-    "description": "청년친화강소기업 선정",
-    "fullLink": "goView('R2024030620405');",
-    "link": "R2024030620405"
+    "title": "재난적의료비 지원 사업",
+    "description": "재난적의료비 지원 사업",
+    "fullLink": "goView('R2024030720427');",
+    "link": "R2024030720427"
   },
   {
     "category": "일자리",
@@ -1826,42 +1786,10 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "해외취업아카데미",
-    "description": "해외취업아카데미",
-    "fullLink": "goView('R2024030620345');",
-    "link": "R2024030620345"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "단기집단상담프로그램",
-    "description": "단기집단상담프로그램",
-    "fullLink": "goView('R2024030620385');",
-    "link": "R2024030620385"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "직업훈련생계비 융자",
-    "description": "직업훈련생계비 융자",
-    "fullLink": "goView('R2024030620403');",
-    "link": "R2024030620403"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "청소년 근로권익센터",
-    "description": "청소년 근로권익센터",
-    "fullLink": "goView('R2024030620404');",
-    "link": "R2024030620404"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "취업능력향상(행복오름) 프로그램",
-    "description": "취업능력향상(행복오름) 프로그램",
-    "fullLink": "goView('R2024030620387');",
-    "link": "R2024030620387"
+    "title": "K-Move 스쿨",
+    "description": "K-Move 스쿨",
+    "fullLink": "goView('R2024030620365');",
+    "link": "R2024030620365"
   },
   {
     "category": "복지.문화",
@@ -1872,20 +1800,52 @@
     "link": "R2024030620363"
   },
   {
-    "category": "일자리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "K-Move 스쿨",
-    "description": "K-Move 스쿨",
-    "fullLink": "goView('R2024030620365');",
-    "link": "R2024030620365"
+    "title": "청년문화예술패스",
+    "description": "청년문화예술패스",
+    "fullLink": "goView('R2024030620343');",
+    "link": "R2024030620343"
   },
   {
     "category": "교육",
     "region": "전국",
-    "title": "일반고 특화 직업능력개발훈련과정",
-    "description": "일반고 특화 직업능력개발훈련과정",
-    "fullLink": "goView('R2024030620344');",
-    "link": "R2024030620344"
+    "title": "K-디지털 기초역량훈련",
+    "description": "K-디지털 기초역량훈련",
+    "fullLink": "goView('R2024030620392');",
+    "link": "R2024030620392"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "첨단산업·디지털 핵심 실무인재 양성훈련(K-디지털 트레이닝)",
+    "description": "첨단산업·디지털 핵심 실무인재 양성훈련(K-디지털 트레이닝)",
+    "fullLink": "goView('R2024030620406');",
+    "link": "R2024030620406"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "직업훈련생계비 융자",
+    "description": "직업훈련생계비 융자",
+    "fullLink": "goView('R2024030620403');",
+    "link": "R2024030620403"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "단기집단상담프로그램",
+    "description": "단기집단상담프로그램",
+    "fullLink": "goView('R2024030620385');",
+    "link": "R2024030620385"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "해외취업아카데미",
+    "description": "해외취업아카데미",
+    "fullLink": "goView('R2024030620345');",
+    "link": "R2024030620345"
   },
   {
     "category": "일자리",
@@ -1898,50 +1858,58 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "국가기간·전략산업직종 훈련",
-    "description": "국가기간·전략산업직종 훈련",
-    "fullLink": "goView('R2024030720423');",
-    "link": "R2024030720423"
+    "title": "일반고 특화 직업능력개발훈련과정",
+    "description": "일반고 특화 직업능력개발훈련과정",
+    "fullLink": "goView('R2024030620344');",
+    "link": "R2024030620344"
   },
   {
     "category": "일자리",
     "region": "전국",
-    "title": "해외취업정착지원금",
-    "description": "해외취업정착지원금",
-    "fullLink": "goView('R2024030620393');",
-    "link": "R2024030620393"
+    "title": "청년친화강소기업 선정",
+    "description": "청년친화강소기업 선정",
+    "fullLink": "goView('R2024030620405');",
+    "link": "R2024030620405"
   },
   {
     "category": "교육",
     "region": "전국",
-    "title": "첨단산업·디지털 핵심 실무인재 양성훈련(K-디지털 트레이닝)",
-    "description": "첨단산업·디지털 핵심 실무인재 양성훈련(K-디지털 트레이닝)",
-    "fullLink": "goView('R2024030620406');",
-    "link": "R2024030620406"
+    "title": "취업특강",
+    "description": "취업특강",
+    "fullLink": "goView('R2024030620389');",
+    "link": "R2024030620389"
   },
   {
     "category": "교육",
     "region": "전국",
-    "title": "K-디지털 기초역량훈련",
-    "description": "K-디지털 기초역량훈련",
-    "fullLink": "goView('R2024030620392');",
-    "link": "R2024030620392"
+    "title": "취업희망프로그램",
+    "description": "취업희망프로그램",
+    "fullLink": "goView('R2024030620388');",
+    "link": "R2024030620388"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "취업능력향상(행복오름) 프로그램",
+    "description": "취업능력향상(행복오름) 프로그램",
+    "fullLink": "goView('R2024030620387');",
+    "link": "R2024030620387"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "청소년 근로권익센터",
+    "description": "청소년 근로권익센터",
+    "fullLink": "goView('R2024030620404');",
+    "link": "R2024030620404"
   },
   {
     "category": "일자리",
     "region": "전국",
-    "title": "국내해외취업센터 운영",
-    "description": "국내해외취업센터 운영",
-    "fullLink": "goView('R2024030720426');",
-    "link": "R2024030720426"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "영세 소상공인 전기요금 특별지원 사업(연 매출 6,000만원 이하까지로 대상 확대)",
-    "description": "영세 소상공인 전기요금 특별지원 사업(연 매출 6,000만원 이하까지로 대상 확대)",
-    "fullLink": "goView('R2024022320063');",
-    "link": "R2024022320063"
+    "title": "청년예술가도약지원 (추가 공모)",
+    "description": "청년예술가도약지원 (추가 공모)",
+    "fullLink": "goView('R2024022720124');",
+    "link": "R2024022720124"
   },
   {
     "category": "복지.문화",
@@ -1954,10 +1922,34 @@
   {
     "category": "주거",
     "region": "전국",
-    "title": "2024년 청년 전세임대 1순위 입주자 수시모집",
-    "description": "2024년 청년 전세임대 1순위 입주자 수시모집",
-    "fullLink": "goView('R2024021919765');",
-    "link": "R2024021919765"
+    "title": "청년월세 특별지원 사업(2차)",
+    "description": "청년월세 특별지원 사업(2차)",
+    "fullLink": "goView('R2024030420286');",
+    "link": "R2024030420286"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "산모·신생아 건강관리 지원사업",
+    "description": "산모·신생아 건강관리 지원사업",
+    "fullLink": "goView('R2024030420277');",
+    "link": "R2024030420277"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "청년사회서비스사업단(신체건강증진서비스)",
+    "description": "청년사회서비스사업단(신체건강증진서비스)",
+    "fullLink": "goView('R2024030520303');",
+    "link": "R2024030520303"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2024년 맞춤형농지지원 선임대후매도사업",
+    "description": "2024년 맞춤형농지지원 선임대후매도사업",
+    "fullLink": "goView('R2024021519648');",
+    "link": "R2024021519648"
   },
   {
     "category": "교육",
@@ -1978,18 +1970,18 @@
   {
     "category": "복지.문화",
     "region": "전국",
+    "title": "영세 소상공인 전기요금 특별지원 사업(연 매출 6,000만원 이하까지로 대상 확대)",
+    "description": "영세 소상공인 전기요금 특별지원 사업(연 매출 6,000만원 이하까지로 대상 확대)",
+    "fullLink": "goView('R2024022320063');",
+    "link": "R2024022320063"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
     "title": "대중교통비 환급 지원 사업(K-패스)(4.24부터 카드 발급, 5.1 부터 혜택시작)",
     "description": "대중교통비 환급 지원 사업(K-패스)(4.24부터 카드 발급, 5.1 부터 혜택시작)",
     "fullLink": "goView('R2024022720164');",
     "link": "R2024022720164"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "청년예술가도약지원 (추가 공모)",
-    "description": "청년예술가도약지원 (추가 공모)",
-    "fullLink": "goView('R2024022720124');",
-    "link": "R2024022720124"
   },
   {
     "category": "일자리",
@@ -2010,14 +2002,6 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "글로벌 콘텐츠 인재들의 부트캠프 GCC사관학교 교육생 모집",
-    "description": "글로벌 콘텐츠 인재들의 부트캠프 GCC사관학교 교육생 모집",
-    "fullLink": "goView('R2024021619743');",
-    "link": "R2024021619743"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
     "title": "2024년 신사업창업사관학교 예비창업자 모집",
     "description": "2024년 신사업창업사관학교 예비창업자 모집",
     "fullLink": "goView('R2024021919779');",
@@ -2026,10 +2010,26 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "2024년 맞춤형농지지원 선임대후매도사업",
-    "description": "2024년 맞춤형농지지원 선임대후매도사업",
-    "fullLink": "goView('R2024021519648');",
-    "link": "R2024021519648"
+    "title": "글로벌 콘텐츠 인재들의 부트캠프 GCC사관학교 교육생 모집",
+    "description": "글로벌 콘텐츠 인재들의 부트캠프 GCC사관학교 교육생 모집",
+    "fullLink": "goView('R2024021619743');",
+    "link": "R2024021619743"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "2024년 청년 전세임대 1순위 입주자 수시모집",
+    "description": "2024년 청년 전세임대 1순위 입주자 수시모집",
+    "fullLink": "goView('R2024021919765');",
+    "link": "R2024021919765"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "2024년 첫만남 이용권",
+    "description": "2024년 첫만남 이용권",
+    "fullLink": "goView('R2024021419627');",
+    "link": "R2024021419627"
   },
   {
     "category": "주거",
@@ -2042,26 +2042,26 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "청년전용창업자금(창업기반 지원)",
-    "description": "청년전용창업자금(창업기반 지원)",
-    "fullLink": "goView('R2024020619507');",
-    "link": "R2024020619507"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "청년창업 중소기업 세액 감면",
-    "description": "청년창업 중소기업 세액 감면",
-    "fullLink": "goView('R2024020619531');",
-    "link": "R2024020619531"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
     "title": "청년 국가기술자격시험 응시료 지원사업",
     "description": "청년 국가기술자격시험 응시료 지원사업",
     "fullLink": "goView('R2024020719543');",
     "link": "R2024020719543"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "2024년도 한미 첨단분야 청년교류 지원사업",
+    "description": "2024년도 한미 첨단분야 청년교류 지원사업",
+    "fullLink": "goView('R2024021419607');",
+    "link": "R2024021419607"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "문화누리카드",
+    "description": "문화누리카드",
+    "fullLink": "goView('R2024021419608');",
+    "link": "R2024021419608"
   },
   {
     "category": "일자리",
@@ -2088,36 +2088,20 @@
     "link": "R2024020119404"
   },
   {
-    "category": "복지.문화",
+    "category": "일자리",
     "region": "전국",
-    "title": "2024년 첫만남 이용권",
-    "description": "2024년 첫만남 이용권",
-    "fullLink": "goView('R2024021419627');",
-    "link": "R2024021419627"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "문화누리카드",
-    "description": "문화누리카드",
-    "fullLink": "goView('R2024021419608');",
-    "link": "R2024021419608"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "2024년도 한미 첨단분야 청년교류 지원사업",
-    "description": "2024년도 한미 첨단분야 청년교류 지원사업",
-    "fullLink": "goView('R2024021419607');",
-    "link": "R2024021419607"
+    "title": "청년전용창업자금(창업기반 지원)",
+    "description": "청년전용창업자금(창업기반 지원)",
+    "fullLink": "goView('R2024020619507');",
+    "link": "R2024020619507"
   },
   {
     "category": "일자리",
     "region": "전국",
-    "title": "2024년 생애최초 청년창업 지원사업 예비창업자 모집 공고(수정)",
-    "description": "2024년 생애최초 청년창업 지원사업 예비창업자 모집 공고(수정)",
-    "fullLink": "goView('R2024013119368');",
-    "link": "R2024013119368"
+    "title": "청년창업 중소기업 세액 감면",
+    "description": "청년창업 중소기업 세액 감면",
+    "fullLink": "goView('R2024020619531');",
+    "link": "R2024020619531"
   },
   {
     "category": "일자리",
@@ -2126,14 +2110,6 @@
     "description": "2024년 창업성공패키지 청년창업사관학교 14기 입교생 모집 공고",
     "fullLink": "goView('R2024020119423');",
     "link": "R2024020119423"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "2024년 청년CEO육성사업 청년창업가 모집 공고",
-    "description": "2024년 청년CEO육성사업 청년창업가 모집 공고",
-    "fullLink": "goView('R2024013119371');",
-    "link": "R2024013119371"
   },
   {
     "category": "복지.문화",
@@ -2154,18 +2130,18 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "2024년 국가유산 산업 인턴 지원 사업 인턴 공개모집",
-    "description": "2024년 국가유산 산업 인턴 지원 사업 인턴 공개모집",
-    "fullLink": "goView('R2024012419184');",
-    "link": "R2024012419184"
+    "title": "2024년 청년CEO육성사업 청년창업가 모집 공고",
+    "description": "2024년 청년CEO육성사업 청년창업가 모집 공고",
+    "fullLink": "goView('R2024013119371');",
+    "link": "R2024013119371"
   },
   {
     "category": "일자리",
     "region": "전국",
-    "title": "2024년 제1기 행정안전부 청년인턴 채용 공고",
-    "description": "2024년 제1기 행정안전부 청년인턴 채용 공고",
-    "fullLink": "goView('R2024012319151');",
-    "link": "R2024012319151"
+    "title": "2024년 생애최초 청년창업 지원사업 예비창업자 모집 공고(수정)",
+    "description": "2024년 생애최초 청년창업 지원사업 예비창업자 모집 공고(수정)",
+    "fullLink": "goView('R2024013119368');",
+    "link": "R2024013119368"
   },
   {
     "category": "교육",
@@ -2176,6 +2152,14 @@
     "link": "R2024012219084"
   },
   {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2024년 국가유산 산업 인턴 지원 사업 인턴 공개모집",
+    "description": "2024년 국가유산 산업 인턴 지원 사업 인턴 공개모집",
+    "fullLink": "goView('R2024012419184');",
+    "link": "R2024012419184"
+  },
+  {
     "category": "복지.문화",
     "region": "전국",
     "title": "청년희망적금 만기자 청년도약계좌 일시납입 지원",
@@ -2184,12 +2168,20 @@
     "link": "R2024012519232"
   },
   {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2024년 청년예술인 대관지원사업",
+    "description": "2024년 청년예술인 대관지원사업",
+    "fullLink": "goView('R2024012519211');",
+    "link": "R2024012519211"
+  },
+  {
     "category": "복지.문화",
     "region": "전국",
-    "title": "서민금융 활성화 지원(햇살론 youth 보증사업)",
-    "description": "서민금융 활성화 지원(햇살론 youth 보증사업)",
-    "fullLink": "goView('R2024011819023');",
-    "link": "R2024011819023"
+    "title": "부모급여 지원",
+    "description": "부모급여 지원",
+    "fullLink": "goView('R2024011819005');",
+    "link": "R2024011819005"
   },
   {
     "category": "복지.문화",
@@ -2218,18 +2210,18 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "2024년 청년예술인 대관지원사업",
-    "description": "2024년 청년예술인 대관지원사업",
-    "fullLink": "goView('R2024012519211');",
-    "link": "R2024012519211"
+    "title": "2024년 제1기 행정안전부 청년인턴 채용 공고",
+    "description": "2024년 제1기 행정안전부 청년인턴 채용 공고",
+    "fullLink": "goView('R2024012319151');",
+    "link": "R2024012319151"
   },
   {
-    "category": "주거",
+    "category": "일자리",
     "region": "전국",
-    "title": "청년전용 버팀목전세자금",
-    "description": "청년전용 버팀목전세자금",
-    "fullLink": "goView('R2024010918589');",
-    "link": "R2024010918589"
+    "title": "2024년도 공공기술 창업사업화 지원사업 예비창업자 모집",
+    "description": "2024년도 공공기술 창업사업화 지원사업 예비창업자 모집",
+    "fullLink": "goView('R2024011518716');",
+    "link": "R2024011518716"
   },
   {
     "category": "일자리",
@@ -2258,10 +2250,10 @@
   {
     "category": "복지.문화",
     "region": "전국",
-    "title": "부모급여 지원",
-    "description": "부모급여 지원",
-    "fullLink": "goView('R2024011819005');",
-    "link": "R2024011819005"
+    "title": "서민금융 활성화 지원(햇살론 youth 보증사업)",
+    "description": "서민금융 활성화 지원(햇살론 youth 보증사업)",
+    "fullLink": "goView('R2024011819023');",
+    "link": "R2024011819023"
   },
   {
     "category": "주거",
@@ -2288,12 +2280,12 @@
     "link": "R2024011518736"
   },
   {
-    "category": "일자리",
+    "category": "주거",
     "region": "전국",
-    "title": "2024년도 공공기술 창업사업화 지원사업 예비창업자 모집",
-    "description": "2024년도 공공기술 창업사업화 지원사업 예비창업자 모집",
-    "fullLink": "goView('R2024011518716');",
-    "link": "R2024011518716"
+    "title": "청년전용 버팀목전세자금",
+    "description": "청년전용 버팀목전세자금",
+    "fullLink": "goView('R2024010918589');",
+    "link": "R2024010918589"
   },
   {
     "category": "주거",
@@ -2338,18 +2330,10 @@
   {
     "category": "복지.문화",
     "region": "전국",
-    "title": "학교 밖 청소년 지원",
-    "description": "학교 밖 청소년 지원",
-    "fullLink": "goView('R2024010400025');",
-    "link": "R2024010400025"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "신혼부부전용 전세자금",
-    "description": "신혼부부전용 전세자금",
-    "fullLink": "goView('R2024010918591');",
-    "link": "R2024010918591"
+    "title": "위기청소년 특별지원",
+    "description": "위기청소년 특별지원",
+    "fullLink": "goView('R2024010400026');",
+    "link": "R2024010400026"
   },
   {
     "category": "일자리",
@@ -2358,6 +2342,14 @@
     "description": "2024년도 창업중심대학 예비창업자 모집",
     "fullLink": "goView('R2024011518738');",
     "link": "R2024011518738"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "신혼부부전용 전세자금",
+    "description": "신혼부부전용 전세자금",
+    "fullLink": "goView('R2024010918591');",
+    "link": "R2024010918591"
   },
   {
     "category": "일자리",
@@ -2378,50 +2370,42 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "국민내일배움카드",
-    "description": "국민내일배움카드",
-    "fullLink": "goView('R2024010218423');",
-    "link": "R2024010218423"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "가사·간병 방문 지원사업",
-    "description": "가사·간병 방문 지원사업",
-    "fullLink": "goView('R2024010518505');",
-    "link": "R2024010518505"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "학교 밖 청소년 건강검진",
-    "description": "학교 밖 청소년 건강검진",
-    "fullLink": "goView('R2024010400022');",
-    "link": "R2024010400022"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "청년창업농 장학금",
-    "description": "청년창업농 장학금",
-    "fullLink": "goView('R2024010818568');",
-    "link": "R2024010818568"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
     "title": "초고속 정보통신기반 인력양성(2년제 학위과정)",
     "description": "초고속 정보통신기반 인력양성(2년제 학위과정)",
     "fullLink": "goView('R2024010400013');",
     "link": "R2024010400013"
   },
   {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2024년 청년농업인 영농정착지원사업 대상자 모집",
+    "description": "2024년 청년농업인 영농정착지원사업 대상자 모집",
+    "fullLink": "goView('R2024010418484');",
+    "link": "R2024010418484"
+  },
+  {
     "category": "복지.문화",
     "region": "전국",
-    "title": "위기청소년 특별지원",
-    "description": "위기청소년 특별지원",
-    "fullLink": "goView('R2024010400026');",
-    "link": "R2024010400026"
+    "title": "학교 밖 청소년 지원",
+    "description": "학교 밖 청소년 지원",
+    "fullLink": "goView('R2024010400025');",
+    "link": "R2024010400025"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "여성청소년 생리대 바우처 지원",
+    "description": "여성청소년 생리대 바우처 지원",
+    "fullLink": "goView('R2024010400027');",
+    "link": "R2024010400027"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "중소기업 취업청년 전월세보증금 대출",
+    "description": "중소기업 취업청년 전월세보증금 대출",
+    "fullLink": "goView('R2024010400002');",
+    "link": "R2024010400002"
   },
   {
     "category": "복지.문화",
@@ -2440,12 +2424,12 @@
     "link": "R2024010818569"
   },
   {
-    "category": "주거",
+    "category": "교육",
     "region": "전국",
-    "title": "중소기업 취업청년 전월세보증금 대출",
-    "description": "중소기업 취업청년 전월세보증금 대출",
-    "fullLink": "goView('R2024010400002');",
-    "link": "R2024010400002"
+    "title": "청년창업농 장학금",
+    "description": "청년창업농 장학금",
+    "fullLink": "goView('R2024010818568');",
+    "link": "R2024010818568"
   },
   {
     "category": "일자리",
@@ -2454,6 +2438,14 @@
     "description": "국민취업지원제도",
     "fullLink": "goView('R2024010218403');",
     "link": "R2024010218403"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "국민내일배움카드",
+    "description": "국민내일배움카드",
+    "fullLink": "goView('R2024010218423');",
+    "link": "R2024010218423"
   },
   {
     "category": "교육",
@@ -2472,12 +2464,20 @@
     "link": "20241002005400100003"
   },
   {
-    "category": "일자리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "2024년 청년농업인 영농정착지원사업 대상자 모집",
-    "description": "2024년 청년농업인 영농정착지원사업 대상자 모집",
-    "fullLink": "goView('R2024010418484');",
-    "link": "R2024010418484"
+    "title": "학교 밖 청소년 건강검진",
+    "description": "학교 밖 청소년 건강검진",
+    "fullLink": "goView('R2024010400022');",
+    "link": "R2024010400022"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "가사·간병 방문 지원사업",
+    "description": "가사·간병 방문 지원사업",
+    "fullLink": "goView('R2024010518505');",
+    "link": "R2024010518505"
   },
   {
     "category": "참여.권리",
@@ -2486,14 +2486,6 @@
     "description": "국방부 2030자문단 공개 모집",
     "fullLink": "goView('R2024010518526');",
     "link": "R2024010518526"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "여성청소년 생리대 바우처 지원",
-    "description": "여성청소년 생리대 바우처 지원",
-    "fullLink": "goView('R2024010400027');",
-    "link": "R2024010400027"
   },
   {
     "category": "일자리",
@@ -2658,18 +2650,18 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "2024년 대전대학교 이노폴리스캠퍼스 지원사업(스타트업 캠퍼스) 심화 교육",
-    "description": "2024년 대전대학교 이노폴리스캠퍼스 지원사업(스타트업 캠퍼스) 심화 교육",
-    "fullLink": "goView('20241029005400100002');",
-    "link": "20241029005400100002"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
     "title": "[d·camp] 11월 D·DAY X 현대차그룹 청중 모집",
     "description": "[d·camp] 11월 D·DAY X 현대차그룹 청중 모집",
     "fullLink": "goView('20241029005400100001');",
     "link": "20241029005400100001"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "2024년 대전대학교 이노폴리스캠퍼스 지원사업(스타트업 캠퍼스) 심화 교육",
+    "description": "2024년 대전대학교 이노폴리스캠퍼스 지원사업(스타트업 캠퍼스) 심화 교육",
+    "fullLink": "goView('20241029005400100002');",
+    "link": "20241029005400100002"
   },
   {
     "category": "참여.권리",
@@ -2792,12 +2784,12 @@
     "link": "20241104005400100004"
   },
   {
-    "category": "복지.문화",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "산재근로자 사회심리 재활 지원",
-    "description": "산재근로자 사회심리 재활 지원",
-    "fullLink": "goView('20241104005400100005');",
-    "link": "20241104005400100005"
+    "title": "제 2기 외교부 2030 자문단 공개 모집",
+    "description": "제 2기 외교부 2030 자문단 공개 모집",
+    "fullLink": "goView('20241104005400100009');",
+    "link": "20241104005400100009"
   },
   {
     "category": "복지.문화",
@@ -2808,12 +2800,12 @@
     "link": "20241104005400100008"
   },
   {
-    "category": "참여.권리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "제 2기 외교부 2030 자문단 공개 모집",
-    "description": "제 2기 외교부 2030 자문단 공개 모집",
-    "fullLink": "goView('20241104005400100009');",
-    "link": "20241104005400100009"
+    "title": "산재근로자 사회심리 재활 지원",
+    "description": "산재근로자 사회심리 재활 지원",
+    "fullLink": "goView('20241104005400100005');",
+    "link": "20241104005400100005"
   },
   {
     "category": "주거",
@@ -2864,20 +2856,20 @@
     "link": "20241105005400100001"
   },
   {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "주민등록증 디자인 공모",
-    "description": "주민등록증 디자인 공모",
-    "fullLink": "goView('20241105005400100007');",
-    "link": "20241105005400100007"
-  },
-  {
     "category": "주거",
     "region": "전국",
     "title": "24년 2차 든든전세주택 입주자 모집 통합공고",
     "description": "24년 2차 든든전세주택 입주자 모집 통합공고",
     "fullLink": "goView('20241105005400100005');",
     "link": "20241105005400100005"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "주민등록증 디자인 공모",
+    "description": "주민등록증 디자인 공모",
+    "fullLink": "goView('20241105005400100007');",
+    "link": "20241105005400100007"
   },
   {
     "category": "주거",
@@ -2906,18 +2898,18 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2024 서울바이오허브-드레이퍼 디지털헬스케어 이노베이션 챌린지 모집 공고",
-    "description": "2024 서울바이오허브-드레이퍼 디지털헬스케어 이노베이션 챌린지 모집 공고",
-    "fullLink": "goView('20241106005400100004');",
-    "link": "20241106005400100004"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
     "title": "제4회 에너지혁신벤처 C-Tech 포럼",
     "description": "제4회 에너지혁신벤처 C-Tech 포럼",
     "fullLink": "goView('20241106005400100003');",
     "link": "20241106005400100003"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "2024 서울바이오허브-드레이퍼 디지털헬스케어 이노베이션 챌린지 모집 공고",
+    "description": "2024 서울바이오허브-드레이퍼 디지털헬스케어 이노베이션 챌린지 모집 공고",
+    "fullLink": "goView('20241106005400100004');",
+    "link": "20241106005400100004"
   },
   {
     "category": "참여.권리",
@@ -2962,18 +2954,18 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "공정거래위원회 2030 자문단 모집 공고",
-    "description": "공정거래위원회 2030 자문단 모집 공고",
-    "fullLink": "goView('20241106005400100006');",
-    "link": "20241106005400100006"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
     "title": "청년정책조정위원회 실무위원회 위촉직 위원 모집",
     "description": "청년정책조정위원회 실무위원회 위촉직 위원 모집",
     "fullLink": "goView('20241106005400100007');",
     "link": "20241106005400100007"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "공정거래위원회 2030 자문단 모집 공고",
+    "description": "공정거래위원회 2030 자문단 모집 공고",
+    "fullLink": "goView('20241106005400100006');",
+    "link": "20241106005400100006"
   },
   {
     "category": "참여.권리",
@@ -3016,20 +3008,20 @@
     "link": "20241111005400100005"
   },
   {
-    "category": "일자리",
-    "region": "전국",
-    "title": "2024 찾아가는 공직박람회 (서울 11.18.(월), 경기인천 11.21.(목))",
-    "description": "2024 찾아가는 공직박람회 (서울 11.18.(월), 경기인천 11.21.(목))",
-    "fullLink": "goView('20241111005400100001');",
-    "link": "20241111005400100001"
-  },
-  {
     "category": "복지.문화",
     "region": "전국",
     "title": "2024년 한국장학재단 금융 취약계층을 위한 특별 채무조정",
     "description": "2024년 한국장학재단 금융 취약계층을 위한 특별 채무조정",
     "fullLink": "goView('20241111005400100004');",
     "link": "20241111005400100004"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2024 찾아가는 공직박람회 (서울 11.18.(월), 경기인천 11.21.(목))",
+    "description": "2024 찾아가는 공직박람회 (서울 11.18.(월), 경기인천 11.21.(목))",
+    "fullLink": "goView('20241111005400100001');",
+    "link": "20241111005400100001"
   },
   {
     "category": "복지.문화",
@@ -3050,66 +3042,26 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2025 KIOST 온라인 기자단 모집 안내",
-    "description": "2025 KIOST 온라인 기자단 모집 안내",
-    "fullLink": "goView('R2024111927967');",
-    "link": "R2024111927967"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "2025년 기획재정부 18기 대학생 소셜미디어 기자단 모집",
-    "description": "2025년 기획재정부 18기 대학생 소셜미디어 기자단 모집",
-    "fullLink": "goView('R2024111927949');",
-    "link": "R2024111927949"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "서울 동작구 SH 신혼부부주택(수요자맞춤형 매입임대주택) 추가 입주자 모집 공고",
-    "description": "서울 동작구 SH 신혼부부주택(수요자맞춤형 매입임대주택) 추가 입주자 모집 공고",
-    "fullLink": "goView('R2024111527868');",
-    "link": "R2024111527868"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "군장병 인권상담 지원",
-    "description": "군장병 인권상담 지원",
-    "fullLink": "goView('R2024111827926');",
-    "link": "R2024111827926"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "광역구직활동비 지원",
-    "description": "광역구직활동비 지원",
-    "fullLink": "goView('R2024111827908');",
-    "link": "R2024111827908"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
     "title": "제2기 문화체육관광부 2030자문단 단원 공개모집",
     "description": "제2기 문화체육관광부 2030자문단 단원 공개모집",
     "fullLink": "goView('R2024111927965');",
     "link": "R2024111927965"
   },
   {
-    "category": "일자리",
-    "region": "전국",
-    "title": "2025년 해외산림 청년인재 육성사업 참가자 모집 공고",
-    "description": "2025년 해외산림 청년인재 육성사업 참가자 모집 공고",
-    "fullLink": "goView('R2024111827905');",
-    "link": "R2024111827905"
-  },
-  {
     "category": "참여.권리",
     "region": "전국",
-    "title": "기업가형 소상공인 세미나",
-    "description": "기업가형 소상공인 세미나",
-    "fullLink": "goView('R2024111527889');",
-    "link": "R2024111527889"
+    "title": "2025 KIOST 온라인 기자단 모집 안내",
+    "description": "2025 KIOST 온라인 기자단 모집 안내",
+    "fullLink": "goView('R2024111927967');",
+    "link": "R2024111927967"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "보건복지부 온라인 금연상담 및 지원",
+    "description": "보건복지부 온라인 금연상담 및 지원",
+    "fullLink": "goView('R2024111527870');",
+    "link": "R2024111527870"
   },
   {
     "category": "교육",
@@ -3138,18 +3090,50 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "도전! K-스타트업 2024 창업경진대회 왕중왕전 청중평가단 모집",
-    "description": "도전! K-스타트업 2024 창업경진대회 왕중왕전 청중평가단 모집",
-    "fullLink": "goView('R2024111327752');",
-    "link": "R2024111327752"
+    "title": "2025년 기획재정부 18기 대학생 소셜미디어 기자단 모집",
+    "description": "2025년 기획재정부 18기 대학생 소셜미디어 기자단 모집",
+    "fullLink": "goView('R2024111927949');",
+    "link": "R2024111927949"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "폭력 피해 이주여성 보호시설 운영 지원",
+    "description": "폭력 피해 이주여성 보호시설 운영 지원",
+    "fullLink": "goView('R2024111527869');",
+    "link": "R2024111527869"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "군장병 인권상담 지원",
+    "description": "군장병 인권상담 지원",
+    "fullLink": "goView('R2024111827926');",
+    "link": "R2024111827926"
   },
   {
     "category": "일자리",
     "region": "전국",
-    "title": "2025년도 상반기 중남미 지역기구 파견 인턴 선발",
-    "description": "2025년도 상반기 중남미 지역기구 파견 인턴 선발",
-    "fullLink": "goView('R2024111327784');",
-    "link": "R2024111327784"
+    "title": "광역구직활동비 지원",
+    "description": "광역구직활동비 지원",
+    "fullLink": "goView('R2024111827908');",
+    "link": "R2024111827908"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "기업가형 소상공인 세미나",
+    "description": "기업가형 소상공인 세미나",
+    "fullLink": "goView('R2024111527889');",
+    "link": "R2024111527889"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "저소득층 에너지효율개선사업",
+    "description": "저소득층 에너지효율개선사업",
+    "fullLink": "goView('R2024111327805');",
+    "link": "R2024111327805"
   },
   {
     "category": "복지.문화",
@@ -3168,6 +3152,38 @@
     "link": "R2024111427789"
   },
   {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2025년 해외산림 청년인재 육성사업 참가자 모집 공고",
+    "description": "2025년 해외산림 청년인재 육성사업 참가자 모집 공고",
+    "fullLink": "goView('R2024111827905');",
+    "link": "R2024111827905"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "서울 동작구 SH 신혼부부주택(수요자맞춤형 매입임대주택) 추가 입주자 모집 공고",
+    "description": "서울 동작구 SH 신혼부부주택(수요자맞춤형 매입임대주택) 추가 입주자 모집 공고",
+    "fullLink": "goView('R2024111527868');",
+    "link": "R2024111527868"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "2025년 제19기 여성가족부 정책기자단 모집",
+    "description": "2025년 제19기 여성가족부 정책기자단 모집",
+    "fullLink": "goView('R2024111327803');",
+    "link": "R2024111327803"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2025년도 상반기 중남미 지역기구 파견 인턴 선발",
+    "description": "2025년도 상반기 중남미 지역기구 파견 인턴 선발",
+    "fullLink": "goView('R2024111327784');",
+    "link": "R2024111327784"
+  },
+  {
     "category": "복지.문화",
     "region": "전국",
     "title": "한전 고효율 가전제품 구매비용 지원사업",
@@ -3176,12 +3192,12 @@
     "link": "R2024111327788"
   },
   {
-    "category": "복지.문화",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "저소득층 에너지효율개선사업",
-    "description": "저소득층 에너지효율개선사업",
-    "fullLink": "goView('R2024111327805');",
-    "link": "R2024111327805"
+    "title": "도전! K-스타트업 2024 창업경진대회 왕중왕전 청중평가단 모집",
+    "description": "도전! K-스타트업 2024 창업경진대회 왕중왕전 청중평가단 모집",
+    "fullLink": "goView('R2024111327752');",
+    "link": "R2024111327752"
   },
   {
     "category": "복지.문화",
@@ -3192,12 +3208,20 @@
     "link": "R2024111327804"
   },
   {
+    "category": "주거",
+    "region": "전국",
+    "title": "진주평거(고령자복지주택) 국민임대(스마트청년형) 자격완화 입주자 모집 공고",
+    "description": "진주평거(고령자복지주택) 국민임대(스마트청년형) 자격완화 입주자 모집 공고",
+    "fullLink": "goView('R2024111227744');",
+    "link": "R2024111227744"
+  },
+  {
     "category": "복지.문화",
     "region": "전국",
-    "title": "상해보험 가입비 지원(만원의행복보험)",
-    "description": "상해보험 가입비 지원(만원의행복보험)",
-    "fullLink": "goView('R2024111227729');",
-    "link": "R2024111227729"
+    "title": "아동수당",
+    "description": "아동수당",
+    "fullLink": "goView('R2024111227745');",
+    "link": "R2024111227745"
   },
   {
     "category": "복지.문화",
@@ -3210,18 +3234,10 @@
   {
     "category": "복지.문화",
     "region": "전국",
-    "title": "아동수당",
-    "description": "아동수당",
-    "fullLink": "goView('R2024111227745');",
-    "link": "R2024111227745"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "진주평거(고령자복지주택) 국민임대(스마트청년형) 자격완화 입주자 모집 공고",
-    "description": "진주평거(고령자복지주택) 국민임대(스마트청년형) 자격완화 입주자 모집 공고",
-    "fullLink": "goView('R2024111227744');",
-    "link": "R2024111227744"
+    "title": "상해보험 가입비 지원(만원의행복보험)",
+    "description": "상해보험 가입비 지원(만원의행복보험)",
+    "fullLink": "goView('R2024111227729');",
+    "link": "R2024111227729"
   },
   {
     "category": "교육",
@@ -3240,14 +3256,6 @@
     "link": "R2024110427548"
   },
   {
-    "category": "주거",
-    "region": "전국",
-    "title": "서울 은평구 청년 창업인의 집 1,2호점(수요자맞춤형 매입임대주택) 추가 입주자 모집",
-    "description": "서울 은평구 청년 창업인의 집 1,2호점(수요자맞춤형 매입임대주택) 추가 입주자 모집",
-    "fullLink": "goView('R2024103027448');",
-    "link": "R2024103027448"
-  },
-  {
     "category": "일자리",
     "region": "전국",
     "title": "2024 미래내일 일경험 사업 인턴형 4기 참여청년 모집",
@@ -3262,6 +3270,14 @@
     "description": "서울 광진구 도전숙(수요자맞춤형 매입임대주택) 추가 입주자 모집 공고",
     "fullLink": "goView('R2024103027445');",
     "link": "R2024103027445"
+  },
+  {
+    "category": "주거",
+    "region": "전국",
+    "title": "서울 은평구 청년 창업인의 집 1,2호점(수요자맞춤형 매입임대주택) 추가 입주자 모집",
+    "description": "서울 은평구 청년 창업인의 집 1,2호점(수요자맞춤형 매입임대주택) 추가 입주자 모집",
+    "fullLink": "goView('R2024103027448');",
+    "link": "R2024103027448"
   },
   {
     "category": "복지.문화",
@@ -3288,6 +3304,14 @@
     "link": "R2024102127250"
   },
   {
+    "category": "주거",
+    "region": "전국",
+    "title": "2024년 재개발임대주택 입주자 모집",
+    "description": "2024년 재개발임대주택 입주자 모집",
+    "fullLink": "goView('R2024101827189');",
+    "link": "R2024101827189"
+  },
+  {
     "category": "참여.권리",
     "region": "전국",
     "title": "중증장애인근로자 출퇴근 비용 지원",
@@ -3312,20 +3336,20 @@
     "link": "R2024101527123"
   },
   {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "<중소기업 키다리아저씨> 삼프로TV 현장 강연",
-    "description": "<중소기업 키다리아저씨> 삼프로TV 현장 강연",
-    "fullLink": "goView('R2024112228065');",
-    "link": "R2024112228065"
-  },
-  {
     "category": "복지.문화",
     "region": "전국",
     "title": "2025년 소외계층구독료지원 사업 신문 및 잡지 구독자 모집 공고",
     "description": "2025년 소외계층구독료지원 사업 신문 및 잡지 구독자 모집 공고",
     "fullLink": "goView('R2024112128027');",
     "link": "R2024112128027"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "부산 기장군 국비 무료교육 교육생 모집 (웹디자인기능사)",
+    "description": "부산 기장군 국비 무료교육 교육생 모집 (웹디자인기능사)",
+    "fullLink": "goView('R2024112128053');",
+    "link": "R2024112128053"
   },
   {
     "category": "복지.문화",
@@ -3368,28 +3392,20 @@
     "link": "R2024112228087"
   },
   {
-    "category": "주거",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "2025년 한국장학재단 창업기숙사 입주생 모집 안내",
-    "description": "2025년 한국장학재단 창업기숙사 입주생 모집 안내",
-    "fullLink": "goView('R2024112728245');",
-    "link": "R2024112728245"
+    "title": "<중소기업 키다리아저씨> 삼프로TV 현장 강연",
+    "description": "<중소기업 키다리아저씨> 삼프로TV 현장 강연",
+    "fullLink": "goView('R2024112228065');",
+    "link": "R2024112228065"
   },
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2024년 경기창업혁신공간 북동부권(구리) 신규 입주기업 모집(~12/05, 연장모집)",
-    "description": "2024년 경기창업혁신공간 북동부권(구리) 신규 입주기업 모집(~12/05, 연장모집)",
-    "fullLink": "goView('R2024112728186');",
-    "link": "R2024112728186"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "동대문구 DDM 청년창업센터 유니콘 '스타트업 홈커밍(Beyond 2024 )' 참가 안내",
-    "description": "동대문구 DDM 청년창업센터 유니콘 '스타트업 홈커밍(Beyond 2024 )' 참가 안내",
-    "fullLink": "goView('R2024112728207');",
-    "link": "R2024112728207"
+    "title": "2024년 5차 연세원주창업보육센터 입주기업 모집 공고",
+    "description": "2024년 5차 연세원주창업보육센터 입주기업 모집 공고",
+    "fullLink": "goView('R2024112828227');",
+    "link": "R2024112828227"
   },
   {
     "category": "참여.권리",
@@ -3406,6 +3422,22 @@
     "description": "제2기 통일부 2030자문단 모집 공고",
     "fullLink": "goView('R2024112628184');",
     "link": "R2024112628184"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "2024년 경기창업혁신공간 북동부권(구리) 신규 입주기업 모집(~12/05, 연장모집)",
+    "description": "2024년 경기창업혁신공간 북동부권(구리) 신규 입주기업 모집(~12/05, 연장모집)",
+    "fullLink": "goView('R2024112728186');",
+    "link": "R2024112728186"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "동대문구 DDM 청년창업센터 유니콘 '스타트업 홈커밍(Beyond 2024 )' 참가 안내",
+    "description": "동대문구 DDM 청년창업센터 유니콘 '스타트업 홈커밍(Beyond 2024 )' 참가 안내",
+    "fullLink": "goView('R2024112728207');",
+    "link": "R2024112728207"
   },
   {
     "category": "참여.권리",
@@ -3440,12 +3472,12 @@
     "link": "R2024120328371"
   },
   {
-    "category": "참여.권리",
+    "category": "주거",
     "region": "전국",
-    "title": "2024년 5차 연세원주창업보육센터 입주기업 모집 공고",
-    "description": "2024년 5차 연세원주창업보육센터 입주기업 모집 공고",
-    "fullLink": "goView('R2024112828227');",
-    "link": "R2024112828227"
+    "title": "2025년 한국장학재단 창업기숙사 입주생 모집 안내",
+    "description": "2025년 한국장학재단 창업기숙사 입주생 모집 안내",
+    "fullLink": "goView('R2024112728245');",
+    "link": "R2024112728245"
   },
   {
     "category": "일자리",
@@ -3634,14 +3666,6 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "유엔자원봉사단(UNV) 파견",
-    "description": "유엔자원봉사단(UNV) 파견",
-    "fullLink": "goView('20250114005400110246');",
-    "link": "20250114005400110246"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
     "title": "국제기구초급전문가(JPO) 파견",
     "description": "국제기구초급전문가(JPO) 파견",
     "fullLink": "goView('20250114005400110245');",
@@ -3674,22 +3698,6 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "스타트업AI기술인력 양성(이어드림스쿨)",
-    "description": "스타트업AI기술인력 양성(이어드림스쿨)",
-    "fullLink": "goView('20250115005400110285');",
-    "link": "20250115005400110285"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "특수거래분야 소비자 보호",
-    "description": "특수거래분야 소비자 보호",
-    "fullLink": "goView('20250115005400110272');",
-    "link": "20250115005400110272"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
     "title": "디지털숲가꾸기",
     "description": "디지털숲가꾸기",
     "fullLink": "goView('20250115005400110269');",
@@ -3706,6 +3714,14 @@
   {
     "category": "교육",
     "region": "전국",
+    "title": "온국민평생배움터 구축 및 운영",
+    "description": "온국민평생배움터 구축 및 운영",
+    "fullLink": "goView('20250115005400110263');",
+    "link": "20250115005400110263"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
     "title": "우수학생 국가장학금(예술체육비전 장학금)",
     "description": "우수학생 국가장학금(예술체육비전 장학금)",
     "fullLink": "goView('20250114005400110248');",
@@ -3714,18 +3730,10 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "청년 관련 정책 및 제도 개선 활성화",
-    "description": "청년 관련 정책 및 제도 개선 활성화",
-    "fullLink": "goView('20250116005400110311');",
-    "link": "20250116005400110311"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "청춘청렴아카데미 운영",
-    "description": "청춘청렴아카데미 운영",
-    "fullLink": "goView('20250116005400110310');",
-    "link": "20250116005400110310"
+    "title": "유엔자원봉사단(UNV) 파견",
+    "description": "유엔자원봉사단(UNV) 파견",
+    "fullLink": "goView('20250114005400110246');",
+    "link": "20250114005400110246"
   },
   {
     "category": "일자리",
@@ -3754,10 +3762,18 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "청년성장프로젝트(청년카페)",
-    "description": "청년성장프로젝트(청년카페)",
-    "fullLink": "goView('20250122005400110348');",
-    "link": "20250122005400110348"
+    "title": "스타트업AI기술인력 양성(이어드림스쿨)",
+    "description": "스타트업AI기술인력 양성(이어드림스쿨)",
+    "fullLink": "goView('20250115005400110285');",
+    "link": "20250115005400110285"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "특수거래분야 소비자 보호",
+    "description": "특수거래분야 소비자 보호",
+    "fullLink": "goView('20250115005400110272');",
+    "link": "20250115005400110272"
   },
   {
     "category": "복지.문화",
@@ -3776,20 +3792,28 @@
     "link": "20250116005400110312"
   },
   {
-    "category": "일자리",
-    "region": "전국",
-    "title": "구직급여",
-    "description": "구직급여",
-    "fullLink": "goView('20250122005400110369');",
-    "link": "20250122005400110369"
-  },
-  {
     "category": "참여.권리",
     "region": "전국",
-    "title": "제2기 교육부 2030자문단 공개모집 공고(~ 12.17. 18시까지)",
-    "description": "제2기 교육부 2030자문단 공개모집 공고(~ 12.17. 18시까지)",
-    "fullLink": "goView('R2024121128487');",
-    "link": "R2024121128487"
+    "title": "청년 관련 정책 및 제도 개선 활성화",
+    "description": "청년 관련 정책 및 제도 개선 활성화",
+    "fullLink": "goView('20250116005400110311');",
+    "link": "20250116005400110311"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "청춘청렴아카데미 운영",
+    "description": "청춘청렴아카데미 운영",
+    "fullLink": "goView('20250116005400110310');",
+    "link": "20250116005400110310"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "청년성장프로젝트(청년카페)",
+    "description": "청년성장프로젝트(청년카페)",
+    "fullLink": "goView('20250122005400110348');",
+    "link": "20250122005400110348"
   },
   {
     "category": "참여.권리",
@@ -3800,12 +3824,44 @@
     "link": "R2024121128488"
   },
   {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "제2기 교육부 2030자문단 공개모집 공고(~ 12.17. 18시까지)",
+    "description": "제2기 교육부 2030자문단 공개모집 공고(~ 12.17. 18시까지)",
+    "fullLink": "goView('R2024121128487');",
+    "link": "R2024121128487"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "구직급여",
+    "description": "구직급여",
+    "fullLink": "goView('20250122005400110369');",
+    "link": "20250122005400110369"
+  },
+  {
     "category": "복지.문화",
     "region": "전국",
-    "title": "대구 결식아동 학기 중 토·공휴일 중식 지원",
-    "description": "대구 결식아동 학기 중 토·공휴일 중식 지원",
-    "fullLink": "goView('R2024120928443');",
-    "link": "R2024120928443"
+    "title": "비수도권 희귀질환 진단지원",
+    "description": "비수도권 희귀질환 진단지원",
+    "fullLink": "goView('R2024120328359');",
+    "link": "R2024120328359"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "한국방송통신전파진흥원 ESG 서포터즈 모집",
+    "description": "한국방송통신전파진흥원 ESG 서포터즈 모집",
+    "fullLink": "goView('R2024120328356');",
+    "link": "R2024120328356"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "제17기 법무부 국민기자단 모집 (12.02~12.22.)",
+    "description": "제17기 법무부 국민기자단 모집 (12.02~12.22.)",
+    "fullLink": "goView('R2024121128467');",
+    "link": "R2024121128467"
   },
   {
     "category": "주거",
@@ -3814,6 +3870,22 @@
     "description": "자립준비청년 2024년 하반기 청년 매입임대주택 우선공급 입주자모집 공고",
     "fullLink": "goView('R2024121128490');",
     "link": "R2024121128490"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "대구 결식아동 학기 중 토·공휴일 중식 지원",
+    "description": "대구 결식아동 학기 중 토·공휴일 중식 지원",
+    "fullLink": "goView('R2024120928443');",
+    "link": "R2024120928443"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "Announcement on Application for Recommendations for the “Startup Korea Special Visa”",
+    "description": "Announcement on Application for Recommendations for the “Startup Korea Special Visa”",
+    "fullLink": "goView('R2024120428406');",
+    "link": "R2024120428406"
   },
   {
     "category": "복지.문화",
@@ -3834,50 +3906,10 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "제2기 국방부 2030자문단 모집 공고",
-    "description": "제2기 국방부 2030자문단 모집 공고",
-    "fullLink": "goView('R2024120428362');",
-    "link": "R2024120428362"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
     "title": "체불근로자 무료법률구조지원",
     "description": "체불근로자 무료법률구조지원",
     "fullLink": "goView('R2024120328355');",
     "link": "R2024120328355"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "제17기 법무부 국민기자단 모집 (12.02~12.22.)",
-    "description": "제17기 법무부 국민기자단 모집 (12.02~12.22.)",
-    "fullLink": "goView('R2024121128467');",
-    "link": "R2024121128467"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "2025년 상반기 시흥창업센터 신규 입주기업 모집 공고",
-    "description": "2025년 상반기 시흥창업센터 신규 입주기업 모집 공고",
-    "fullLink": "goView('R2024112928307');",
-    "link": "R2024112928307"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "비수도권 희귀질환 진단지원",
-    "description": "비수도권 희귀질환 진단지원",
-    "fullLink": "goView('R2024120328359');",
-    "link": "R2024120328359"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "한국방송통신전파진흥원 ESG 서포터즈 모집",
-    "description": "한국방송통신전파진흥원 ESG 서포터즈 모집",
-    "fullLink": "goView('R2024120328356');",
-    "link": "R2024120328356"
   },
   {
     "category": "복지.문화",
@@ -3886,22 +3918,6 @@
     "description": "통신중계 서비스 제공",
     "fullLink": "goView('R2024120328372');",
     "link": "R2024120328372"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "Announcement on Application for Recommendations for the “Startup Korea Special Visa”",
-    "description": "Announcement on Application for Recommendations for the “Startup Korea Special Visa”",
-    "fullLink": "goView('R2024120428406');",
-    "link": "R2024120428406"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "가톨릭대학교가 준비한 직장인들을 위한 Future Life Trend 세미나",
-    "description": "가톨릭대학교가 준비한 직장인들을 위한 Future Life Trend 세미나",
-    "fullLink": "goView('R2024112928308');",
-    "link": "R2024112928308"
   },
   {
     "category": "참여.권리",
@@ -3938,10 +3954,18 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "과학기술정보통신부 제2기 「2030 자문단」 모집 공고(~ 12.9. 18시까지)",
-    "description": "과학기술정보통신부 제2기 「2030 자문단」 모집 공고(~ 12.9. 18시까지)",
-    "fullLink": "goView('R2024112928323');",
-    "link": "R2024112928323"
+    "title": "제2기 국방부 2030자문단 모집 공고",
+    "description": "제2기 국방부 2030자문단 모집 공고",
+    "fullLink": "goView('R2024120428362');",
+    "link": "R2024120428362"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "제3기 행정안전부 2030자문단 모집 공고",
+    "description": "제3기 행정안전부 2030자문단 모집 공고",
+    "fullLink": "goView('R2024112928324');",
+    "link": "R2024112928324"
   },
   {
     "category": "복지.문화",
@@ -3954,10 +3978,34 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "제3기 행정안전부 2030자문단 모집 공고",
-    "description": "제3기 행정안전부 2030자문단 모집 공고",
-    "fullLink": "goView('R2024112928324');",
-    "link": "R2024112928324"
+    "title": "과학기술정보통신부 제2기 「2030 자문단」 모집 공고(~ 12.9. 18시까지)",
+    "description": "과학기술정보통신부 제2기 「2030 자문단」 모집 공고(~ 12.9. 18시까지)",
+    "fullLink": "goView('R2024112928323');",
+    "link": "R2024112928323"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "2024년 대구 달서구 중장년 기술창업센터 신규 입주기업 모집(중장년/청년)",
+    "description": "2024년 대구 달서구 중장년 기술창업센터 신규 입주기업 모집(중장년/청년)",
+    "fullLink": "goView('R2024112928328');",
+    "link": "R2024112928328"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "가톨릭대학교가 준비한 직장인들을 위한 Future Life Trend 세미나",
+    "description": "가톨릭대학교가 준비한 직장인들을 위한 Future Life Trend 세미나",
+    "fullLink": "goView('R2024112928308');",
+    "link": "R2024112928308"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "고용평등 심층상담(직장 내 성희롱, 고용상 성차별 피해, 모성보호제도 등)",
+    "description": "고용평등 심층상담(직장 내 성희롱, 고용상 성차별 피해, 모성보호제도 등)",
+    "fullLink": "goView('20250123005400110385');",
+    "link": "20250123005400110385"
   },
   {
     "category": "참여.권리",
@@ -3970,34 +4018,10 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "2024년 대구 달서구 중장년 기술창업센터 신규 입주기업 모집(중장년/청년)",
-    "description": "2024년 대구 달서구 중장년 기술창업센터 신규 입주기업 모집(중장년/청년)",
-    "fullLink": "goView('R2024112928328');",
-    "link": "R2024112928328"
-  },
-  {
-    "category": "참여.권리",
-    "region": "전국",
-    "title": "고용평등 심층상담(직장 내 성희롱, 고용상 성차별 피해, 모성보호제도 등)",
-    "description": "고용평등 심층상담(직장 내 성희롱, 고용상 성차별 피해, 모성보호제도 등)",
-    "fullLink": "goView('20250123005400110385');",
-    "link": "20250123005400110385"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "생활안정자금 융자사업",
-    "description": "생활안정자금 융자사업",
-    "fullLink": "goView('20250123005400110398');",
-    "link": "20250123005400110398"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "대학 재학생 맞춤형 고용서비스",
-    "description": "대학 재학생 맞춤형 고용서비스",
-    "fullLink": "goView('20250207005400110410');",
-    "link": "20250207005400110410"
+    "title": "2025년 상반기 시흥창업센터 신규 입주기업 모집 공고",
+    "description": "2025년 상반기 시흥창업센터 신규 입주기업 모집 공고",
+    "fullLink": "goView('R2024112928307');",
+    "link": "R2024112928307"
   },
   {
     "category": "일자리",
@@ -4024,12 +4048,20 @@
     "link": "20250123005400110399"
   },
   {
+    "category": "주거",
+    "region": "전국",
+    "title": "생활안정자금 융자사업",
+    "description": "생활안정자금 융자사업",
+    "fullLink": "goView('20250123005400110398');",
+    "link": "20250123005400110398"
+  },
+  {
     "category": "일자리",
     "region": "전국",
-    "title": "일반고 특화훈련",
-    "description": "일반고 특화훈련",
-    "fullLink": "goView('20250212005400110420');",
-    "link": "20250212005400110420"
+    "title": "대학 재학생 맞춤형 고용서비스",
+    "description": "대학 재학생 맞춤형 고용서비스",
+    "fullLink": "goView('20250207005400110410');",
+    "link": "20250207005400110410"
   },
   {
     "category": "일자리",
@@ -4050,34 +4082,18 @@
   {
     "category": "일자리",
     "region": "전국",
+    "title": "일반고 특화훈련",
+    "description": "일반고 특화훈련",
+    "fullLink": "goView('20250212005400110420');",
+    "link": "20250212005400110420"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
     "title": "청년일자리 강소기업 선정",
     "description": "청년일자리 강소기업 선정",
     "fullLink": "goView('20250212005400110434');",
     "link": "20250212005400110434"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "재도전성공패키지 일반형 (예비) 재창업기업 지원",
-    "description": "재도전성공패키지 일반형 (예비) 재창업기업 지원",
-    "fullLink": "goView('20250221005400110538');",
-    "link": "20250221005400110538"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "스타트업 해외전시회 참가기업 모집",
-    "description": "스타트업 해외전시회 참가기업 모집",
-    "fullLink": "goView('20250221005400110543');",
-    "link": "20250221005400110543"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "초기창업패키지 창업기업 모집",
-    "description": "초기창업패키지 창업기업 모집",
-    "fullLink": "goView('20250221005400110542');",
-    "link": "20250221005400110542"
   },
   {
     "category": "일자리",
@@ -4104,20 +4120,12 @@
     "link": "20250221005400110539"
   },
   {
-    "category": "교육",
+    "category": "일자리",
     "region": "전국",
-    "title": "마이스터대 지원",
-    "description": "마이스터대 지원",
-    "fullLink": "goView('20250227005400110566');",
-    "link": "20250227005400110566"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "청년주택드림청약통장",
-    "description": "청년주택드림청약통장",
-    "fullLink": "goView('20250226005400110565');",
-    "link": "20250226005400110565"
+    "title": "재도전성공패키지 일반형 (예비) 재창업기업 지원",
+    "description": "재도전성공패키지 일반형 (예비) 재창업기업 지원",
+    "fullLink": "goView('20250221005400110538');",
+    "link": "20250221005400110538"
   },
   {
     "category": "일자리",
@@ -4146,18 +4154,18 @@
   {
     "category": "일자리",
     "region": "전국",
-    "title": "지식재산 기반 창업촉진(IP 디딤돌 프로그램)",
-    "description": "지식재산 기반 창업촉진(IP 디딤돌 프로그램)",
-    "fullLink": "goView('20250310005400110605');",
-    "link": "20250310005400110605"
+    "title": "스타트업 해외전시회 참가기업 모집",
+    "description": "스타트업 해외전시회 참가기업 모집",
+    "fullLink": "goView('20250221005400110543');",
+    "link": "20250221005400110543"
   },
   {
-    "category": "복지.문화",
+    "category": "일자리",
     "region": "전국",
-    "title": "서울시 청년수당",
-    "description": "서울시 청년수당",
-    "fullLink": "goView('20250305005400110593');",
-    "link": "20250305005400110593"
+    "title": "초기창업패키지 창업기업 모집",
+    "description": "초기창업패키지 창업기업 모집",
+    "fullLink": "goView('20250221005400110542');",
+    "link": "20250221005400110542"
   },
   {
     "category": "교육",
@@ -4178,18 +4186,18 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "사회복무요원의 안정적 사회진출 지원",
-    "description": "사회복무요원의 안정적 사회진출 지원",
-    "fullLink": "goView('20250327005400110657');",
-    "link": "20250327005400110657"
+    "title": "마이스터대 지원",
+    "description": "마이스터대 지원",
+    "fullLink": "goView('20250227005400110566');",
+    "link": "20250227005400110566"
   },
   {
-    "category": "교육",
+    "category": "주거",
     "region": "전국",
-    "title": "의약품 규제업무 전문가 양성교육",
-    "description": "의약품 규제업무 전문가 양성교육",
-    "fullLink": "goView('20250321005400110646');",
-    "link": "20250321005400110646"
+    "title": "청년주택드림청약통장",
+    "description": "청년주택드림청약통장",
+    "fullLink": "goView('20250226005400110565');",
+    "link": "20250226005400110565"
   },
   {
     "category": "일자리",
@@ -4216,12 +4224,20 @@
     "link": "20250310005400110606"
   },
   {
-    "category": "주거",
+    "category": "일자리",
     "region": "전국",
-    "title": "강원형 공공주택 공급",
-    "description": "강원형 공공주택 공급",
-    "fullLink": "goView('20250502005400110773');",
-    "link": "20250502005400110773"
+    "title": "지식재산 기반 창업촉진(IP 디딤돌 프로그램)",
+    "description": "지식재산 기반 창업촉진(IP 디딤돌 프로그램)",
+    "fullLink": "goView('20250310005400110605');",
+    "link": "20250310005400110605"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
+    "title": "서울시 청년수당",
+    "description": "서울시 청년수당",
+    "fullLink": "goView('20250305005400110593');",
+    "link": "20250305005400110593"
   },
   {
     "category": "일자리",
@@ -4246,6 +4262,22 @@
     "description": "산림산업 창업지원_청년 산림창업 마중물 지원",
     "fullLink": "goView('20250331005400110677');",
     "link": "20250331005400110677"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "사회복무요원의 안정적 사회진출 지원",
+    "description": "사회복무요원의 안정적 사회진출 지원",
+    "fullLink": "goView('20250327005400110657');",
+    "link": "20250327005400110657"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "의약품 규제업무 전문가 양성교육",
+    "description": "의약품 규제업무 전문가 양성교육",
+    "fullLink": "goView('20250321005400110646');",
+    "link": "20250321005400110646"
   },
   {
     "category": "주거",
@@ -4280,12 +4312,12 @@
     "link": "20250613005400110924"
   },
   {
-    "category": "복지.문화",
+    "category": "일자리",
     "region": "전국",
-    "title": "1인 광고콘텐츠 창작자 지원",
-    "description": "1인 광고콘텐츠 창작자 지원",
-    "fullLink": "goView('20250617005400110997');",
-    "link": "20250617005400110997"
+    "title": "국가물산업클러스터 물기업 창업지원",
+    "description": "국가물산업클러스터 물기업 창업지원",
+    "fullLink": "goView('20250609005400110897');",
+    "link": "20250609005400110897"
   },
   {
     "category": "교육",
@@ -4320,14 +4352,6 @@
     "link": "20250514005400110813"
   },
   {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "청년 중심 마약류 중독예방 지원 확대",
-    "description": "청년 중심 마약류 중독예방 지원 확대",
-    "fullLink": "goView('20250618005400111016');",
-    "link": "20250618005400111016"
-  },
-  {
     "category": "교육",
     "region": "전국",
     "title": "인공지능반도체 분야 고급인재양성",
@@ -4360,12 +4384,12 @@
     "link": "20250618005400110998"
   },
   {
-    "category": "참여.권리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "DUO-Korea Fellowship 2025",
-    "description": "DUO-Korea Fellowship 2025",
-    "fullLink": "goView('20250619005400111077');",
-    "link": "20250619005400111077"
+    "title": "1인 광고콘텐츠 창작자 지원",
+    "description": "1인 광고콘텐츠 창작자 지원",
+    "fullLink": "goView('20250617005400110997');",
+    "link": "20250617005400110997"
   },
   {
     "category": "교육",
@@ -4402,10 +4426,10 @@
   {
     "category": "복지.문화",
     "region": "전국",
-    "title": "천원의아침밥",
-    "description": "천원의아침밥",
-    "fullLink": "goView('20250621005400111098');",
-    "link": "20250621005400111098"
+    "title": "청년 중심 마약류 중독예방 지원 확대",
+    "description": "청년 중심 마약류 중독예방 지원 확대",
+    "fullLink": "goView('20250618005400111016');",
+    "link": "20250618005400111016"
   },
   {
     "category": "교육",
@@ -4442,10 +4466,10 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "로컬크리에이터 육성",
-    "description": "로컬크리에이터 육성",
-    "fullLink": "goView('20250624005400111132');",
-    "link": "20250624005400111132"
+    "title": "DUO-Korea Fellowship 2025",
+    "description": "DUO-Korea Fellowship 2025",
+    "fullLink": "goView('20250619005400111077');",
+    "link": "20250619005400111077"
   },
   {
     "category": "일자리",
@@ -4482,6 +4506,14 @@
   {
     "category": "복지.문화",
     "region": "전국",
+    "title": "천원의아침밥",
+    "description": "천원의아침밥",
+    "fullLink": "goView('20250621005400111098');",
+    "link": "20250621005400111098"
+  },
+  {
+    "category": "복지.문화",
+    "region": "전국",
     "title": "병역의무자 마음건강 관리 지원",
     "description": "병역의무자 마음건강 관리 지원",
     "fullLink": "goView('20250609005400110890');",
@@ -4512,12 +4544,12 @@
     "link": "20250624005400111133"
   },
   {
-    "category": "교육",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "첨단분야 글로벌 인재육성(한미첨단분야청년교류지원)",
-    "description": "첨단분야 글로벌 인재육성(한미첨단분야청년교류지원)",
-    "fullLink": "goView('20250610005400110903');",
-    "link": "20250610005400110903"
+    "title": "로컬크리에이터 육성",
+    "description": "로컬크리에이터 육성",
+    "fullLink": "goView('20250624005400111132');",
+    "link": "20250624005400111132"
   },
   {
     "category": "일자리",
@@ -4550,14 +4582,6 @@
     "description": "고립은둔청년 지원 시범사업",
     "fullLink": "goView('20250609005400110894');",
     "link": "20250609005400110894"
-  },
-  {
-    "category": "일자리",
-    "region": "전국",
-    "title": "희망사다리장학금 1유형(중소기업 취업연계)",
-    "description": "희망사다리장학금 1유형(중소기업 취업연계)",
-    "fullLink": "goView('20250612005400110912');",
-    "link": "20250612005400110912"
   },
   {
     "category": "참여.권리",
@@ -4594,10 +4618,10 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "청년법조인 국제법무 전문인력 양성",
-    "description": "청년법조인 국제법무 전문인력 양성",
-    "fullLink": "goView('20250612005400110919');",
-    "link": "20250612005400110919"
+    "title": "첨단분야 글로벌 인재육성(한미첨단분야청년교류지원)",
+    "description": "첨단분야 글로벌 인재육성(한미첨단분야청년교류지원)",
+    "fullLink": "goView('20250610005400110903');",
+    "link": "20250610005400110903"
   },
   {
     "category": "일자리",
@@ -4624,12 +4648,20 @@
     "link": "20250612005400110913"
   },
   {
-    "category": "복지.문화",
+    "category": "일자리",
     "region": "전국",
-    "title": "빈곤 청년에 대한 근로인센티브 확대",
-    "description": "빈곤 청년에 대한 근로인센티브 확대",
-    "fullLink": "goView('20250617005400110946');",
-    "link": "20250617005400110946"
+    "title": "희망사다리장학금 1유형(중소기업 취업연계)",
+    "description": "희망사다리장학금 1유형(중소기업 취업연계)",
+    "fullLink": "goView('20250612005400110912');",
+    "link": "20250612005400110912"
+  },
+  {
+    "category": "참여.권리",
+    "region": "전국",
+    "title": "아세안 TVET 학생교류",
+    "description": "아세안 TVET 학생교류",
+    "fullLink": "goView('20250612005400110910');",
+    "link": "20250612005400110910"
   },
   {
     "category": "복지.문화",
@@ -4656,20 +4688,12 @@
     "link": "20250613005400110922"
   },
   {
-    "category": "일자리",
+    "category": "교육",
     "region": "전국",
-    "title": "디지털 스타트업 허브 조성",
-    "description": "디지털 스타트업 허브 조성",
-    "fullLink": "goView('20250618005400111000');",
-    "link": "20250618005400111000"
-  },
-  {
-    "category": "복지.문화",
-    "region": "전국",
-    "title": "문화비(체육시설 이용료 등) 소득공제",
-    "description": "문화비(체육시설 이용료 등) 소득공제",
-    "fullLink": "goView('20250617005400110987');",
-    "link": "20250617005400110987"
+    "title": "청년법조인 국제법무 전문인력 양성",
+    "description": "청년법조인 국제법무 전문인력 양성",
+    "fullLink": "goView('20250612005400110919');",
+    "link": "20250612005400110919"
   },
   {
     "category": "교육",
@@ -4688,20 +4712,12 @@
     "link": "20250617005400110950"
   },
   {
-    "category": "교육",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "ICT 석박사 인재의 글로벌 연구 역량 강화",
-    "description": "ICT 석박사 인재의 글로벌 연구 역량 강화",
-    "fullLink": "goView('20250618005400111007');",
-    "link": "20250618005400111007"
-  },
-  {
-    "category": "주거",
-    "region": "전국",
-    "title": "공유주택 펀드투자",
-    "description": "공유주택 펀드투자",
-    "fullLink": "goView('20250618005400111006');",
-    "link": "20250618005400111006"
+    "title": "빈곤 청년에 대한 근로인센티브 확대",
+    "description": "빈곤 청년에 대한 근로인센티브 확대",
+    "fullLink": "goView('20250617005400110946');",
+    "link": "20250617005400110946"
   },
   {
     "category": "주거",
@@ -4728,20 +4744,20 @@
     "link": "20250618005400111001"
   },
   {
-    "category": "참여.권리",
+    "category": "일자리",
     "region": "전국",
-    "title": "WFK IT봉사단",
-    "description": "WFK IT봉사단",
-    "fullLink": "goView('20250618005400111023');",
-    "link": "20250618005400111023"
+    "title": "디지털 스타트업 허브 조성",
+    "description": "디지털 스타트업 허브 조성",
+    "fullLink": "goView('20250618005400111000');",
+    "link": "20250618005400111000"
   },
   {
-    "category": "참여.권리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "WFK KOICA 프로젝트봉사단",
-    "description": "WFK KOICA 프로젝트봉사단",
-    "fullLink": "goView('20250618005400111021');",
-    "link": "20250618005400111021"
+    "title": "문화비(체육시설 이용료 등) 소득공제",
+    "description": "문화비(체육시설 이용료 등) 소득공제",
+    "fullLink": "goView('20250617005400110987');",
+    "link": "20250617005400110987"
   },
   {
     "category": "참여.권리",
@@ -4768,20 +4784,20 @@
     "link": "20250618005400111008"
   },
   {
-    "category": "참여.권리",
+    "category": "교육",
     "region": "전국",
-    "title": "WFK 청년봉사단(한국대학사회봉사협의회)",
-    "description": "WFK 청년봉사단(한국대학사회봉사협의회)",
-    "fullLink": "goView('20250618005400111028');",
-    "link": "20250618005400111028"
+    "title": "ICT 석박사 인재의 글로벌 연구 역량 강화",
+    "description": "ICT 석박사 인재의 글로벌 연구 역량 강화",
+    "fullLink": "goView('20250618005400111007');",
+    "link": "20250618005400111007"
   },
   {
-    "category": "참여.권리",
+    "category": "주거",
     "region": "전국",
-    "title": "WFK 청년봉사단(태평양아시아협회)",
-    "description": "WFK 청년봉사단(태평양아시아협회)",
-    "fullLink": "goView('20250618005400111027');",
-    "link": "20250618005400111027"
+    "title": "공유주택 펀드투자",
+    "description": "공유주택 펀드투자",
+    "fullLink": "goView('20250618005400111006');",
+    "link": "20250618005400111006"
   },
   {
     "category": "참여.권리",
@@ -4810,18 +4826,18 @@
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "WFK NGO봉사단",
-    "description": "WFK NGO봉사단",
-    "fullLink": "goView('20250618005400111039');",
-    "link": "20250618005400111039"
+    "title": "WFK IT봉사단",
+    "description": "WFK IT봉사단",
+    "fullLink": "goView('20250618005400111023');",
+    "link": "20250618005400111023"
   },
   {
     "category": "참여.권리",
     "region": "전국",
-    "title": "WFK NIPA자문단",
-    "description": "WFK NIPA자문단",
-    "fullLink": "goView('20250618005400111038');",
-    "link": "20250618005400111038"
+    "title": "WFK KOICA 프로젝트봉사단",
+    "description": "WFK KOICA 프로젝트봉사단",
+    "fullLink": "goView('20250618005400111021');",
+    "link": "20250618005400111021"
   },
   {
     "category": "참여.권리",
@@ -4848,20 +4864,20 @@
     "link": "20250618005400111029"
   },
   {
-    "category": "교육",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "전문대학 글로벌 현장학습",
-    "description": "전문대학 글로벌 현장학습",
-    "fullLink": "goView('20250619005400111065');",
-    "link": "20250619005400111065"
+    "title": "WFK 청년봉사단(한국대학사회봉사협의회)",
+    "description": "WFK 청년봉사단(한국대학사회봉사협의회)",
+    "fullLink": "goView('20250618005400111028');",
+    "link": "20250618005400111028"
   },
   {
-    "category": "복지.문화",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "청년·대학생 햇살론(햇살론유스)",
-    "description": "청년·대학생 햇살론(햇살론유스)",
-    "fullLink": "goView('20250619005400111064');",
-    "link": "20250619005400111064"
+    "title": "WFK 청년봉사단(태평양아시아협회)",
+    "description": "WFK 청년봉사단(태평양아시아협회)",
+    "fullLink": "goView('20250618005400111027');",
+    "link": "20250618005400111027"
   },
   {
     "category": "교육",
@@ -4888,20 +4904,20 @@
     "link": "20250618005400111040"
   },
   {
-    "category": "교육",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "한·일대학생연수",
-    "description": "한·일대학생연수",
-    "fullLink": "goView('20250619005400111071');",
-    "link": "20250619005400111071"
+    "title": "WFK NGO봉사단",
+    "description": "WFK NGO봉사단",
+    "fullLink": "goView('20250618005400111039');",
+    "link": "20250618005400111039"
   },
   {
-    "category": "교육",
+    "category": "참여.권리",
     "region": "전국",
-    "title": "(청년 금융교육 지원) 대학생 금융교육봉사단",
-    "description": "(청년 금융교육 지원) 대학생 금융교육봉사단",
-    "fullLink": "goView('20250619005400111070');",
-    "link": "20250619005400111070"
+    "title": "WFK NIPA자문단",
+    "description": "WFK NIPA자문단",
+    "fullLink": "goView('20250618005400111038');",
+    "link": "20250618005400111038"
   },
   {
     "category": "교육",
@@ -4930,18 +4946,18 @@
   {
     "category": "교육",
     "region": "전국",
-    "title": "청년귀농 장기교육",
-    "description": "청년귀농 장기교육",
-    "fullLink": "goView('20250621005400111088');",
-    "link": "20250621005400111088"
+    "title": "전문대학 글로벌 현장학습",
+    "description": "전문대학 글로벌 현장학습",
+    "fullLink": "goView('20250619005400111065');",
+    "link": "20250619005400111065"
   },
   {
-    "category": "교육",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "직업계고 채용연계형 직무교육과정 지원",
-    "description": "직업계고 채용연계형 직무교육과정 지원",
-    "fullLink": "goView('20250620005400111087');",
-    "link": "20250620005400111087"
+    "title": "청년·대학생 햇살론(햇살론유스)",
+    "description": "청년·대학생 햇살론(햇살론유스)",
+    "fullLink": "goView('20250619005400111064');",
+    "link": "20250619005400111064"
   },
   {
     "category": "교육",
@@ -4970,6 +4986,78 @@
   {
     "category": "교육",
     "region": "전국",
+    "title": "한·일대학생연수",
+    "description": "한·일대학생연수",
+    "fullLink": "goView('20250619005400111071');",
+    "link": "20250619005400111071"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "(청년 금융교육 지원) 대학생 금융교육봉사단",
+    "description": "(청년 금융교육 지원) 대학생 금융교육봉사단",
+    "fullLink": "goView('20250619005400111070');",
+    "link": "20250619005400111070"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "선임대후매도",
+    "description": "선임대후매도",
+    "fullLink": "goView('20250621005400111092');",
+    "link": "20250621005400111092"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "공공임대용 농지매입",
+    "description": "공공임대용 농지매입",
+    "fullLink": "goView('20250621005400111091');",
+    "link": "20250621005400111091"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "청년귀농 장기교육",
+    "description": "청년귀농 장기교육",
+    "fullLink": "goView('20250621005400111088');",
+    "link": "20250621005400111088"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "직업계고 채용연계형 직무교육과정 지원",
+    "description": "직업계고 채용연계형 직무교육과정 지원",
+    "fullLink": "goView('20250620005400111087');",
+    "link": "20250620005400111087"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "제약 스마트공장 혁신기술 인재 양성",
+    "description": "제약 스마트공장 혁신기술 인재 양성",
+    "fullLink": "goView('20250620005400111085');",
+    "link": "20250620005400111085"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "청년 SW개발자 커뮤니티 지원 및 멘토단 구성",
+    "description": "청년 SW개발자 커뮤니티 지원 및 멘토단 구성",
+    "fullLink": "goView('20250623005400111104');",
+    "link": "20250623005400111104"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "대학창업펀드 조성",
+    "description": "대학창업펀드 조성",
+    "fullLink": "goView('20250623005400111103');",
+    "link": "20250623005400111103"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
     "title": "현장실습 지원",
     "description": "현장실습 지원",
     "fullLink": "goView('20250621005400111102');",
@@ -4992,20 +5080,20 @@
     "link": "20250621005400111097"
   },
   {
-    "category": "일자리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "선임대후매도",
-    "description": "선임대후매도",
-    "fullLink": "goView('20250621005400111092');",
-    "link": "20250621005400111092"
+    "title": "청년 1인가구 사회적 관계망 형성 지원",
+    "description": "청년 1인가구 사회적 관계망 형성 지원",
+    "fullLink": "goView('20250623005400111114');",
+    "link": "20250623005400111114"
   },
   {
-    "category": "일자리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "공공임대용 농지매입",
-    "description": "공공임대용 농지매입",
-    "fullLink": "goView('20250621005400111091');",
-    "link": "20250621005400111091"
+    "title": "청년한부모 자립 지원(추가아동양육비 지원)",
+    "description": "청년한부모 자립 지원(추가아동양육비 지원)",
+    "fullLink": "goView('20250623005400111112');",
+    "link": "20250623005400111112"
   },
   {
     "category": "일자리",
@@ -5032,20 +5120,20 @@
     "link": "20250623005400111106"
   },
   {
-    "category": "교육",
-    "region": "전국",
-    "title": "청년 SW개발자 커뮤니티 지원 및 멘토단 구성",
-    "description": "청년 SW개발자 커뮤니티 지원 및 멘토단 구성",
-    "fullLink": "goView('20250623005400111104');",
-    "link": "20250623005400111104"
-  },
-  {
     "category": "일자리",
     "region": "전국",
-    "title": "대학창업펀드 조성",
-    "description": "대학창업펀드 조성",
-    "fullLink": "goView('20250623005400111103');",
-    "link": "20250623005400111103"
+    "title": "벤처기업경쟁력강화사업",
+    "description": "벤처기업경쟁력강화사업",
+    "fullLink": "goView('20250623005400111120');",
+    "link": "20250623005400111120"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "스마트제조인력양성",
+    "description": "스마트제조인력양성",
+    "fullLink": "goView('20250623005400111119');",
+    "link": "20250623005400111119"
   },
   {
     "category": "복지.문화",
@@ -5072,20 +5160,20 @@
     "link": "20250623005400111116"
   },
   {
-    "category": "복지.문화",
+    "category": "일자리",
     "region": "전국",
-    "title": "청년 1인가구 사회적 관계망 형성 지원",
-    "description": "청년 1인가구 사회적 관계망 형성 지원",
-    "fullLink": "goView('20250623005400111114');",
-    "link": "20250623005400111114"
+    "title": "TIPS(팁스) 프로그램",
+    "description": "TIPS(팁스) 프로그램",
+    "fullLink": "goView('20250624005400111127');",
+    "link": "20250624005400111127"
   },
   {
-    "category": "복지.문화",
+    "category": "일자리",
     "region": "전국",
-    "title": "청년한부모 자립 지원(추가아동양육비 지원)",
-    "description": "청년한부모 자립 지원(추가아동양육비 지원)",
-    "fullLink": "goView('20250623005400111112');",
-    "link": "20250623005400111112"
+    "title": "방위산업 전문인력 양성 지원사업",
+    "description": "방위산업 전문인력 양성 지원사업",
+    "fullLink": "goView('20250624005400111124');",
+    "link": "20250624005400111124"
   },
   {
     "category": "일자리",
@@ -5112,20 +5200,12 @@
     "link": "20250623005400111121"
   },
   {
-    "category": "일자리",
+    "category": "복지.문화",
     "region": "전국",
-    "title": "벤처기업경쟁력강화사업",
-    "description": "벤처기업경쟁력강화사업",
-    "fullLink": "goView('20250623005400111120');",
-    "link": "20250623005400111120"
-  },
-  {
-    "category": "교육",
-    "region": "전국",
-    "title": "스마트제조인력양성",
-    "description": "스마트제조인력양성",
-    "fullLink": "goView('20250623005400111119');",
-    "link": "20250623005400111119"
+    "title": "위기청년 자립지원(시설퇴소청소년 자립지원수당 지원)",
+    "description": "위기청년 자립지원(시설퇴소청소년 자립지원수당 지원)",
+    "fullLink": "goView('20250625005400111134');",
+    "link": "20250625005400111134"
   },
   {
     "category": "일자리",
@@ -5160,14 +5240,6 @@
     "link": "20250624005400111128"
   },
   {
-    "category": "일자리",
-    "region": "전국",
-    "title": "TIPS(팁스) 프로그램",
-    "description": "TIPS(팁스) 프로그램",
-    "fullLink": "goView('20250624005400111127');",
-    "link": "20250624005400111127"
-  },
-  {
     "category": "복지.문화",
     "region": "전국",
     "title": "이주배경청년(청소년)지원",
@@ -5200,11 +5272,43 @@
     "link": "20250625005400111135"
   },
   {
+    "category": "일자리",
+    "region": "전국",
+    "title": "마을기업 육성사업",
+    "description": "마을기업 육성사업",
+    "fullLink": "goView('20250704005400111154');",
+    "link": "20250704005400111154"
+  },
+  {
+    "category": "일자리",
+    "region": "전국",
+    "title": "2025 방위산업 채용정보 박람회",
+    "description": "2025 방위산업 채용정보 박람회",
+    "fullLink": "goView('20250624005400111125');",
+    "link": "20250624005400111125"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "산림산업 현장 맞춤형 인재양성(R&D)",
+    "description": "산림산업 현장 맞춤형 인재양성(R&D)",
+    "fullLink": "goView('20250702005400111145');",
+    "link": "20250702005400111145"
+  },
+  {
+    "category": "교육",
+    "region": "전국",
+    "title": "디지털정부 Young Frontier 교육",
+    "description": "디지털정부 Young Frontier 교육",
+    "fullLink": "goView('20250702005400111144');",
+    "link": "20250702005400111144"
+  },
+  {
     "category": "복지.문화",
     "region": "전국",
-    "title": "위기청년 자립지원(시설퇴소청소년 자립지원수당 지원)",
-    "description": "위기청년 자립지원(시설퇴소청소년 자립지원수당 지원)",
-    "fullLink": "goView('20250625005400111134');",
-    "link": "20250625005400111134"
+    "title": "청년 1인가구 사회적관계망 형성지원",
+    "description": "청년 1인가구 사회적관계망 형성지원",
+    "fullLink": "goView('20250627005400111140');",
+    "link": "20250627005400111140"
   }
 ]
